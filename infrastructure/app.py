@@ -8,7 +8,7 @@ from infrastructure.infrastructure_stack import InfrastructureStack
 app = cdk.App()
 InfrastructureStack(
     app,
-    "InfrastructureStack",
+    "FOSS4G2023Stack",
     env=cdk.Environment(account="760327784017", region="ap-southeast-2"),
 )
 
