@@ -1,19 +1,32 @@
-import React from "react";
+import { useState, useEffect } from 'react'
+import Markdown from 'markdown-to-jsx';
+
+import CodeOfConduct from '../documents/code-of-conduct.md';
 
 const Home = () => {
+
+  const [cocText, setCocText] = useState('')
+
+  console.log(CodeOfConduct);
+
+  // Fetch Terms of Use
+	useEffect(() => {
+		fetch(CodeOfConduct).then(res => res.text()).then(text => setCocText(text))
+	})
+
     return (
         <div >
 <section 
   style={{ 
-    backgroundImage: "url('/imgs/auk_data.png')", 
+    backgroundImage: "url('/imgs/auk_data_2.png')", 
     backgroundSize: 'cover', 
-    backgroundPosition: 'center -60px' 
+    backgroundPosition: 'center 0px' 
   }}
 >
-  <div className="relative grid w-full h-96 lg:h-[32rem] place-items-center">
+  <div className="relative grid w-full h-96 lg:h-[34rem] place-items-center">
     <div className="flex flex-col items-center mx-auto text-center">
-      <h1 className="text-4xl font-semibold text-white uppercase md:text-6xl">Hero Header</h1>
-      <p className="mt-6 text-lg leading-5 text-white">The best in town.</p>
+      <h1 className="rounded-full bg-white bg-opacity-50 p-4 padding text-4xl font-semibold text-white uppercase md:text-6xl"> <img src="/imgs/FOSS4G_2023_Logo_Colour.png" alt="FOSS4G 2023" className="w-28 h-28 md:w-64 md:h-64" /> </h1>
+      <p className="bg-sky-600 bg-opacity-50 p-2 mt-6 text-2xl leading-5 text-white">Auckland. November 12-15, 2023.</p>
 
 <a href="#about" className="mt-8 cursor-pointer animate-bounce">
   <svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -185,6 +198,9 @@ const Home = () => {
               <a href="#" className="inline-block mt-4 text-indigo-500 underline hover:text-indigo-400">Read more</a>
             </div>
           </div>
+          <div>
+          <Markdown children={cocText} />
+        </div>
         </section>
 
         </div>
