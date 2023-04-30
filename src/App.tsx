@@ -1,9 +1,9 @@
-import { BrowserRouter, Routes, Route, useSearchParams } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from './pages/Layout';
 import Home from './pages/Home';
 import CodeOfConductPage from "./pages/CodeOfConduct";
 // import Gallery from './pages/Gallery';
-import RSVP from './pages/RSVP';
+// import RSVP from './pages/RSVP';
 // import Program from './pages/Program';
 // import Contact from './pages/Contact';
 import NoPage from './pages/NoPage';
