@@ -19,8 +19,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm install yarn
-          yarn install
+          yarn install --immutable --immutable-cache --check-cache
           npm run build
 
       - name: Deploy 🚀
