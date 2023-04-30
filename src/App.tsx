@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, useSearchParams } from "react-router-dom";
 import Layout from './pages/Layout';
 import Home from './pages/Home';
+import CodeOfConductPage from "./pages/CodeOfConduct";
 // import Gallery from './pages/Gallery';
 import RSVP from './pages/RSVP';
 // import Program from './pages/Program';
@@ -21,7 +22,7 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           {/* <Route path="gallery" element={<Gallery />} /> */}
-          <Route path="rsvp" element={<RSVP  />} />
+          <Route path="code-of-conduct" element={<CodeOfConductPage  />} />
           <Route path="details" element={<Details  />} />
           <Route path="thank-you" element={<ThankYou  />} />
           {/* <Route path="program" element={<Program />} />

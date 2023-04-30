@@ -21,13 +21,13 @@ const Header = () => {
               </span>
           </button>
           <div className={`${menuOpen ? 'translate-x-0 opacity-100' : 'opacity-0 -translate-x-full'} absolute inset-x-0 z-30 w-full px-6 py-8 mt-4 space-y-6 transition-all duration-300 ease-in-out bg-blue-950 top-16 md:mt-0 md:p-0 md:top-0 md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center md:justify-center`}>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Home</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">The Event</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Buy Tickets</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Program</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Sponsors</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Code of Conduct</a>
-              <a href="#" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Contact</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Home</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">The Event</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Buy Tickets</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Program</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Sponsors</a>
+              <a href="/code-of-conduct" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Code of Conduct</a>
+              <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Contact</a>
           </div>
       </nav>
   </header>
