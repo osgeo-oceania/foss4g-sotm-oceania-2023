@@ -1,6 +1,6 @@
 <!-- place hold for parent page 'Call for papers' currently copied from Prizen and some amended -->
 
-# Present#
+# Present
 Proposals for workshops and presentations follow two separate processes, please read on for more details about submitting for each stream.
 
 ## Call for Presentations
