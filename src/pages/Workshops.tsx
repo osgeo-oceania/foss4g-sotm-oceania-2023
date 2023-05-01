@@ -1,16 +1,18 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import CodeOfConduct from "../documents/code-of-conduct.md";
+import MarkDownDoc from "../documents/workshops.md";
 
-const CodeOfConductPage = () => {
-  const [cocText, setCocText] = useState("");
+import Blockquote from "../components/Blockquote";
+
+const WorkshopsPage = () => {
+  const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(CodeOfConduct)
+    fetch(MarkDownDoc)
       .then((res) => res.text())
-      .then((text) => setCocText(text));
+      .then((text) => setMddText(text));
   });
 
   return (
@@ -50,13 +52,22 @@ const CodeOfConductPage = () => {
                     className: "list-disc list-outside ms-8",
                   },
                 },
+                blockquote: {
+                    component: Blockquote,
+                },
+                a: {
+                  props: {
+                    className: "text-blue-500 underline",
+                    target: "_blank",
+                  },
+                }
               },
             }}
-            children={cocText}
+            children={mddText}
           />
         </div>
       </section>
     </>
   );
 };
-export default CodeOfConductPage;
+export default WorkshopsPage;
