@@ -1,6 +1,7 @@
 # Style #
 - Font: as per [2019 foss4g oceania conference](https://2019.foss4g-oceania.org/attend/)
-  Nort sure I scraped it right:
+  
+  Not sure I scraped it right:
   - margin: 0;
   - font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   - font-size: 16px;
