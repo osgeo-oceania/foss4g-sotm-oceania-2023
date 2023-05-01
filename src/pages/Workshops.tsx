@@ -19,9 +19,9 @@ const WorkshopsPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/office_with_paper_work.png')",
+          backgroundImage: "url('/imgs/workshop.jpg')",
           backgroundSize: "cover",
-          backgroundPosition: "center -650px",
+          backgroundPosition: "center 0px",
         }}
         className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
       ></section>
