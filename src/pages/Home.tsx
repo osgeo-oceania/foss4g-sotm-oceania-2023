@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import Markdown from 'markdown-to-jsx';
+import { HashLink } from 'react-router-hash-link';
 
 import AboutFoss4g from '../documents/about-foss4g-sotm-oceania.md';
 
@@ -26,12 +27,12 @@ const Home = () => {
             <h1 className="rounded-full bg-white bg-opacity-50 p-4 padding text-4xl font-semibold text-white uppercase md:text-6xl"> <img src="/imgs/FOSS4G_2023_Logo_Colour.png" alt="FOSS4G 2023" className="w-28 h-28 md:w-64 md:h-64" /> </h1>
             <p className="bg-sky-600 bg-opacity-50 p-2 mt-6 text-2xl leading-5 text-white">Auckland. October 16-20, 2023.</p>
 
-            <a href="#about" className="mt-8 cursor-pointer animate-bounce">
+            <HashLink className="mt-8 cursor-pointer animate-bounce" to="/#about">
               <svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="27" cy="26" r="18" stroke="white" strokeWidth="2" />
                 <path d="M22.41 23.2875L27 27.8675L31.59 23.2875L33 24.6975L27 30.6975L21 24.6975L22.41 23.2875Z" fill="white" />
               </svg>
-            </a>
+            </HashLink>
           </div>
         </div>
       </section>
