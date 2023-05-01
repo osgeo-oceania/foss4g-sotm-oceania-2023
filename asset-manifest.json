@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f0391816.css",
-    "main.js": "/static/js/main.94262301.js",
+    "main.js": "/static/js/main.c69d0507.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.4c2b79d71f36a2e331b8.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.c608f927547b90df224c.md",
     "index.html": "/index.html",
     "main.f0391816.css.map": "/static/css/main.f0391816.css.map",
-    "main.94262301.js.map": "/static/js/main.94262301.js.map",
+    "main.c69d0507.js.map": "/static/js/main.c69d0507.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0391816.css",
-    "static/js/main.94262301.js"
+    "static/js/main.c69d0507.js"
   ]
 }
