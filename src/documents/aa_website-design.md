@@ -39,11 +39,11 @@
 ## PRESENT ##
 - description: this is the parent page
 - document: [call-for-papers.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/call-for-papers.md)
-- status: peer review and publish
+- status: **peer review and publish**
 ### Workshops ###
 - description:
 - document: [workshops.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/workshops.md)
-- status:created
+- status: **created**
 ## SPONSOR ##
 - description: as per [2019 sponsor page](https://2019.foss4g-oceania.org/sponsor/)
 - document: [sponsor.md]()
@@ -116,7 +116,7 @@
 ## CODE OF CONDUCT ##
 - description:
 - document: [code-of-conduct.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/code-of-conduct.md)
-- status: created
+- status: **created**
 ## SIGN IN ##
 - description: this is a facility that allows people to create their own schedule - I think it links to the pretalx. It has been taken from the 2019 Wellington website
 - document: [x.md]()
