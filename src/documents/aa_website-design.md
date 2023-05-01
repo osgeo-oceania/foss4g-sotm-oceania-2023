@@ -4,36 +4,36 @@
 # Structure #
 ## ABOUT ##
 - description:
-- document: x.md
+- document: [about.md]()
 - status: not created
 ## ATTEND ##
 - description: Intro page
-- document: attend.md
+- document: [attend.md]()
 - status: not created
 ### Register ###
 - description:
-- document: register.md
+- document: [register.md]()
 - status: not created
 ### Book a workshop ###
 - description:
-- document: book-workshop.md
+- document: [book-workshop.md]()
 - status: not created
 ### Conference dinner ###
 - description:
-- document: conference-dinner.md
+- document: [conference-dinner.md]()
 - status: not created
 ### Get social ###
 - description:
   - links to social accounts: linkedIn, Twitter, FB, Insta, Slack
-- document: social.md
+- document: [social.md]()
 - status: not created
 ### Travel ###
 - description:
-- document: travel.md
+- document: [travel.md]()
 - status: not created
 ### Accommodation ###
 - description:
-- document: accommodation.md
+- document: [accommodation.md]()
 - status: not created
 ## PRESENT ##
 - description: this is the parent page
@@ -44,37 +44,79 @@
 - document: [workshops.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/workshops.md)
 - status:created
 ## SPONSOR ##
-- description:
-- document: sponsor.md
+- description: as per [2019 sponsor page](https://2019.foss4g-oceania.org/sponsor/)
+- document: [sponsor.md]()
 - status: not created
 ## PROGRAM ##
-### x ###
-- description:
-- document: x.md
+- description: like the outline page from [Firenze](https://2022.foss4g.org/program-outline.php) and the links take you to the pretalx links
+  -  Powhiri - will the details for this sit in the pretalx or on the website? 
+  -  general outline in table without the details of the schedule but with links to relative pages
+    -   Powhiri
+    -   Workshop on monday
+    -   Ice-breaker
+    -   Opening ceremony details
+    -   Presentations on Tues-Thus
+    -   Unconference
+    -   Dinner on Wednesday night
+      -    late start on Thursday
+    -   Birds of a feather dinners
+    -   Breakfast events
+    -   Community Day 
+- document: [program.md]()
 - status: not created
-"/program/", text: "Program"
-"/program/schedule/", text: "Schedule"
-"/program/keynote-speakers/", text: "Keynote speakers"
-"/program/speakers/", text: "Speakers"
-"/program/unconference/", text: "Unconference Session"
-"/program/lightning-talks/", text: "Lightning talks"
-"/program/workshops.md/", text: "Workshops"
-
-"/program/panel/", text: "Panel"
-"/program/showcase/", text: "Spatial Showcase"
-## ORGANISERS ##
+### Schedule ###
+- description: 
+  - links to pretalx general schedule (Tues-Thurs)
+  - this will be linked to the pretalx schedule - not sure if this is correct - check with Jonah. Also check the [2019 schedule page](https://2019.foss4g-oceania.org/schedule/) although I found this a little clunky.
+- document: [pretalx schedule](https://talks.osgeo.org/api/events/foss4g-sotm-oceania-2023/)
+- status: not created
+### Keynote speakers ###
+- description: 
+  - need to create cards for each of the keynote speakers
+  - links to pretalx keynote schedule
+- document: [keynote-speakers.md]()
+- status: not created
+### Speakers ###
+- description: links to the speakers page as per [2019 speakers page](https://2019.foss4g-oceania.org/speakers/)
+- document: [pretalx speakers page](https://talks.osgeo.org/api/events/foss4g-sotm-oceania-2023/)
+- status: not created
+### Unconference session ###
+- description: this is to cover Wednesday morning's activity and requires some explantation
+- document: [unconference-session.md]()
+- status: not created
+### Lightning talks ###
+- description: links to pretalx
+- document: [pretalx lightning talks schedule]()
+- status: not created
+### Workshops ###
+- description: links to pre-talx
+  - this is the schedule of workshops
+  - will show the current status of each workshop (open/full or number of places left - link to tito or booking system)
+  - links to pretalx workshop site
+- document: [workshops-schedule.md]()
+- status: not created
+### Panel ###
 - description:
-- document: x.md
+- document: [panel.md]()
+- status: not created
+### Spatial Showcase ###
+- description: this is under discussion re inclusion - but could link to SOAR with all the foss4goceania tagged maps
+- document: [spatial-showcase.md]()
+- status: not created
+## ORGANISERS ##
+- description: as per [2019 page](https://2019.foss4g-oceania.org/team/)
+  - it looks like this has been taken from the speakers page 
+- document: [organisers.md]()
 - status: not created
 ## NEWS ##
 - description:
-- document: x.md
+- document: [news.md]()
 - status: not created
 ## CODE OF CONDUCT ##
 - description:
-- document: code-of-conduct.md
+- document: [code-of-conduct.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/code-of-conduct.md)
 - status: created
 ## SIGN IN ##
 - description: this is a facility that allows people to create their own schedule - I think it links to the pretalx. It has been taken from the 2019 Wellington website
-- document: x.md
+- document: [x.md]()
 - status: not created
