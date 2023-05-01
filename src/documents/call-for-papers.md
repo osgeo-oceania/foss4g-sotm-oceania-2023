@@ -17,7 +17,7 @@ All applications must be received by midnight 31st May (NZ Standard Time).
 
 > [Submit your presentation](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp)
 <!-- the workshop link below will need to be updated -->
-> Do you wish to submit a Workshop? Check out the submission details [here](workshops.md)
+> *Do you wish to submit a **Workshop**? Check out the submission details [here](workshops.md)*
 
 ### Tips for speakers
 
