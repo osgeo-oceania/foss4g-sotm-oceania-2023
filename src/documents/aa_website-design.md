@@ -1,9 +1,10 @@
 # Style #
-- Font: as per 2019 foss4g oceania conference
+- Font: as per [2019 foss4g oceania conference](https://2019.foss4g-oceania.org/attend/)
+  Nort sure I scraped it right:
   - margin: 0;
   - font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  -  font-size: 16px;
-  -  line-height: 1.5;
+  - font-size: 16px;
+  - line-height: 1.5;
 - All pages to be in UPPERCASE
 - All sub-pages to be Lowercase (with the first letter of the first word to be a capital)
 # Structure #
