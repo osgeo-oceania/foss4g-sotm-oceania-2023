@@ -15,7 +15,7 @@ We want you to share your fascinating stories about open source geospatial, open
 
 All applications must be received by midnight 31st May (NZ Standard Time).
 
-> [Submit your presentation](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp)
+> [Submit your presentation or lightning talk](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp)
 <!-- the workshop link below will need to be updated -->
 > *Do you wish to submit a **Workshop**? Check out the submission details [here](workshops.md)*
 
