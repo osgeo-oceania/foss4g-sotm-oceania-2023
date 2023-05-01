@@ -1,4 +1,5 @@
 # Style #
+- Font: as per 2019 foss4g oceania conference
 - All pages to be in UPPERCASE
 - All sub-pages to be Lowercase (with the first letter of the first word to be a capital)
 # Structure #
