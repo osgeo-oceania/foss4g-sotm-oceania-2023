@@ -1,6 +1,6 @@
 <!-- page status: 
 - please review for spelling and syntax
-- please publish-->
+-->
 
 # Present
 We are pleased to open our Call for Presentations and Workshops. FOSS4G SotM Oceania brings geospatial professionals, software developers and users from around the region, for 5 days of workshops, talks and activities. 
