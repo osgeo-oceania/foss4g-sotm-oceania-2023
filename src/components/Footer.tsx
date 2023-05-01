@@ -34,7 +34,7 @@ const Footer = () => {
                 </div>
                 <div>
                   <h3 className="text-gray-700 uppercase dark:text-white">Event Resources</h3>
-                  <a href="/code-of-conduct" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Code Of Conduct</a>
+                  <a href="/#/code-of-conduct" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Code Of Conduct</a>
                 </div>
                 <div>
                   <h3 className="text-gray-700 uppercase dark:text-white">Contact</h3>
