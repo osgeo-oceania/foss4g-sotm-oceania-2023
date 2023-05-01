@@ -26,7 +26,7 @@ const Header = () => {
               <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Buy Tickets</a>
               <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Program</a>
               <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Sponsors</a> */}
-              <a href="/code-of-conduct" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Code of Conduct</a>
+              <a href="#/code-of-conduct" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Code of Conduct</a>
               {/* <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Contact</a> */}
           </div>
       </nav>
