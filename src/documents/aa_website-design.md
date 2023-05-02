@@ -26,7 +26,7 @@
 ### Travel Grant Program ###
 - description:
 - document: [tgp.md]()
-- status: nyc
+- status: created
 ### Book a workshop ###
 - description:
 - document: [book-workshop.md]()
