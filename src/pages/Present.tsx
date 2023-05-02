@@ -19,7 +19,7 @@ const PresentPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/presnt.png')",
+          backgroundImage: "url('/imgs/present_crop_01.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}

@@ -19,7 +19,7 @@ const WorkshopsPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/workshop.jpg')",
+          backgroundImage: "url('/imgs/workshop_crop_01.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
