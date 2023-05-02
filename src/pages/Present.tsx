@@ -1,23 +1,25 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import CodeOfConduct from "../documents/code-of-conduct.md";
+import CallForPapers from "../documents/call-for-papers.md";
 
-const CodeOfConductPage = () => {
-  const [cocText, setCocText] = useState("");
+import Blockquote from "../components/Blockquote";
+
+const PresentPage = () => {
+  const [cfpText, setCfpText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(CodeOfConduct)
+    fetch(CallForPapers)
       .then((res) => res.text())
-      .then((text) => setCocText(text));
+      .then((text) => setCfpText(text));
   });
 
   return (
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/office_with_paper_work.png')",
+          backgroundImage: "url('/imgs/present_crop_01.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
@@ -50,13 +52,22 @@ const CodeOfConductPage = () => {
                     className: "list-disc list-outside ms-8",
                   },
                 },
+                blockquote: {
+                    component: Blockquote,
+                },
+                a: {
+                  props: {
+                    className: "text-blue-500 underline",
+                    target: "_blank",
+                  },
+                }
               },
             }}
-            children={cocText}
+            children={cfpText}
           />
         </div>
       </section>
     </>
   );
 };
-export default CodeOfConductPage;
+export default PresentPage;
