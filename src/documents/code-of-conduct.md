@@ -58,7 +58,7 @@ Harassment and other exclusionary behaviour are not acceptable. <br />
 ### Reporting Guidelines
 If you believe someone is breaking this code of conduct, you may reply to them, and point to this code of conduct. Such messages may be in public or in private, whatever is most appropriate. Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion. Should there be difficulties in dealing with the situation, you may report your concerns to event staff, a forum leader or the OSGeo Board. Serious or persistent offenders may be expelled from the event or forum by event organizers or forum leaders.
 <br /><br />
-To privately email the code of conduct committee leadership use <a href="mailto:coc@osgeo.org" target="_blank" className="text-gray-600 dark:text-gray-500 hover:underline">coc@osgeo.org</a>.
+To privately email the code of conduct committee leadership use [coc@osgeo.org](mailto:coc@osgeo.org).
 <br /><br />
 ## Contact Information
-You can email the FOSS4G Oceania organizing team with any concerns at <a href="mailto:chair@foss4g-oceania.org" target="_blank" className="text-gray-600 dark:text-gray-500 hover:underline">chair@foss4g-oceania.org</a>.
+You can email the FOSS4G Oceania organizing team with any concerns at [chair@foss4g-oceania.org](mailto:chair@foss4g-oceania.org).

@@ -50,6 +50,12 @@ const CodeOfConductPage = () => {
                     className: "list-disc list-outside ms-8",
                   },
                 },
+                a: {
+                  props: {
+                    className: "text-blue-500 underline",
+                    target: "_blank",
+                  },
+                }
               },
             }}
             children={mddText}
