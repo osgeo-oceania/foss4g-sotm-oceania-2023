@@ -14,12 +14,18 @@
 - document: [about.md]()
 - status: nyc
 ## ATTEND ##
-- description: Intro page
+- description: 
+  - Intro page 
+  - statement and link about tgp
 - document: [attend.md]()
 - status: nyc
 ### Register ###
 - description:
 - document: [register.md]()
+- status: nyc
+### Travel Grant Program ###
+- description:
+- document: [tgp.md]()
 - status: nyc
 ### Book a workshop ###
 - description:
