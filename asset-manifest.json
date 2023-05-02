@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.545d9eec.css",
-    "main.js": "/static/js/main.c9a412fb.js",
+    "main.css": "/static/css/main.193a4e13.css",
+    "main.js": "/static/js/main.e13fb1f4.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/code-of-conduct.md": "/static/media/code-of-conduct.4c2b79d71f36a2e331b8.md",
+    "static/media/code-of-conduct.md": "/static/media/code-of-conduct.2ae3e42d650a84ab59ef.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.be892f65deb68705157c.md",
     "static/media/workshops.md": "/static/media/workshops.8fffcf5ef0fadf4b709f.md",
     "index.html": "/index.html",
     "static/media/community-day.md": "/static/media/community-day.c9f8f577ecb3ac28226b.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.c608f927547b90df224c.md",
-    "main.545d9eec.css.map": "/static/css/main.545d9eec.css.map",
-    "main.c9a412fb.js.map": "/static/js/main.c9a412fb.js.map",
+    "main.193a4e13.css.map": "/static/css/main.193a4e13.css.map",
+    "main.e13fb1f4.js.map": "/static/js/main.e13fb1f4.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.545d9eec.css",
-    "static/js/main.c9a412fb.js"
+    "static/css/main.193a4e13.css",
+    "static/js/main.e13fb1f4.js"
   ]
 }
