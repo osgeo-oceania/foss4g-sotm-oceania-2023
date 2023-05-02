@@ -28,7 +28,7 @@ const Header = () => {
               <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Sponsors</a> */}
               <a href="#/present" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">PRESENT</a>
               <a href="#/workshops" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">WORKSHOPS</a>
-              <a href="#/code-of-conduct" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">CODE OF CONDUCT</a>
+              <a href="#/community-day" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">COMMUNITY DAY</a>
               {/* <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">Contact</a> */}
           </div>
       </nav>

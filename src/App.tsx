@@ -5,6 +5,7 @@ import CodeOfConductPage from "./pages/CodeOfConduct";
 import NoPage from "./pages/NoPage";
 import PresentPage from "./pages/Present";
 import Workshops from "./pages/Workshops";
+import CommunityDayPage from "./pages/CommunityDay";
 
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="code-of-conduct" element={<CodeOfConductPage />} />
           <Route path="present" element={<PresentPage />} />
           <Route path="workshops" element={<Workshops />} />
+          <Route path="community-day" element={<CommunityDayPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

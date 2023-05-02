@@ -6,11 +6,11 @@ import AboutFoss4g from '../documents/about-foss4g-sotm-oceania.md';
 
 const Home = () => {
 
-  const [afText, setAfText] = useState('')
+  const [mddText, setMddText] = useState('')
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(AboutFoss4g).then(res => res.text()).then(text => setAfText(text))
+    fetch(AboutFoss4g).then(res => res.text()).then(text => setMddText(text))
   })
 
   return (
@@ -85,7 +85,7 @@ const Home = () => {
               },
             },
           }}
-          children={afText}
+          children={mddText}
         />
       </section>
     </div>

@@ -6,13 +6,13 @@ import CallForPapers from "../documents/call-for-papers.md";
 import Blockquote from "../components/Blockquote";
 
 const PresentPage = () => {
-  const [cfpText, setCfpText] = useState("");
+  const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
     fetch(CallForPapers)
       .then((res) => res.text())
-      .then((text) => setCfpText(text));
+      .then((text) => setMddText(text));
   });
 
   return (
@@ -63,7 +63,7 @@ const PresentPage = () => {
                 }
               },
             }}
-            children={cfpText}
+            children={mddText}
           />
         </div>
       </section>

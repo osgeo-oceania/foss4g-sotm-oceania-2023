@@ -1,14 +1,16 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import CodeOfConduct from "../documents/code-of-conduct.md";
+import MarkDownDoc from "../documents/community-day.md";
 
-const CodeOfConductPage = () => {
+import Blockquote from "../components/Blockquote";
+
+const CommunityDayPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(CodeOfConduct)
+    fetch(MarkDownDoc)
       .then((res) => res.text())
       .then((text) => setMddText(text));
   });
@@ -17,7 +19,7 @@ const CodeOfConductPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/office_with_paper_work.png')",
+          backgroundImage: "url('/imgs/hall_with_map.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
@@ -50,6 +52,15 @@ const CodeOfConductPage = () => {
                     className: "list-disc list-outside ms-8",
                   },
                 },
+                blockquote: {
+                    component: Blockquote,
+                },
+                a: {
+                  props: {
+                    className: "text-blue-500 underline",
+                    target: "_blank",
+                  },
+                }
               },
             }}
             children={mddText}
@@ -59,4 +70,4 @@ const CodeOfConductPage = () => {
     </>
   );
 };
-export default CodeOfConductPage;
+export default CommunityDayPage;
