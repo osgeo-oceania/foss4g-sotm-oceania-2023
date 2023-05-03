@@ -10,7 +10,7 @@ Theme paragraph:
 Keynote session time:
 status: writing -->
 <!-- Front Intro card -->
-<!--Photo:--> ![Moka Apiti](../public/imgs/MokaApiti.jpg)
+<!--Photo:--> ![Moka Apiti](public/imgs/MokaApiti.jpg)
 <!--Name:--> # Moka Apiti #
 <!--Title:--> # Indigenous Mapping in Aotearoa New Zealand #
 <!-- Back Details card -->
