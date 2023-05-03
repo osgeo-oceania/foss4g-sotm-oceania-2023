@@ -1,9 +1,11 @@
 <!--page name Keynote
 These should appear as cards so that when you click on them, they will bring in a floating box with more information on
-All have the following
+This is the order of items
+-- Front Intro card --
 Photo:
 Name:
 Title:
+-- Back Details card --
 Biography paragraph:
 Social links: It would be cool to have twitter and linkedin logos for this
 Theme paragraph:
@@ -12,8 +14,8 @@ status: writing -->
 
 <!-- Front Intro card -->
 ![Moka Apiti]('/imgs/MokaApiti.jpg') <br/>
-# Moka Apiti <br/>
-# Indigenous Mapping in Aotearoa New Zealand  <br/>
+## Moka Apiti <br/>
+## Indigenous Mapping in Aotearoa New Zealand  <br/>
 <!-- Back Details card -->
 ![Moka Apiti]('/imgs/MokaApiti.jpg')
 ## Moka Apiti <br/>
@@ -26,24 +28,24 @@ What are the different GIS user cases Iwi are doing in Aotearoa  <br/>
 <br/>
 
 <!-- Front Intro card -->
-![Ueakeia Tofinga]('/imgs/UeakeiaTofinga.png') <br/>
-# Ueakeia Tofinga <br/>
-# TBA  <br/>
+![Ueakeia Martin Tofinga]('/imgs/UeakeiaTofinga.png') <br/>
+## Ueakeia Martin Tofinga <br/>
+## Passion into action: The story of the Kiribati Women in Mapping NGO.  <br/>
 <!-- Back Details card -->
-![Ueakeia Tofinga]('/imgs/UeakeiaTofinga.png')
+![Ueakeia Martin Tofinga]('/imgs/UeakeiaTofinga.png')
 ## Ueakeia Tofinga <br/>
-TBA
+Ueakeia hails from Tarawa, Kiribati and is the founder and former chairperson of the Kiribati Women in Mapping organization. Back in 2019, Ueakeia started using open source geospatial/OSM, when she realized how important OSM and open source geospatial is in decision making and development. She was led to the open-source geospatial community by the desire of maintaining and building on her geospatial skills, and to be around her kind of people. Ueakeia is currently a student of the University of Queensland, pursuing a Master in Geospatial Information Science. In 2021 was appointed to the She Lead, She Inpires program established by Humanitarian OSM Team's Open Mapping Hub - Asia Pacific.
  <br/>
 [LinkedIn](tba)<br/>
 ## TBA <br/>
-TBA  <br/>
+Sharing the story of empowering women in mapping local communities and what the Kiribati Women in Mapping have been doing since establishment.  <br/>
 ### Keynote session time TBC
 <br/>
 
 <!-- Front Intro card -->
 ![Jeremy Palmer]('/imgs/JeremyPalmer.jpg') <br/>
-# Jeremy Palmer<br/>
-# Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data <br/>
+## Jeremy Palmer<br/>
+## Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data <br/>
 <!-- Back Details card -->
 ![Jeremy Palmer]('/imgs/JeremyPalmer.jpg')
 ## Jeremy Palmer <br/>
