@@ -1,5 +1,4 @@
-import React from "react";
-import { faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faTwitter, faYoutube, faFacebook, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Footer = () => {
     return (
@@ -18,6 +17,12 @@ const Footer = () => {
                   </a>
                   <a href="https://www.youtube.com/channel/UCbqmnF77HxLCmO9d7LrEbpg" target='_blank' rel='noreferrer' className="mx-2 transition-colors duration-300 text-gray-300 hover:text-blue-500 hover:text-blue-400" aria-label="YouTube">
                     <FontAwesomeIcon icon={faYoutube} />
+                  </a>
+                  <a href="https://www.linkedin.com/company/18396595/" target='_blank' rel='noreferrer' className="mx-2 transition-colors duration-300 text-gray-300 hover:text-blue-500 hover:text-blue-400" aria-label="LinkedIn">
+                    <FontAwesomeIcon icon={faLinkedin} />
+                  </a>
+                  <a href="https://www.facebook.com/FOSS4GOceania/" target='_blank' rel='noreferrer' className="mx-2 transition-colors duration-300 text-gray-300 hover:text-blue-500 hover:text-blue-400" aria-label="Facebook">
+                    <FontAwesomeIcon icon={faFacebook} />
                   </a>
                 </div>
               </div>
