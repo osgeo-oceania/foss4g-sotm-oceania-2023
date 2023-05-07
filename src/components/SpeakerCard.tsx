@@ -29,7 +29,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
       <div className="flex flex-row justify-center pb-5">
         <div
           onClick={() => setModelOpen(!modelOpen)}
-          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-gray-900 rounded-lg shadow-lg"
+          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-blue-950 rounded-lg shadow-lg"
         >
           <img
             className="object-cover object-top w-full h-64"
@@ -37,7 +37,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             alt="avatar"
           />
           <div className="py-5 text-center">
-            {title}
+            <div className="block text-xl font-bold text-white">{title}</div>
             <span className="text-sm text-gray-200 p-3">
               {shortDescription}
             </span>
