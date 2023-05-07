@@ -5,4 +5,4 @@ He is the recipient of various personal and team awards including: Personal Achi
 [Github](https://github.com/palmerj) [LinkedIn](https://nz.linkedin.com/in/jeremypalmernz) [YouTube](https://www.youtube.com/watch?v=hiHpteHjz3A)<br/>
 ## Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data<br/>
 The New Zealand government commitment to open geospatial data and services has helped unlocked the full potential of geospatial data and analysis, empowering innovators to create accessible services that benefit all. With open source and open data, developers and user can tackle complex issues such as urban development, climate change, resilience, Māori prosperity, and New Zealanders' wellbeing with new approaches. <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
