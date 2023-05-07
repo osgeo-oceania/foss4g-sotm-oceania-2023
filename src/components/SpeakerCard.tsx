@@ -22,7 +22,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
       .then((res) => res.text())
       .then((text) => setMddText(text))
       .catch((error) => console.error(error));
-  }, []);
+  }, [longDescriptionSrc]);
 
   return (
     <>
