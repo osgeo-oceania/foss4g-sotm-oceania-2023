@@ -24,7 +24,7 @@ Moka is the Managing Director at Digital Navigators Limited - Te Ipu Arataki i t
  [LinkedIn](https://www.linkedin.com/in/moka-apiti-b4ab38a/) <br/>
 ## Indigenous Mapping in Aotearoa New Zealand <br/>
 What are the different GIS user cases Iwi are doing in Aotearoa  <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
 <br/>
 
 <!-- Front Intro card -->
@@ -39,7 +39,7 @@ Ueakeia hails from Tarawa, Kiribati and is the founder and former chairperson of
 [LinkedIn](tba)<br/>
 ## TBA <br/>
 Sharing the story of empowering women in mapping local communities and what the Kiribati Women in Mapping have been doing since establishment.  <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
 <br/>
 
 <!-- Front Intro card -->
@@ -56,4 +56,4 @@ He is the recipient of various personal and team awards including: Personal Achi
 [Github](https://github.com/palmerj) [LinkedIn](https://nz.linkedin.com/in/jeremypalmernz) [YouTube](https://www.youtube.com/watch?v=hiHpteHjz3A)<br/>
 ## Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data<br/>
 The New Zealand government commitment to open geospatial data and services has helped unlocked the full potential of geospatial data and analysis, empowering innovators to create accessible services that benefit all. With open source and open data, developers and user can tackle complex issues such as urban development, climate change, resilience, Māori prosperity, and New Zealanders' wellbeing with new approaches. <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
