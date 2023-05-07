@@ -29,7 +29,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
       <div className="flex flex-row justify-center pb-5">
         <div
           onClick={() => setModelOpen(!modelOpen)}
-          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-blue-950 rounded-lg shadow-lg"
+          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-gray-900 rounded-lg shadow-lg"
         >
           <img
             className="object-cover object-top w-full h-64"
@@ -45,7 +45,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             >
               {title}
             </a>
-            <span className="text-sm text-gray-700 dark:text-gray-200 p-3">
+            <span className="text-sm text-gray-200 p-3">
               {shortDescription}
             </span>
           </div>
@@ -73,7 +73,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             &#8203;
           </span>
 
-          <div style={{ flex: '1 1 auto', maxWidth: '800px' }} className="relative inline-block px-4 pt-5 pb-4 overflow-hidden text-left align-bottom transition-all transform bg-white rounded-lg shadow-xl dark:bg-gray-900 sm:my-8 sm:align-middle sm:max-w-md sm:w-full sm:p-6">
+          <div style={{ flex: '1 1 auto', maxWidth: '800px' }} className="relative inline-block px-4 pt-5 pb-4 overflow-hidden text-left align-bottom transition-all transform rounded-lg shadow-xl bg-gray-900 sm:my-8 sm:align-middle sm:max-w-md sm:w-full sm:p-6">
             <div className="flex flex-wrap">
 
               <div className="md:w-1/3 h-96">
@@ -135,7 +135,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             <div className="mt-5 sm:flex sm:items-center sm:-mx-2">
               <button
                 onClick={() => setModelOpen(!modelOpen)}
-                className="w-full px-4 py-2 text-sm font-medium tracking-wide text-gray-700 capitalize transition-colors duration-300 transform border border-gray-200 rounded-md sm:mx-2 dark:text-gray-200 dark:border-gray-700 dark:hover:bg-gray-800 hover:bg-gray-100 focus:outline-none focus:ring focus:ring-gray-300 focus:ring-opacity-40"
+                className="w-full px-4 py-2 text-sm font-medium tracking-wide capitalize transition-colors duration-300 transform border rounded-md sm:mx-2 text-gray-200 border-gray-700 hover:bg-gray-800 focus:outline-none focus:ring focus:ring-gray-300 focus:ring-opacity-40"
               >
                 Close
               </button>
