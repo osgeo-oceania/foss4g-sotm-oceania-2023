@@ -29,7 +29,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
       <div className="flex flex-row justify-center pb-5">
         <div
           onClick={() => setModelOpen(!modelOpen)}
-          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-blue-950 rounded-lg shadow-lg"
+          className="cursor-pointer w-full max-w-xs mx-2 overflow-hidden bg-gray-900 rounded-lg shadow-lg"
         >
           <img
             className="object-cover object-top w-full h-64"
