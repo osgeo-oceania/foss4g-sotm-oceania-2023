@@ -17,7 +17,8 @@ We want you to share your fascinating stories about open source geospatial, open
 <br /><br />
 - **Lightning talks** are rapid presentations strictly limited to 5 mins. Lightning talks are presented back-to-back with several other speakers, and provide a good opportunity to share smaller projects, anecdotes or lighthearted content in an informal session. Lightning talks are delivered over the three conference days Tuesday Oct 17th to Thursday Oct 20th either in final session or during the unconference session on Wednesday morning. 
 <br /><br />
-All applications must be received by midnight 31st May (NZ Standard Time).
+**All applications must be received by midnight 30th June (NZ Standard Time).**
+Once community voting has been completed, successful applications will be notified in the first week of August. If you are successful in your application, you will still need to purchase a conference ticket and hopefully you get in before the early-bird tickets close!
 <br /><br />
 
 > [Submit your presentation or lightning talk](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp)
@@ -48,11 +49,11 @@ And last, but not least, the success of this event lies in the responsible actio
 ### Community Review
 
 Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. 
-You can vote on the talks from June 1st. 
+You can vote on the talks from July 1st. 
 <br /><br />
 
 ### How to Vote
 You will be asked to register your email address in order to get an email with a link to vote. 
 
 <br />
-> [VOTE HERE from June 1st](https://talks.osgeo.org/foss4g-2023/p/voting/signup/)
+> [VOTE HERE from July 1st](https://talks.osgeo.org/foss4g-2023/p/voting/signup/)
