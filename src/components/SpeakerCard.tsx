@@ -37,14 +37,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             alt="avatar"
           />
           <div className="py-5 text-center">
-            <a
-              href="#"
-              className="block text-xl font-bold text-white"
-              tabIndex={0}
-              role="link"
-            >
-              {title}
-            </a>
+            {title}
             <span className="text-sm text-gray-200 p-3">
               {shortDescription}
             </span>
@@ -64,8 +57,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
         }}
         onClick={() => setModelOpen(!modelOpen)}
       >
-        
-        <div  className="flex items-end justify-center min-h-screen px-4 pt-4 pb-0 text-center sm:block sm:p-0">
+        <div className="flex items-end justify-center min-h-screen px-4 pt-4 pb-0 text-center sm:block sm:p-0">
           <span
             className="hidden sm:inline-block sm:align-middle sm:h-screen"
             aria-hidden="true"
@@ -73,9 +65,11 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
             &#8203;
           </span>
 
-          <div style={{ flex: '1 1 auto', maxWidth: '800px' }} className="relative inline-block px-4 pt-5 pb-4 overflow-hidden text-left align-bottom transition-all transform rounded-lg shadow-xl bg-gray-900 sm:my-8 sm:align-middle sm:max-w-md sm:w-full sm:p-6">
+          <div
+            style={{ flex: "1 1 auto", maxWidth: "800px" }}
+            className="relative inline-block px-4 pt-5 pb-4 overflow-hidden text-left align-bottom transition-all transform rounded-lg shadow-xl bg-gray-900 sm:my-8 sm:align-middle sm:max-w-md sm:w-full sm:p-6"
+          >
             <div className="flex flex-wrap">
-
               <div className="md:w-1/3 h-96">
                 <img
                   className="object-cover w-full h-full rounded-md"
