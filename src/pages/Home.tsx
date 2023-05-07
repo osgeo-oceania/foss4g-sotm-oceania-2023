@@ -3,6 +3,7 @@ import Markdown from 'markdown-to-jsx';
 import { HashLink } from 'react-router-hash-link';
 
 import AboutFoss4g from '../documents/about-foss4g-sotm-oceania.md';
+import KeynoteSpeakers from './KeynoteSpeakers';
 
 const Home = () => {
 
@@ -63,6 +64,9 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+      <KeynoteSpeakers />
+      
 
       <section className="container px-6 py-8 mx-auto lg:py-16">
         <Markdown
