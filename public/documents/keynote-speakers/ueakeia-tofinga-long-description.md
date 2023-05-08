@@ -3,5 +3,5 @@ Ueakeia hails from Tarawa, Kiribati and is the founder and former chairperson of
 [LinkedIn](tba)<br/>
 ## TBA <br/>
 Sharing the story of empowering women in mapping local communities and what the Kiribati Women in Mapping have been doing since establishment.  <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
 <br/>
