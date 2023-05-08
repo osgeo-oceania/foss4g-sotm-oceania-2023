@@ -30,7 +30,7 @@ The community day opens up the FOSS4G SotM Oceania community to a wider audience
 <br /><br />
 
 ### Why you should sponsor FOSS4G SotM Oceania
-<br /> 
+
 
 #### **Exposure to a growing community**
 
@@ -83,11 +83,8 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 <br /><br />
 
 ### Package details
-<br /> 
 #### **Platinum**
-<br /><br />
 **The platinum sponsorship package includes:**
-<br /><br />
 - Eight conference registrations
 - Eight workshop registrations
 - Eight dinner tickets
@@ -103,9 +100,7 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 
 <br /><br />
 #### **Gold**
-<br /> 
 **The gold sponsorship package includes:**
-<br /><br />
 - Four conference registrations
 - Four workshop registrations
 - Four dinner tickets
@@ -122,9 +117,7 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 <br /><br />
 
 #### **Silver**
-<br />
 **The silver sponsorship package includes:**
-<br /><br />
 - Two conference registrations
 - Two workshop registrations
 - Two dinner tickets
@@ -137,9 +130,8 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 <br /><br />
 
 #### **Bronze**
-<br />
 **The bronze sponsorship package includes:**
-<br /><br />
+
 - One conference registration
 - One workshop registration
 - Acknowledgement at opening and closing sessions
@@ -148,16 +140,13 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 
 <br /><br />
 #### **Supporter**
-<br />
 **The supporter sponsorship package includes:**
-<br /><br />
 - Acknowledgement at opening and closing sessions
 - Logo on marketing materials (e.g. on-stage conference banner, rotational sponsor slides)
 - Logo with link on the conference website
 
 
 ### Good Mojo
-
 The open source software community runs on an economy of giving.
 <br /><br />
 The Good Mojo concept gives people and organisations the opportunity to donate whatever they can afford, with contributions directly funding diversity and accessibility initiatives.
