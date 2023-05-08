@@ -68,7 +68,7 @@ A dedicated and experienced conference committee has been established to focus o
 |    Conference mention    | Slides + verbal | Slides + verbal | Slides + verbal |      Slides      |      Slides      |
 |     Website promotion    |    300 words    |    200 words    |    100 words    |     Logo only    |     Logo only    |
 |       Speaking slot      |    2 minutes    |     1 minute    |        \-       |        \-        |        \-        |
-<br /><br />
+
 \*All sponsorship packages are exclusive of GST (Goods and Services Tax). which is a Value Added Tax (VAT) charged in New Zealand. Applicable GST will be calculated and applied.
 <br /><br />
 If you have any questions or suggestions, email us at sponsorship@foss4g-oceania.org.
