@@ -3,5 +3,5 @@ Moka is the Managing Director at Digital Navigators Limited - Te Ipu Arataki i t
 [LinkedIn](https://www.linkedin.com/in/moka-apiti-b4ab38a/) <br/>
 ## Indigenous Mapping in Aotearoa New Zealand <br/>
 What are the different GIS user cases Iwi are doing in Aotearoa  <br/>
-### Keynote session time TBC
+<!-- ### Keynote session time TBC -->
 <br/>
