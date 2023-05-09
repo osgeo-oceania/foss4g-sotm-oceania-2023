@@ -6,7 +6,7 @@ import NoPage from "./pages/NoPage";
 import PresentPage from "./pages/Present";
 import Workshops from "./pages/Workshops";
 import CommunityDayPage from "./pages/CommunityDay";
-import Sponsorhip from "./pages/Sponsorhip";
+import Sponsorship from "./pages/Sponsorship";
 
 
 export default function App() {
@@ -19,7 +19,7 @@ export default function App() {
           <Route path="present" element={<PresentPage />} />
           <Route path="workshops" element={<Workshops />} />
           <Route path="community-day" element={<CommunityDayPage />} />
-          <Route path="sponsorhip" element={<Sponsorhip />} />
+          <Route path="sponsorship" element={<Sponsorship />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

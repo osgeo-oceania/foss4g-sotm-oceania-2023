@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import Sponsorhip from "../documents/sponsorhip.md";
+import Sponsorship from "../documents/sponsorship.md";
 
 import Blockquote from "../components/Blockquote";
 import Table from "../components/Table";
@@ -11,7 +11,7 @@ const PresentPage = () => {
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(Sponsorhip)
+    fetch(Sponsorship)
       .then((res) => res.text())
       .then((text) => setMddText(text));
   });
@@ -20,7 +20,7 @@ const PresentPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/present_crop_01.png')",
+          backgroundImage: "url('/imgs/sponsorship_header.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
