@@ -17,6 +17,7 @@ Previous FOSS4G SotM Oceania conferences in Melbourne, Wellington and Suva were 
 - Over 14 countries from Oceania and further afield such as Canada, the UK, and the USA have attended in the past
 - Attendees included GIS professionals, developers, hobbyists, humanitarian workers, and government agencies
 <br /><br />
+
 Sponsors of FOSS4G SotM Oceania gain access to a diverse group of people shaping the evolution of open source geospatial software. The conference is a healthy mix of both software developers and end users.
 <br /><br />
 
@@ -30,7 +31,7 @@ The community day opens up the FOSS4G SotM Oceania community to a wider audience
 <br /><br />
 
 ### Why you should sponsor FOSS4G SotM Oceania
-
+<br />
 
 #### **Exposure to a growing community**
 
@@ -55,9 +56,8 @@ A dedicated and experienced conference committee has been established to focus o
 <br /><br />
 
 ### Sponsorship packages
-|                          |                 |                 |                 |                  |                  |
-| :----------------------: | :-------------: | :-------------: | :-------------: | :--------------: | :--------------: |
 |         Benefits         |     Platinum    |       Gold      |      Silver     |      Bronze      |     Supporter    |
+| :----------------------: | :-------------: | :-------------: | :-------------: | :--------------: | :--------------: |
 |        Cost ($NZD)       |  $15,000 + GST  | $10,000 + GST\* |   $5,000 + GST  |   $2,000 + GST   |   $1,000 + GST   |
 | Conference registrations |        8        |        4        |        2        |         1        |        \-        |
 |      Dinner tickets      |        8        |        4        |        2        |         1        |        \-        |
@@ -68,7 +68,7 @@ A dedicated and experienced conference committee has been established to focus o
 |    Conference mention    | Slides + verbal | Slides + verbal | Slides + verbal |      Slides      |      Slides      |
 |     Website promotion    |    300 words    |    200 words    |    100 words    |     Logo only    |     Logo only    |
 |       Speaking slot      |    2 minutes    |     1 minute    |        \-       |        \-        |        \-        |
-
+<br />
 \*All sponsorship packages are exclusive of GST (Goods and Services Tax). which is a Value Added Tax (VAT) charged in New Zealand. Applicable GST will be calculated and applied.
 <br /><br />
 If you have any questions or suggestions, email us at sponsorship@foss4g-oceania.org.
@@ -83,6 +83,7 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 <br /><br />
 
 ### Package details
+<br />
 #### **Platinum**
 **The platinum sponsorship package includes:**
 - Eight conference registrations
@@ -145,7 +146,7 @@ If you have any questions or suggestions, email us at sponsorship@foss4g-oceania
 - Logo on marketing materials (e.g. on-stage conference banner, rotational sponsor slides)
 - Logo with link on the conference website
 
-
+<br />
 ### Good Mojo
 The open source software community runs on an economy of giving.
 <br /><br />
@@ -158,16 +159,17 @@ The types of initiatives that Good Mojo aims to support in 2023 include:
 - Initiatives to create a child-friendly conference.
 - Reducing the cost of attendance for community members who are self funded.
 <br /><br />
+
 Previously the Good Mojo program funded:
 <br /><br />
 - Travel grants for over 20 people attending previous conferences representing Australia, Fiji, New Zealand, Papua New Guinea, Samoa, and Timor-Leste
 - Catering for children attending the event
 - Networking breakfasts for women in the open geospatial community; and travel grant recipients
 <br /><br />
-Please contact the sponsorship team if you're interested in adding some Good Mojo funds.
 
+Please contact the sponsorship team if you're interested in adding some Good Mojo funds.
 <br /><br />
 ### Contacts
 
-Get in touch with Edoardo Neerhut, James McKenzie and Greg Lauer at sponsorship@foss4g-oceania.org
+Get in touch with Edoardo Neerhut, James McKenzie and Greg Lauer at [sponsorship@foss4g-oceania.org](mailto:sponsorship@foss4g-oceania.org).
 <br /><br />
