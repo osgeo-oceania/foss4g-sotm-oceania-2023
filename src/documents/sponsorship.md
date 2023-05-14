@@ -1,6 +1,7 @@
 # FOSS4G and State of the Map: Information for sponsors
 <br /><br />
 > [Download sponsorship prospectus here](https://drive.google.com/file/d/1AQmdxJvhcRmnCUB5WtkXCyQAk1zJDanP/view?usp=sharing)
+
 <br /><br />
 
 FOSS4G SotM Oceania is a regional event that brings together the open source geospatial community. FOSS4G stands for 'Free and Open Source Software for Geospatial' and has been used since 2006 as a label for international and regional conferences of the [Open Source Geospatial Foundation (OSGeo)](http://osgeo.org/). OSGeo supports the development and adoption of open source geospatial technology. FOSS4G is part of the broader [open source software philosophy](https://opensource.com/resources/what-open-source).
