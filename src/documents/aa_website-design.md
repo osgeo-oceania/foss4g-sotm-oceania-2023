@@ -76,7 +76,7 @@
     -   Breakfast events
     -   Community Day 
 - document: [program.md]()
-- status: nyc
+- status: Ready to be published
 ### Schedule ###
 - description: 
   - links to pretalx general schedule (Tues-Thurs)
