@@ -76,7 +76,7 @@
     -   Breakfast events
     -   Community Day 
 - document: [program.md]()
-- status: Ready to be published
+- status: :red_circle: Ready to be published
 ### Schedule ###
 - description: 
   - links to pretalx general schedule (Tues-Thurs)
