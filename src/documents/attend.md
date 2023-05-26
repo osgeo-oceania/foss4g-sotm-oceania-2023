@@ -9,8 +9,6 @@ can this have a index for the child pages-->
 Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.<br />
 > Watch this space for information updates.<br />
 
-# Venue #
-This year, we welcome you to the FOSS4G SoTM Oceania at the [Auckland University of Technology (AUT)](https://www.aut.ac.nz/) who have kindly sponsored our conference. 
 # Register #
 Get in and register early!
 There are several registration levels available and we do have Travel Grants available if you need some extra help to attend - read more about them [here](travel grant link).
@@ -28,8 +26,13 @@ There are several registration levels available and we do have Travel Grants ava
 | Good Mojo | FOSS4G is an community conference run by the OSGeo Oceania. <br /> Any additional donations via our Good Mojo fund will go toward <br /> supporting community events, travel grant programmes and <br /> future conferences. Thanks! | NZ$ Your Choice! |<br />
 
 [Register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)<br />
-[Apply for a Travel Grant here](travel grant link)
+
+## Do you need financial assistance? ##
+Our Travel Grant Program helps those that require financial assistance to attend from within Oceania. Applications closed on June 30 and applicants will hear from us by July 15. If you've missed our deadline, please subscribe to our mailing list to ensure you don't miss future opportunities. See our Travel Grant Program page for more details.<br/>
+If you or your organisation wish to contribute to this important initiative, please get in touch at tgp@foss4g-oceania.org. The program is built on financial support from OSGeo and conference sponsors and attendees, and 100% of your contribution will go directly to assisting people from around our region to attend.<br/>
+[Apply for a Travel Grant here](https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform)
 <br />
+
 # Program #
 Our program, well it's going to be a busy week - so make sure you pack your Weet-Bix!<br /><br />
 All asterixed* events can be bought via the register page either at the time of registering or after. <br /><br />
@@ -43,8 +46,18 @@ All asterixed* events can be bought via the register page either at the time of 
 | Friday 20 October | [Community Day](https://2023.foss4g-oceania.org/#/community-day) | TBC get together - venue tbc |
 <br />
 
+# Our conference venue #
+This year, we welcome you to the FOSS4G SoTM Oceania at the [Auckland University of Technology (AUT)](https://www.aut.ac.nz/) who have kindly sponsored our conference.  <br/>
+We have the following rooms dedicated to bringing you a great experience: <br/>
+**Opening Ceremony, Plenary and Keynote Sessions, Panels, and Lightning Talks:** Forum WG201 <br/>
+**Concurrent Sessions:** Conference Room (WA224), Te Iringa (Wave Room - WG308) <br/>
+**Registration & Catering:** Foyer (WG306) <br/>
+**Workshops:** TBA <br/>
+**Sponsors:** Foyer (WG201) <br/>
+![AUT map](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/811ac212fb1787b4768eeb94bf4718feb3f2c4ba/public/imgs/aut_map.png) <br/>
+
 # Social Events #
-C'mon and get Social! No top hat and ties here - unless you must. We have some formally organised events with a couple of nights free for you to catch-up with old mates. 
+C'mon and get Social! No top hat and ties here - unless you must. We have some formally organised events with a couple of nights free for you to catch-up with old mates. Check out the venues [here](https://felt.com/map/FOSS4G-SoTM-Oceania-Auckland-2023-469BJcu9AbTYOOqPW01NhcxB?lat=-36.840869&lon=174.757848&zoom=20.77).
 
 ## Icebreaker get-together ##
 Monday night *6pm, Venue TBC*  <br />
