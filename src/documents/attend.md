@@ -1,4 +1,4 @@
-<!-- page name: Program
+<!-- page name: Attend
 everything needs to be linked to a page
 venues need to be included
 update with Pretalx link
