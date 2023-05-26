@@ -16,14 +16,11 @@
 ## ATTEND ##
 - description: 
   - Intro page 
-  - statement and link about tgp
+  - register statement
+  - link about tgp
   - program summary with links
 - document: [attend.md]()
 - status: completed
-### Register ###
-- description:
-- document: [register.md]()
-- status: nyc
 ### Travel Grant Program ###
 - description:
 - document: [tgp.md]()
@@ -32,7 +29,7 @@
 - description:
 - document: [book-workshop.md]()
 - status: nyc
-### Conference dinner ###
+### Soa ###
 - description:
 - document: [conference-dinner.md]()
 - status: nyc
