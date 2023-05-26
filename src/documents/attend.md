@@ -57,7 +57,7 @@ We have the following rooms dedicated to bringing you a great experience: <br/>
 ![AUT map](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/811ac212fb1787b4768eeb94bf4718feb3f2c4ba/public/imgs/aut_map.png) <br/>
 
 # Social Events #
-C'mon and get Social! No top hat and ties here - unless you must. We have some formally organised events with a couple of nights free for you to catch-up with old mates. Check out the venues [here](https://felt.com/map/FOSS4G-SoTM-Oceania-Auckland-2023-469BJcu9AbTYOOqPW01NhcxB?lat=-36.840869&lon=174.757848&zoom=20.77).
+C'mon and get Social! No top hat and ties here - unless you must. We have some formally organised events with a couple of nights free for you to catch-up with old mates. Check out the venues [here](https://felt.com/map/FOSS4G-SoTM-Oceania-Auckland-2023-469BJcu9AbTYOOqPW01NhcxB?lat=-36.847077&lon=174.762032&zoom=15.87).
 
 ## Icebreaker get-together ##
 Monday night *6pm, Venue TBC*  <br />
