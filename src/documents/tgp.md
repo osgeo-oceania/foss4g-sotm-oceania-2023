@@ -5,7 +5,7 @@ The Travel Grant Program (TGP) is aimed at increasing the diversity, impact, and
 
 The TGP is administered by the Conference Committee (CC) and supported by OSGeo Oceania. 
 <!-- Applications will be accepted until DD Month 2023. -->
-> Apply
+> Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform)
 
 ## Goals of the TGP ##
 - Bringing the power of Open Geospatial to a wide audience
