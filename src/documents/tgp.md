@@ -13,9 +13,9 @@ The TGP is administered by the Conference Committee (CC) and supported by OSGeo 
 - Reaching, empowering and giving a voice to a diverse community, including those who might not have the financial or social means to attend the conference
 ## Travel Grants ##
 There will be 3 tiers of grants:
-- Tier 1: NZD$2,250
-- Tier 2: NZD$1,200
-- Tier 3: NZD$250
+- Tier 1: NZD$2,500
+- Tier 2: NZD$1,500
+- Tier 3: NZD$300
 ## Criteria ##
 ### Eligibility Requirement ###
 To be eligible, applicants must meet these three factors:
