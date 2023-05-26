@@ -33,7 +33,6 @@ Applicants who meet the eligibility requirements will go through the next round 
 |  | Date |
 | --- | --- |
 |TGP grants open | Now |
-| Submission closed | TBC |
-| Committee assessment | TBC |
-| Recipients notified | TBC |
+| Submission close | 1st July, 2023 |
+| Recipients notified | 1st August, 2023 |
 
