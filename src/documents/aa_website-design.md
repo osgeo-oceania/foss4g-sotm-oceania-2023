@@ -17,8 +17,9 @@
 - description: 
   - Intro page 
   - statement and link about tgp
+  - program summary with links
 - document: [attend.md]()
-- status: nyc
+- status: completed
 ### Register ###
 - description:
 - document: [register.md]()
