@@ -3,6 +3,7 @@ import Markdown from "markdown-to-jsx";
 
 import Content from "../documents/attend.md";
 
+import Table from "../components/Table";
 import Blockquote from "../components/Blockquote";
 
 const AttendPage = () => {
@@ -31,10 +32,27 @@ const AttendPage = () => {
             options={{
               overrides: {
                 table: {
+                  component: Table,
+                },
+                thead: {
                   props: {
-                    className:
-                      "w-2/3 mx-auto table-auto border-collapse",
-                  }
+                    className: "bg-gray-800",
+                  },
+                },
+                th: {
+                  props: {
+                    className: "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
+                  },
+                },
+                tbody: {
+                  props: {
+                    className: "bg-gray-900 divide-y divide-gray-700",
+                  },
+                },
+                td: {
+                  props: {
+                    className: "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
+                  },
                 },
                 h1: {
                   props: {
