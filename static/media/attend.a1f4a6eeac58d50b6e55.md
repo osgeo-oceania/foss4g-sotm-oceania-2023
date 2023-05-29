@@ -26,7 +26,7 @@ There are several registration levels available and we do have
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | Conference Dinner  | Held at Wynyard Pavilion on the evening of Wednesday 18th. Includes 3 course meal and drink tickets.                                                                                                            | 110          |
 | Conference T-Shirt | Limited edition FOSS4G Oceania conference T-Shirt. Available in mens or womens, multiple sizes.                                                                                                                 | 35           |
-| Good Mojo          | FOSS4G is an community conference run by the OSGeo Oceania. Any additional donations via our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. Thanks! | Your Choice! g|  |
+| Good Mojo          | FOSS4G is an community conference run by the OSGeo Oceania. Any additional donations via our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. Thanks! | Your Choice! |
 
 > [Register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
 
