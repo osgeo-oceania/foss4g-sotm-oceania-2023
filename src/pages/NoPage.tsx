@@ -10,7 +10,7 @@ const NoPage = () => {
                     <h1 className="text-3xl font-bold text-[#343D33] md:text-4xl">Seems you've lost your way!</h1>
 
                     <p className="mt-6 text-[#343D33]">
-                        We haven't created a page for this URL, please check out our other pages from teh menu or contact us.
+                        We haven't created a page for this URL, please check out our other pages from the menu or contact us.
                     </p>
 
                     <div className="flex justify-center mt-6">

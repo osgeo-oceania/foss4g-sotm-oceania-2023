@@ -1,16 +1,16 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import CallForPapers from "../documents/present.md";
+import Content from "../documents/attend.md";
 
 import Blockquote from "../components/Blockquote";
 
-const PresentPage = () => {
+const AttendPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(CallForPapers)
+    fetch(Content)
       .then((res) => res.text())
       .then((text) => setMddText(text));
   });
@@ -30,6 +30,12 @@ const PresentPage = () => {
           <Markdown
             options={{
               overrides: {
+                table: {
+                  props: {
+                    className:
+                      "w-2/3 mx-auto table-auto border-collapse",
+                  }
+                },
                 h1: {
                   props: {
                     className:
@@ -39,7 +45,8 @@ const PresentPage = () => {
                 h2: {
                   props: {
                     className:
-                      "text-2xl font-semibold text-gray-700 capitalize",
+                    // add space before teh paragraph
+                      "text-2xl font-semibold text-gray-700 capitalize my-4",
                   },
                 },
                 h3: {
@@ -56,9 +63,9 @@ const PresentPage = () => {
                     component: Blockquote,
                 },
                 a: {
+                  // make links buttons
                   props: {
                     className: "text-blue-500 underline",
-                    target: "_blank",
                   },
                 }
               },
@@ -70,4 +77,4 @@ const PresentPage = () => {
     </>
   );
 };
-export default PresentPage;
+export default AttendPage;
