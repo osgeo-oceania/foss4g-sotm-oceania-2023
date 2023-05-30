@@ -4,6 +4,7 @@ import Markdown from "markdown-to-jsx";
 import CallForPapers from "../documents/present.md";
 
 import Blockquote from "../components/Blockquote";
+import Button from "../components/Button";
 
 const PresentPage = () => {
   const [mddText, setMddText] = useState("");
@@ -60,6 +61,9 @@ const PresentPage = () => {
                     className: "text-blue-500 underline",
                     target: "_blank",
                   },
+                },
+                button: {
+                  component: Button,
                 }
               },
             }}

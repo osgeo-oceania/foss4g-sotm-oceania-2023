@@ -5,6 +5,7 @@ import Content from "../documents/attend.md";
 
 import Table from "../components/Table";
 import Blockquote from "../components/Blockquote";
+import Button from "../components/Button";
 
 const AttendPage = () => {
   const [mddText, setMddText] = useState("");
@@ -85,6 +86,9 @@ const AttendPage = () => {
                   props: {
                     className: "text-blue-500 underline",
                   },
+                },
+                button: {
+                  component: Button,
                 }
               },
             }}

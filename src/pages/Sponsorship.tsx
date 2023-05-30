@@ -5,6 +5,7 @@ import Sponsorship from "../documents/sponsorship.md";
 
 import Blockquote from "../components/Blockquote";
 import Table from "../components/Table";
+import Button from "../components/Button";
 
 const PresentPage = () => {
   const [mddText, setMddText] = useState("");
@@ -85,6 +86,9 @@ const PresentPage = () => {
                     className: "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
                   },
                 },
+                button: {
+                  component: Button,
+                }
               },
             }}
             children={mddText}
