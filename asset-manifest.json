@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ae52ce96.css",
-    "main.js": "/static/js/main.017c805f.js",
+    "main.js": "/static/js/main.243e5ffc.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
-    "static/media/attend.md": "/static/media/attend.168d47f7b1a5e0f1bfe7.md",
+    "static/media/attend.md": "/static/media/attend.fc1101bf8d5bbe1b6d87.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.2ae3e42d650a84ab59ef.md",
     "static/media/present.md": "/static/media/present.efd7f64e5ff6236e6cb1.md",
     "index.html": "/index.html",
@@ -12,11 +12,11 @@
     "static/media/community-day.md": "/static/media/community-day.c9f8f577ecb3ac28226b.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.c608f927547b90df224c.md",
     "main.ae52ce96.css.map": "/static/css/main.ae52ce96.css.map",
-    "main.017c805f.js.map": "/static/js/main.017c805f.js.map",
+    "main.243e5ffc.js.map": "/static/js/main.243e5ffc.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae52ce96.css",
-    "static/js/main.017c805f.js"
+    "static/js/main.243e5ffc.js"
   ]
 }
