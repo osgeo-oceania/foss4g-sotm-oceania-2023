@@ -28,7 +28,10 @@ There are several registration levels available and we do have
 | Conference T-Shirt | Limited edition FOSS4G Oceania conference T-Shirt. Available in mens or womens, multiple sizes.                                                                                                                 | 35           |
 | Good Mojo          | FOSS4G is an community conference run by the OSGeo Oceania. Any additional donations via our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. Thanks! | Your Choice! |
 
-> [Register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
+<br />
+<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023">
+    Register here
+</button>
 
 ## Do you need financial assistance?
 
@@ -36,8 +39,10 @@ Our Travel Grant Program helps those that require financial assistance to attend
 
 If you or your organisation wish to contribute to this important initiative, please get in touch at tgp@foss4g-oceania.org. The program is built on financial support from OSGeo Oceania and conference sponsors and attendees, and 100% of your contribution will go directly to assisting people from around our region to attend.
 
-> [Apply for a Travel Grant here](https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform)
-
+<br />
+<button target="https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform">
+    Apply for a Travel Grant here
+</button>
 ## Program
 
 Our program, well it's going to be a busy week - so make sure you pack your Weet-Bix!
