@@ -29,29 +29,20 @@
 - description:
 - document: [book-workshop.md]()
 - status: nyc
-### Soa ###
-- description:
-- document: [conference-dinner.md]()
-- status: nyc
-### Get social ###
-- description:
-  - links to social accounts: linkedIn, Twitter, FB, Insta, Slack
-- document: [social.md]()
+### Social program ###
+- description: social events including: icebreaker, Conference dinner, breakfasts, ; links to social accounts: linkedIn, Twitter, FB, Insta, Slack; add in link to spatial showcase; linkts to tito
+- document: [social_program.md]()
 - status: nyc
 ### Travel ###
-- description:
+- description: location, travel accommodation
 - document: [travel.md]()
 - status: nyc
-### Accommodation ###
-- description:
-- document: [accommodation.md]()
-- status: nyc
 ## PRESENT ##
-- description: this is the parent page
+- description: this is the call for presentations page and will be retired once closed
 - document: [call-for-papers.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/call-for-papers.md)
 - status: Uploaded
-### Workshops ###
-- description:
+## WORKSHOPS ###
+- description: this is the call for workshops page and will be retired once closed
 - document: [workshops.md](https://github.com/foss4g-oceania/foss4g-sotm-oceania-2023/blob/29a92a9e9bfb6f9f34fba58e5bc7e1c4e6b3c13b/src/documents/workshops.md)
 - status: Uploaded
 ## SPONSOR ##
@@ -80,7 +71,7 @@
   - links to pretalx general schedule (Tues-Thurs)
   - this will be linked to the pretalx schedule - not sure if this is correct - check with Jonah. Also check the [2019 schedule page](https://2019.foss4g-oceania.org/schedule/) although I found this a little clunky.
 - document: [pretalx schedule](https://talks.osgeo.org/api/events/foss4g-sotm-oceania-2023/)
-- status: nyc
+- status: nyc - doesn't go live until August
 ### Keynote speakers ###
 - description: 
   - need to create cards for each of the keynote speakers
@@ -91,23 +82,19 @@
 - description: links to the speakers page as per [2019 speakers page](https://2019.foss4g-oceania.org/speakers/)
 - document: [pretalx speakers page](https://talks.osgeo.org/api/events/foss4g-sotm-oceania-2023/)
 - status: nyc
-### Unconference session ###
-- description: this is to cover Wednesday morning's activity and requires some explantation
-- document: [unconference-session.md]()
-- status: nyc
 ### Lightning talks ###
 - description: links to pretalx
 - document: [pretalx lightning talks schedule]()
 - status: nyc
 ### Workshops ###
-- description: links to pre-talx
+- description: links to pre-talx and Tito
   - this is the schedule of workshops
   - will show the current status of each workshop (open/full or number of places left - link to tito or booking system)
   - links to pretalx workshop site
 - document: [workshops-schedule.md]()
 - status: nyc
 ### Panel ###
-- description:
+- description: 3 panels
 - document: [panel.md]()
 - status: nyc
 ### Spatial Showcase ###
