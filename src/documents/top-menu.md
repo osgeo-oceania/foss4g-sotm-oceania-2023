@@ -1,0 +1,8 @@
+* [HOME](/)
+* [ATTEND](#/attend)
+    * [More Information](#/attend)
+    * [TRAVEL GRANT PROGRAM](#/travel-grant-program)
+* [PRESENT](#/present)
+* [WORKSHOPS](#/workshops)
+* [COMMUNITY DAY](#/community-day)
+* [SPONSORSHIP](#/sponsorship)

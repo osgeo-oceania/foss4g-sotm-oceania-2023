@@ -86,7 +86,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
                   {title}
                 </h3>
 
-                <p className="mt-2 text-sm text-gray-400">
+                <div className="mt-2 text-sm text-gray-400">
                   <Markdown
                     options={{
                       overrides: {
@@ -123,7 +123,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
                     }}
                     children={mddText}
                   />
-                </p>
+                </div>
               </div>
             </div>
             <div className="mt-5 sm:flex sm:items-center sm:-mx-2">
