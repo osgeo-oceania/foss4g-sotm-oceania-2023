@@ -5,6 +5,7 @@ import CodeOfConductPage from "./pages/CodeOfConduct";
 import NoPage from "./pages/NoPage";
 import PresentPage from "./pages/Present";
 import AttendPage from "./pages/Attend";
+import AttendTGPPage from "./pages/Attend_TravelGrantProgram";
 import Workshops from "./pages/Workshops";
 import CommunityDayPage from "./pages/CommunityDay";
 import Sponsorship from "./pages/Sponsorship";
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="code-of-conduct" element={<CodeOfConductPage />} />
           <Route path="present" element={<PresentPage />} />
           <Route path="attend" element={<AttendPage />} />
+          <Route path="travel-grant-program" element={<AttendTGPPage />} />
           <Route path="workshops" element={<Workshops />} />
           <Route path="community-day" element={<CommunityDayPage />} />
           <Route path="sponsorship" element={<Sponsorship />} />
