@@ -23,6 +23,7 @@ const Header = () => {
           <div className={`${menuOpen ? 'translate-x-0 opacity-100' : 'opacity-0 -translate-x-full'} absolute inset-x-0 z-30 w-full px-6 py-8 mt-4 space-y-6 transition-all duration-300 ease-in-out bg-blue-950 top-16 md:mt-0 md:p-0 md:top-0 md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center md:justify-center`}>
               <a href="/" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">HOME</a>
               <a href="#/attend" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">ATTEND</a>
+              <a href="#/travel-grant-program" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">TRAVEL GRANT PROGRAM</a>
               <a href="#/present" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">PRESENT</a>
               <a href="#/workshops" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">WORKSHOPS</a>
               <a href="#/community-day" className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300">COMMUNITY DAY</a>
