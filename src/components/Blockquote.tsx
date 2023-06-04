@@ -11,9 +11,9 @@ const Blockquote: React.FC<BlockquoteProps> = ({ children }) => {
 
     <div className="flex items-center px-2 py-3">
       <div className="mx-3">
-        <p className="text-gray-200">
+        <div className="text-gray-200">
           {children}
-        </p>
+        </div>
       </div>
     </div>
   </div>

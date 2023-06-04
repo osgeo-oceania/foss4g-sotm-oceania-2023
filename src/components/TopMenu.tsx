@@ -74,9 +74,11 @@ const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
 
     const renderedMenuItems = menuItems.map((menuItem, index) => (
         <React.Fragment key={index}>
+          {menuItem.subMenuItems.length === 0 && (
           <a href={menuItem.href} className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center">
             {menuItem.text}
           </a>
+          )}
           {menuItem.subMenuItems.length > 0 && (
             <div onMouseEnter={() => handleMouseEnter(menuItem.text)}
             onMouseLeave={() => handleMouseLeave(menuItem.text)} className="relative">
