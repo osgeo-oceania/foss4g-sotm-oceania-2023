@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import Content from "../documents/travel-grant-program.md";
+import Content from "../../documents/attend/our-conference-venue.md";
 
-import Table from "../components/Table";
-import Blockquote from "../components/Blockquote";
-import Button from "../components/Button";
+import Table from "../../components/Table";
+import Blockquote from "../../components/Blockquote";
+import Button from "../../components/Button";
 
-const AttendTGPPage = () => {
+const OurConferenceVenuePage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
@@ -99,4 +99,4 @@ const AttendTGPPage = () => {
     </>
   );
 };
-export default AttendTGPPage;
+export default OurConferenceVenuePage;
