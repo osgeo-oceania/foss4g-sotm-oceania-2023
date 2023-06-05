@@ -1,24 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.698fe4b8.css",
-    "main.js": "/static/js/main.2c44f3a6.js",
+    "main.js": "/static/js/main.e8422861.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
-    "static/media/attend.md": "/static/media/attend.fc1101bf8d5bbe1b6d87.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.2ae3e42d650a84ab59ef.md",
     "static/media/present.md": "/static/media/present.efd7f64e5ff6236e6cb1.md",
+    "static/media/register.md": "/static/media/register.25a2a09af07c5451e3e8.md",
+    "static/media/social-events.md": "/static/media/social-events.beb3b549b6914d165676.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
     "index.html": "/index.html",
     "static/media/workshops.md": "/static/media/workshops.8fffcf5ef0fadf4b709f.md",
     "static/media/community-day.md": "/static/media/community-day.c9f8f577ecb3ac28226b.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.5ab9c2e754441a5d7f60.md",
-    "static/media/top-menu.md": "/static/media/top-menu.9de65762a143d422b3b9.md",
+    "static/media/program.md": "/static/media/program.74a3d87cf9f35fb5582a.md",
+    "static/media/our-conference-venue.md": "/static/media/our-conference-venue.28e83d12fac29e4ac71b.md",
+    "static/media/top-menu.md": "/static/media/top-menu.369622edd8a47bcc72a6.md",
     "main.698fe4b8.css.map": "/static/css/main.698fe4b8.css.map",
-    "main.2c44f3a6.js.map": "/static/js/main.2c44f3a6.js.map",
+    "main.e8422861.js.map": "/static/js/main.e8422861.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.698fe4b8.css",
-    "static/js/main.2c44f3a6.js"
+    "static/js/main.e8422861.js"
   ]
 }
