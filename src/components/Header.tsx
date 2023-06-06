@@ -18,7 +18,7 @@ const Header = () => {
 
     return (
       <header className="bg-blue-950 sticky top-0 z-40 flex-none w-full mx-auto">
-        <nav className="container relative flex items-center justify-between sm:justify-end md:justify-center px-6 py-8 mx-auto text-white">
+        <nav className="container relative flex items-center justify-between sm:justify-end md:justify-center px-6 py-5 mx-auto text-white">
             <button onClick={() => setMenuOpen(!menuOpen)} className="md:hidden">
               <span style={{ display: !menuOpen ? 'inline' : 'none' }}>
                 <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24"
