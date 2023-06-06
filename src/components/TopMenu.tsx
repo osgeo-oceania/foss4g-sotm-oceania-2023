@@ -82,12 +82,12 @@ const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
           {menuItem.subMenuItems.length > 0 && (
             <div onMouseEnter={() => handleMouseEnter(menuItem.text)}
             onMouseLeave={() => handleMouseLeave(menuItem.text)} className="relative">
-              <button className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
+              <a href={menuItem.href} className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
                 {menuItem.text}
                 <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4 inline ml-1" viewBox="0 0 20 20" fill="currentColor">
                   <path fillRule="evenodd" d="M6 8l4 4 4-4H6z" />
                 </svg>
-              </button>
+              </a>
               <div className="hidden md:block">
                 <div style={{ display: menuItem.isShown ? "block" : "none" }} className="absolute left-0 bg-blue-950 rounded-md shadow-lg min-w-full text-center pt-4 pb-1 hidden md:inline-block">
                   {menuItem.subMenuItems.map((subMenuItem, subIndex) => (
