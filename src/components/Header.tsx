@@ -17,7 +17,7 @@ const Header = () => {
     });
 
     return (
-      <header className="bg-blue-950">
+      <header className="bg-blue-950 sticky top-0 z-40 flex-none w-full mx-auto">
         <nav className="container relative flex items-center justify-between sm:justify-end md:justify-center px-6 py-8 mx-auto text-white">
             <button onClick={() => setMenuOpen(!menuOpen)} className="md:hidden">
               <span style={{ display: !menuOpen ? 'inline' : 'none' }}>
