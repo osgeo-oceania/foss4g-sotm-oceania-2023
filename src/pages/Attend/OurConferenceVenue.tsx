@@ -21,7 +21,7 @@ const OurConferenceVenuePage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/present_crop_01.png')",
+          backgroundImage: "url('/imgs/2020_auckland_hub.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}

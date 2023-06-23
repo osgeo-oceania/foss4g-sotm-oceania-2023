@@ -19,7 +19,7 @@ const CommunityDayPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/hall_with_map.png')",
+          backgroundImage: "url('/imgs/present_crop_01.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}

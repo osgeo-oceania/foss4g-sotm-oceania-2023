@@ -21,7 +21,7 @@ const PresentPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/sponsorship_header.png')",
+          backgroundImage: "url('/imgs/kiribati_people.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
