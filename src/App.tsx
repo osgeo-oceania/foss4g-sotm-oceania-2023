@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import CodeOfConductPage from "./pages/CodeOfConduct";
+import AccomodationPage from "./pages/Attend/Accomodation";
 import NoPage from "./pages/NoPage";
 import PresentPage from "./pages/Present";
 import AttendTGPPage from "./pages/Attend/TravelGrantProgram";
@@ -24,6 +25,7 @@ export default function App() {
           <Route path="present" element={<PresentPage />} />
           <Route path="attend/travel-grant-program" element={<AttendTGPPage />} />
           <Route path="attend/our-conference-venue" element={<OurConferenceVenuePage />} />
+          <Route path="attend/accomodation" element={<AccomodationPage />} />
           <Route path="attend/program" element={<ProgramPage />} />
           <Route path="attend/register" element={<RegisterPage />} />
           <Route path="attend/social-events" element={<SocialEventsPage />} />
