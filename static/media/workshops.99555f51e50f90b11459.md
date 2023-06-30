@@ -28,7 +28,7 @@ to propose something completely different!
 ### To submit a proposal for a workshop
 Visit our call for papers page [here](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp).
 <br /><br />
-Cut-off date for submission for workshops is **Friday 30th June 2023**. 
+Cut-off date for submission for workshops is **Friday 14th July 2023**. 
 <br /><br />
 Submissions will then be voted on by the community during the month of July. Once community voting has been completed, successful applications will be notified in the first week of August. If you are successful in your application, you will still need to purchase a conference ticket.
 <br /><br />
