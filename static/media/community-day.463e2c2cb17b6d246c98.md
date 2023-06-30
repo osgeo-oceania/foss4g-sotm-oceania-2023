@@ -19,9 +19,9 @@ If you are interested in leading a community day event, send us an email with yo
 **Excusions**
 - Kingsland Heritage Mapping
 - Cartography Archives
-
+</br>
 **Meetups**
 - Heritage Mappers
-  
+</br>
 **Hackathons**
 - OS Story Maps
