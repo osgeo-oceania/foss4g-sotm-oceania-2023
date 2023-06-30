@@ -15,13 +15,7 @@ const PresentPage = () => {
         <h3 className="text-xl font-medium text-gray-800 md:text-2xl lg:text-3xl mb-10">
           Keynote Speakers
         </h3>
-        <div className="md:flex md:flex-row justify-between">
-          <SpeakerCard
-            imgSrc="./imgs/keynote-speakers/MokaApiti.jpg"
-            title="Moka Apiti"
-            shortDescription="Indigenous Mapping in Aotearoa New Zealand"
-            longDescriptionSrc="./documents/keynote-speakers/moka-apiti-long-description.md"
-          />
+        <div className="md:flex md:flex-row justify-around">
           <SpeakerCard
             imgSrc="./imgs/keynote-speakers/UeakeiaTofinga.jpeg"
             title="Ueakeia Martin Tofinga"
