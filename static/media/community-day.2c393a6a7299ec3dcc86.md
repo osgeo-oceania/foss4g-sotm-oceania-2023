@@ -16,7 +16,8 @@ If you are interested in leading a community day event, send us an email with yo
 <br /><br />
 
 ## Community Day Proposals
-### Excusions
+
+### Excursions
 - Kingsland Heritage Mapping
 - Cartography Archives
 
