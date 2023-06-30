@@ -16,12 +16,12 @@ If you are interested in leading a community day event, send us an email with yo
 <br /><br />
 
 ## Community Day Proposals
-**Excusions:**
+**Excusions**
 - Kingsland Heritage Mapping
 - Cartography Archives
 
-**Meetups:**
+**Meetups**
 - Heritage Mappers
   
-**Hackathons:**
+**Hackathons**
 - OS Story Maps
