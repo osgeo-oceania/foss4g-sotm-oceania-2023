@@ -16,5 +16,12 @@ If you are interested in leading a community day event, send us an email with yo
 <br /><br />
 
 ## Community Day Proposals
+### Excusions:
+- Kingsland Heritage Mapping
+- Cartography Archives
 
-TBA
+### Meetups:
+- Heritage Mappers
+  
+### Hackathons: 
+- OS Story Maps
