@@ -18,13 +18,13 @@ If you are interested in leading a community day event, send us an email with yo
 ## Community Day Proposals
 
 ### Mapathons
-- OSM
-  
+- OSM<br />
+
 ### Meetups
 - Heritage Mappers
 - Environment Mappers
 - Archaeology Mappers
-- QGIS
+- QGIS<br />
 
 ### Hackathons
-- OS Story Maps
+- OS Story Maps<br />
