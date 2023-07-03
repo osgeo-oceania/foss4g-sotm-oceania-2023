@@ -17,6 +17,9 @@ If you are interested in leading a community day event, send us an email with yo
 
 ## Community Day Proposals
 
+### Mapathons
+- OSM
+  
 ### Excursions
 - Cartography Archives
 
