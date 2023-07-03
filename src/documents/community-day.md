@@ -20,9 +20,6 @@ If you are interested in leading a community day event, send us an email with yo
 ### Mapathons
 - OSM
   
-### Excursions
-- Cartography Archives
-
 ### Meetups
 - Heritage Mappers
 - Environment Mappers
