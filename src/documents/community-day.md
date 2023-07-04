@@ -30,5 +30,3 @@ If you are interested in leading a community day event, send us an email with yo
 
 ### Hackathons
 - OS Story Maps: looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin<br />
-> Current Products
-> - [StoryMapJS](https://github.com/NUKnightLab/StoryMapJS)
