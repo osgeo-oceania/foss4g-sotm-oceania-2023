@@ -21,12 +21,14 @@ If you are interested in leading a community day event, send us an email with yo
 - OSM<br />
 
 ### Meetups
-- OSGeo
-- FOSS4G SoTM Oceania 2024 Conference Committee Information (for those who may want to be involved in coordinating the next conference)
+- OSGeo Oceania
+- FOSS4G SoTM Oceania 2024 Conference Committee Information: for those who may want to be involved in coordinating the next conference
 - Heritage Mappers
 - Environment Mappers
 - Archaeology Mappers
 - QGIS<br />
 
 ### Hackathons
-- OS Story Maps<br />
+- OS Story Maps: looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin<br />
+> Current Products
+> - [StoryMapJS](https://github.com/NUKnightLab/StoryMapJS)
