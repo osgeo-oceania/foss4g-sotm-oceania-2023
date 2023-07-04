@@ -21,6 +21,8 @@ If you are interested in leading a community day event, send us an email with yo
 - OSM<br />
 
 ### Meetups
+- OSGeo
+- FOSS4G SoTM Oceania 2024 Conference Committee Information (for those who may want to be involved in coordinating the next conference)
 - Heritage Mappers
 - Environment Mappers
 - Archaeology Mappers
