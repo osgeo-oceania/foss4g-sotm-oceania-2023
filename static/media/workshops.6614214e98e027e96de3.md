@@ -25,8 +25,9 @@ to propose something completely different!
 - [2018 Workshops](https://2018.foss4g-oceania.org/program/workshops.html)
 
 <br />
-### To submit a proposal for a workshop
+<!---### To submit a proposal for a workshop
 Visit our call for papers page [here](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp).
+-->
 <br /><br />
 Cut-off date for submission for workshops is **Friday 14th July 2023**. 
 <br /><br />
