@@ -15,7 +15,7 @@ You will be asked to register your email address in order to get an email with a
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/p/voting/signup/">
     VOTE HERE till Tuesday 25th July
 </button>
-
+<br /><br />
 # Present
 We are pleased to open our Call for Presentations and Workshops. FOSS4G SotM Oceania brings geospatial professionals, software developers and users from around the region, for 5 days of workshops, talks and activities.
 <br /><br />
