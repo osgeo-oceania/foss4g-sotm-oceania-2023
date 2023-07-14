@@ -38,10 +38,10 @@ We want you to share your fascinating stories about open source geospatial, open
 Once community voting has been completed, successful applications will be notified in the first week of August. If you are successful in your application, you will still need to purchase a conference ticket and hopefully you get in before the early-bird tickets close!
 <br /><br />
 
-<!--<br />
+<br />
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp">
-    Submit your presentation or lightning talk
-</button>-->
+    Review your presentation or lightning talk
+</button>
 
 <!--<br /><br />
 <!-- the workshop link below will need to be updated -->
