@@ -4,12 +4,19 @@
 
 ### Community Review
 
-Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. 
-You can vote on the talks from July 15th to July 25th. 
+Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room.
+
+**You can vote on the talks from July 15th to July 25th.**
 <br /><br />
 
 ### How to Vote
 You will be asked to register your email address in order to get an email with a link to vote. 
+
+Go through each presentation there is a 1 to 3 score:
+- 1 = Definitely
+- 2 = Probably
+- 3 = Not interested
+
 
 <br />
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/p/voting/signup/">
@@ -44,7 +51,8 @@ Once community voting has been completed, successful applications will be notifi
 <br /><br />
 
 <!-- the workshop link below will need to be updated -->
-> Do you wish to submit a **Workshop**? Check out the submission details [here](/#/workshops)  -->
+> For more information on **Workshops** check [here](/#/workshops)
+
 <br /><br />
 
 ### Tips for speakers
