@@ -4,16 +4,16 @@
 
 ### Community Review
 
-Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. 
-You can vote on the talks from July 15th to July 25th. 
+Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. <br />
+**You can vote on the talks from July 15th to July 25th. **
 <br /><br />
 
 ### How to Vote
-You will be asked to register your email address in order to get an email with a link to vote. 
+You will be asked to register your email address in order to get an email with a link to vote. <br />
 Go through each presentation there is a 1 to 3 score:
-1 = Definitely
-2 = Probably
-3 = Not interested
+- 1 = Definitely
+- 2 = Probably
+- 3 = Not interested
 
 
 <br />
