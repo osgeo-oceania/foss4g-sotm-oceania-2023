@@ -44,7 +44,8 @@ Once community voting has been completed, successful applications will be notifi
 <br /><br />
 
 <!-- the workshop link below will need to be updated -->
-> Do you wish to submit a **Workshop**? Check out the submission details [here](/#/workshops)  -->
+> For more information on **Workshops** check [here](/#/workshops)
+
 <br /><br />
 
 ### Tips for speakers
