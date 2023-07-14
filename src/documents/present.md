@@ -4,7 +4,8 @@
 
 ### Community Review
 
-Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. <br />
+Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room.
+
 **You can vote on the talks from July 15th to July 25th.**
 <br /><br />
 
