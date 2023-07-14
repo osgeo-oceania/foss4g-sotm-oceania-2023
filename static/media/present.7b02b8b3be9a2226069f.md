@@ -2,13 +2,30 @@
 - please review for spelling and syntax
 -->
 
+### Community Review
+
+Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. 
+You can vote on the talks from July 15th to July 25th. 
+<br /><br />
+
+### How to Vote
+You will be asked to register your email address in order to get an email with a link to vote. 
+
+<br />
+<button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/p/voting/signup/">
+    VOTE HERE till Tuesday 25th July
+</button>
+
 # Present
 We are pleased to open our Call for Presentations and Workshops. FOSS4G SotM Oceania brings geospatial professionals, software developers and users from around the region, for 5 days of workshops, talks and activities.
 <br /><br />
 
-> Call for presentations are now CLOSED!
+> Call for presentations are now CLOSED! We are now in the Voting period. 
+
+
 
 <br />
+
 ## Call for Presentations and Lightning talks
 
 We want you to share your fascinating stories about open source geospatial, open data, and open street map in Oceania. We welcome all levels of expertise, from highly technical to end user, and from academic, professional and community projects, on subjects related to Free and Open Source GIS, Open Street Map, and publication and use of open data. Remember, your talk will need to represent either a project about Oceania, or you yourself are representing the Oceania region. If you reside outside the region, ensure your presentation applies to Oceania's needs. 
@@ -21,15 +38,15 @@ We want you to share your fascinating stories about open source geospatial, open
 Once community voting has been completed, successful applications will be notified in the first week of August. If you are successful in your application, you will still need to purchase a conference ticket and hopefully you get in before the early-bird tickets close!
 <br /><br />
 
-<br />
+<!--<br />
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp">
     Submit your presentation or lightning talk
-</button>
+</button>-->
 
-<br /><br />
+<!--<br /><br />
 <!-- the workshop link below will need to be updated -->
 > Do you wish to submit a **Workshop**? Check out the submission details [here](/#/workshops) 
-
+-->
 <br /><br />
 
 ### Tips for speakers
@@ -49,16 +66,6 @@ We believe in equality, so all presenters have the same exact amount of time to 
 And last, but not least, the success of this event lies in the responsible actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
 <br /><br />
 
-### Community Review
 
-Help us curate our schedule! The number of votes will help us schedule where we place the talks including the room size i.e. the higher number of votes will go into the main room. 
-You can vote on the talks from July 15th to July 31st. 
-<br /><br />
 
-### How to Vote
-You will be asked to register your email address in order to get an email with a link to vote. 
 
-<br />
-<button target="https://talks.osgeo.org/foss4g-sotm-oceania-2023/p/voting/signup/">
-    VOTE HERE from July 15th
-</button>
