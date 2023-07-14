@@ -43,7 +43,7 @@ Once community voting has been completed, successful applications will be notifi
     Review your presentation or lightning talk
 </button>
 
-<!--<br /><br />
+<br /><br />
 <!-- the workshop link below will need to be updated -->
 > Do you wish to submit a **Workshop**? Check out the submission details [here](/#/workshops) 
 -->
