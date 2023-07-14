@@ -22,8 +22,6 @@ We are pleased to open our Call for Presentations and Workshops. FOSS4G SotM Oce
 
 > Call for presentations are now CLOSED! We are now in the Voting period. 
 
-
-
 <br />
 
 ## Call for Presentations and Lightning talks
@@ -44,9 +42,9 @@ Once community voting has been completed, successful applications will be notifi
 </button>
 
 <br /><br />
+
 <!-- the workshop link below will need to be updated -->
 > Do you wish to submit a **Workshop**? Check out the submission details [here](/#/workshops) 
--->
 <br /><br />
 
 ### Tips for speakers
