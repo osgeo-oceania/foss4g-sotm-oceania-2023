@@ -10,7 +10,7 @@ Thank-you for helping curate our schedule! The number of votes will help us sche
 <br /><br />
 
 ### What happens now? 
-> - The **FOSS4G SoTM OCeania 2023 Organising Committee** will now review the votes and accceptance emails should be in your inbox by Sunday 30th July.
+> - The **FOSS4G SoTM Oceania 2023 Organising Committee** will now review the votes and accceptance emails should be in your inbox by Sunday 30th July.
 > - Acceptance emails will be sent out to all submissions
 > - You will need to confirm by Thursday 10th August as to whether you will be attending
 
