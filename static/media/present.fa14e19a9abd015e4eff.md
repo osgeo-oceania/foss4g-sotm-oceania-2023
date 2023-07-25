@@ -10,9 +10,9 @@ Thank-you for helping curate our schedule! The number of votes will help us sche
 <br /><br />
 
 ### What happens now? 
-> - The **FOSS4G SoTM Oceania 2023 Organising Committee** will now review the votes and accceptance emails should be in your inbox by Sunday 30th July.
-> - Acceptance emails will be sent out to all submissions
-> - You will need to confirm by Thursday 10th August as to whether you will be attending
+> - The **FOSS4G SoTM Oceania 2023 Organising Committee** will now review the votes.
+> - Acceptance emails will be sent out to all submissions.
+> - You will need to confirm by Thursday 10th August as to whether you will be attending.
 
 <!-- ### How to Vote
 You will be asked to register your email address in order to get an email with a link to vote. 
@@ -55,15 +55,15 @@ Once community voting has been completed, successful applications will be notifi
 </button>
 
 <br /><br />
--->
-<!-- the workshop link below will need to be updated -->
-> For more information on **Workshops** check [here](/#/workshops)
 
+<!-- the workshop link below will need to be updated 
+> For more information on **Workshops** check [here](/#/workshops)
+-->
 <br /><br />
 
 ### Tips for speakers
 <!-- The OSGeo community is characterized for its dynamic way of growing and we are proud of welcoming a variety of voices and ideas. If you are considering sending a proposal to our call for papers, consider the following: -->
-Submissions will be open for editing once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission])
+Submissions will be open for editing once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission]).
 <br /><br />
 - FOSS4G’s backbone is free and open source, so make sure you clearly indicate what is (are) the open source project(s) essential in your talk
 - If you present new developments or a completely new open source project, make sure you point to its repository(ies) so people can follow up. You can add in links to your submission.
