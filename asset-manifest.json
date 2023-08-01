@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.520ca92f.css",
-    "main.js": "/static/js/main.1ac4fddf.js",
+    "main.js": "/static/js/main.48b9892e.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.2ae3e42d650a84ab59ef.md",
     "static/media/present.md": "/static/media/present.fa14e19a9abd015e4eff.md",
-    "static/media/register.md": "/static/media/register.4200f15ad779f6e582bf.md",
+    "static/media/register.md": "/static/media/register.d8c2101b4e58a7c64c8c.md",
     "static/media/social-events.md": "/static/media/social-events.beb3b549b6914d165676.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
     "static/media/community-day.md": "/static/media/community-day.5c61bebc1c8d952f2acd.md",
@@ -18,11 +18,11 @@
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.28e83d12fac29e4ac71b.md",
     "static/media/top-menu.md": "/static/media/top-menu.b5096e6f1bc1443681a5.md",
     "main.520ca92f.css.map": "/static/css/main.520ca92f.css.map",
-    "main.1ac4fddf.js.map": "/static/js/main.1ac4fddf.js.map",
+    "main.48b9892e.js.map": "/static/js/main.48b9892e.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.520ca92f.css",
-    "static/js/main.1ac4fddf.js"
+    "static/js/main.48b9892e.js"
   ]
 }
