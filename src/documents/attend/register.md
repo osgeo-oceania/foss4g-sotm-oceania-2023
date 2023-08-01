@@ -8,7 +8,8 @@ There are several registration levels available and we do have
 
 | Type                  | Details                                                                                                                   | Cost (NZD) |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Early Bird            | Only available until 1st August 2023!                                                                                     | $400       |
+| Standard              | General registraion.                                                                                                      | $400       |
+| Early Bird            | *Extended by popular demand to 14th August 2023*                                                                          | $400       |
 | Student               | For secondary and tertiary students at any institution.                                                                   | $230       |
 | Community Contributor | For open source, open data or volunteer community contributors otherwise not supported by another organisation to attend. | $230       |
 
