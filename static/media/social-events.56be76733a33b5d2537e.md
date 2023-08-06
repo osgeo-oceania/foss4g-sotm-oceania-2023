@@ -29,7 +29,7 @@ If you are a recipient of the **Travel Grant Program** (TGP), this is your break
 Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/eat-drink/), 2 High Street, Auckland *
 
 * Dress: Cool daywear geogeek - no PJs
-* Tickets: $20 are limited (coming soon)
+* Tickets: $10 are limited (coming soon)
 
 <br /> 
 Come along and celebrate **Women in GIS** whilst you enjoy a delicious breakfast accompanied by our speakers. You do not have to identify as Female to attend this event! 
