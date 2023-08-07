@@ -29,7 +29,7 @@ const PresentPage = () => {
             longDescriptionSrc="./documents/keynote-speakers/jeremy-palmer-long-description.md"
               />
           <SpeakerCard
-            imgSrc="./imgs/keynote-speakers/OrisiNaivalurua2.jpg"
+            imgSrc="./imgs/keynote-speakers/OrisiNaivalurua3.jpg"
             title="Orisi Naivalurua"
             shortDescription="Capacity Building on the Hazard and Exposure Database for the Pacific Catastrophe Risk Assessment & Financing Initiative II (PCRAFII) Project"
             longDescriptionSrc="./documents/keynote-speakers/orisi-naivalurua-long_description.md"
