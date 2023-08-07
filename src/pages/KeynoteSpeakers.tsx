@@ -27,6 +27,12 @@ const PresentPage = () => {
             title="Jeremy Palmer"
             shortDescription="Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data"
             longDescriptionSrc="./documents/keynote-speakers/jeremy-palmer-long-description.md"
+              />
+          <SpeakerCard
+            imgSrc="./imgs/keynote-speakers/OrisiNaivalurua.jpg"
+            title="Orisi Naivalurua"
+            shortDescription="Capacity Building on the Hazard and Exposure Database for the Pacific Catastrophe Risk Assessment & Financing Initiative II (PCRAFII) Project"
+            longDescriptionSrc="./documents/keynote-speakers/orisi-naivalurua-long_description.md"
           />
         </div>
       </section>
