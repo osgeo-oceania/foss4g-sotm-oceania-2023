@@ -14,19 +14,20 @@ status: writing -->
 
 <!-- Front Intro card -->
 
-![Moka Apiti]('/imgs/MokaApiti.jpg') <br/>
+![Orisi Naivalurua]('/imgs/OrisiNaivalurua.jpg') <br/>
 
-## Moka Apiti <br/>
+## Orisi Naivalurua <br/>
 ## Indigenous Mapping in Aotearoa New Zealand  <br/>
 <!-- Back Details card -->
-![Moka Apiti]('/imgs/MokaApiti.jpg')
-## Moka Apiti <br/>
-Moka is the Managing Director at Digital Navigators Limited - Te Ipu Arataki i te Taiao. He is passionate about supporting and empowering iwi and Indigenous communities to achieve their own aspirations through the use of geospatial and digital technologies and the integration of Indigenous knowledge systems. With 28 years in the GeoSpatial Industry, he was a finalist in the 2019 Award for People and Community New Zealand Spatial Excellence Awards. Moka leads the Indigenous Mapping Wananga here in Aotearoa NZ and is a partner to the Canada and Australia Indigenous Mapping Workshops as well. Moka fist came across open source through a community member and projects include a covid vaccination application (Mapbox) and 3D modelling landuse classification and drone integration (QGIS). 
+![Orisi Naivalurua]('/imgs/OrisiNaivalurua.jpg')
+## Orisi Naivalurua <br/>
+Orisi Naivalurua is currently a Technical and Research Officer at the Pacific Community (SPC); under the Disaster Community Resilience Program (DCRP), which sits under the Geoscience, Energy & Maritime (GEM) Division. His experience in Pacific Island countries (PICs) has revolved around assisting country stakeholders in updating national risk information in an effort to assist PICs in making accurate risk-informed decisions. Under the Capacity Building on the Hazard and Exposure Database for the Pacific Catastrophe Risk Assessment & Financing Initiative (PCRAFI) Project, he and his team have worked with PICs to help update risk data in the Pacific Risk Information System (PacRIS) through in-country exposure and impact surveys, whilst introducing and utilizing open-sourced tools.<br/>
+With a continued focus on hard-work, perseverance and the right attitude, Orisi has been able to put his background knowledge in Geographic Information Systems (GIS), disaster risk knowledge, and climate change to good use. When he’s not in the office, Orisi enjoys his time outdoors; whether on a field playing a game of rugby, or in the farm investing/tilling the land. His passion is in building the next generation and setting the right foundational principles (in whatever aspect it may be) with education, proper guidance, continuous support and sensitive encouragement over the young leaders of tomorrow. 
  <br/>
- [LinkedIn](https://www.linkedin.com/in/moka-apiti-b4ab38a/) <br/>
+ [LinkedIn]((https://www.linkedin.com/in/orisi-naivalurua-75b8161ba)) <br/>
  
-## Indigenous Mapping in Aotearoa New Zealand <br/>
-What are the different GIS user cases Iwi are doing in Aotearoa  <br/>
+## Capacity Building on the Hazard and Exposure Database for the Pacific Catastrophe Risk Assessment & Financing Initiative II (PCRAFII) Project <br/>
+This presentation will present on how the project worked with countries to use open-source tools for the exposure data mapping and the validation and quality assurance process through to the uploading of data on the open-source platform PacRIS. The workflow and the results from the project will be presented, as well as the lessons learnt that were captured in the follow up evaluations with each country. Examples of how the country representatives have taken the tools land also utilised them for their core work will also be presented. The presentation will also show how this work is being built upon by other projects such as PARtneR to further build the regions capabilities in risk assessment contributing to disaster and finance risk in the region.  <br/>
 <!-- ### Keynote session time TBC -->
 <br/>
 
