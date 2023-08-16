@@ -1,6 +1,6 @@
 # Program
 
-Our program, well it's going to be a busy week - so make sure you pack your Weet-Bix!
+Our program. It's going to be a busy week, so make sure you pack your Weetbix!
 
 All asterixed events can be bought via the register page either at the time of registering or after.
 
@@ -11,4 +11,3 @@ All asterixed events can be bought via the register page either at the time of r
 | Wednesday 18 October | Day 2 of the Conference                                          | Women in GIS Breakfast, Conference Dinner |
 | Thursday 19 October  | Day 3 of the Conference                                          | Closing night drinks                      |
 | Friday 20 October    | [Community Day](https://2023.foss4g-oceania.org/#/community-day) | TBC get together                          |
-

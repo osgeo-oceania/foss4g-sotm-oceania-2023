@@ -25,6 +25,11 @@ const PresentPage = () => {
         }}
         className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
       ></section>
+      <section className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center">
+        <div>
+          <pretalx-schedule event-url="http://talks.osgeo.org/foss4g-sotm-oceania-2023/" locale="en" format="grid" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
+        </div>
+      </section>
       <section className="container px-6 py-8 mx-auto lg:py-16">
         <div>
           <Markdown
