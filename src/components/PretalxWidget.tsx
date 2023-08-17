@@ -21,6 +21,12 @@ function PretalxWidget() {
               // Now you can query within the shadow root
               const targetElement = shadowRoot.querySelectorAll(".settings");
 
+              const links = shadowRoot.querySelectorAll('a');
+              
+              links.forEach(link => {
+                link.setAttribute('target', '_blank');
+              });
+
               if (targetElement) {
                 if (targetElement.length > 0) {
                   clearInterval(interval);
