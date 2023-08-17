@@ -6,7 +6,7 @@ import Content from "../../documents/attend/program.md";
 import Table from "../../components/Table";
 import Blockquote from "../../components/Blockquote";
 import Button from "../../components/Button";
-import ScheduleComponent from "../../components/ScheduleComponent";
+import PretalxWidget from "../../components/PretalxWidget";
 
 const ProgramPage = () => {
   const [mddText, setMddText] = useState("");
@@ -28,7 +28,7 @@ const ProgramPage = () => {
         }}
         className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
       ></section>
-      <section className="container px-6 py-8 mx-auto lg:py-16">
+      {/* <section className="container px-6 py-8 mx-auto lg:py-16">
         <div>
           <Markdown
             options={{
@@ -96,10 +96,8 @@ const ProgramPage = () => {
             children={mddText}
           />
         </div>
-      </section>
-      <section className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center">
-          <ScheduleComponent />
-      </section>
+      </section> */}
+      <PretalxWidget />
     </>
   );
 };
