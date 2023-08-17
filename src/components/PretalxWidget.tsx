@@ -9,30 +9,33 @@ function PretalxWidget() {
     // Make sure iframe is loaded
     if (iframe) {
       iframe.onload = function () {
-        setTimeout(() => {
+        const interval = setInterval(() => {
           try {
-
             const iframeDoc = iframe.contentWindow?.document;
-            const shadowHost = iframeDoc?.getElementById('schedule');
-            
+            const shadowHost = iframeDoc?.getElementById("schedule");
+
             // Access the shadow root
             const shadowRoot = shadowHost?.shadowRoot;
 
             if (shadowRoot) {
-                // Now you can query within the shadow root
-                const targetElement = shadowRoot.querySelectorAll('.settings');
-                if (targetElement) {
-                    targetElement.forEach((element: Element) => {
-                (element as HTMLElement).style.display = "none";
-              });
+              // Now you can query within the shadow root
+              const targetElement = shadowRoot.querySelectorAll(".settings");
+
+              if (targetElement) {
+                if (targetElement.length > 0) {
+                  clearInterval(interval);
                 }
+                targetElement.forEach((element: Element) => {
+                  (element as HTMLElement).style.display = "none";
+                });
+              }
             }
 
             window.scrollTo(0, 0);
           } catch (error) {
             console.error("Error accessing iframe content:", error);
           }
-        }, 500);
+        }, 100);
       };
     }
   }, []);
