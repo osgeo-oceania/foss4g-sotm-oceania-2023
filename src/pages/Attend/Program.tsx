@@ -1,7 +1,7 @@
-import { useState, useEffect } from "react";
+// import { useState, useEffect } from "react";
 // import Markdown from "markdown-to-jsx";
 
-import Content from "../../documents/attend/program.md";
+// import Content from "../../documents/attend/program.md";
 
 // import Table from "../../components/Table";
 // import Blockquote from "../../components/Blockquote";
