@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.pretalx{
+  --pretalx-clr-primary: #3aa57c
+}
