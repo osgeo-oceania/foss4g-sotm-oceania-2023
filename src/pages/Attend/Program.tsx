@@ -1,22 +1,22 @@
 import { useState, useEffect } from "react";
-import Markdown from "markdown-to-jsx";
+// import Markdown from "markdown-to-jsx";
 
 import Content from "../../documents/attend/program.md";
 
-import Table from "../../components/Table";
-import Blockquote from "../../components/Blockquote";
-import Button from "../../components/Button";
+// import Table from "../../components/Table";
+// import Blockquote from "../../components/Blockquote";
+// import Button from "../../components/Button";
 import PretalxWidget from "../../components/PretalxWidget";
 
 const ProgramPage = () => {
-  const [mddText, setMddText] = useState("");
+  // const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
-  useEffect(() => {
-    fetch(Content)
-      .then((res) => res.text())
-      .then((text) => setMddText(text));
-  });
+  // useEffect(() => {
+  //   fetch(Content)
+  //     .then((res) => res.text())
+  //     .then((text) => setMddText(text));
+  // });
 
   return (
     <>
