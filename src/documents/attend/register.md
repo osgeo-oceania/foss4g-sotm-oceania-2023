@@ -23,9 +23,27 @@ There are several registration levels available and we do have
 
 <br />
 <button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023">
-    Register here
+    Conference Registration
 </button>
 
+<br />
+<br />
+## Workshop Registration
+
+**Each workshop will have capacity for a maximum of 25 participants, so register quick!**
+
+| Type                  | Details                                                                                                                   | Cost (NZD) |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Morning               | General registration for one Morning workshop on Monday 16th October 2023.                                                | $100       |
+| Afternoon             | General registration for one Afternoon workshop on Monday 16th October 2023.                                              | $100       |
+
+<br />
+<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023-workshops">
+    Workshop Registration
+</button>
+
+<br />
+<br />
 ## Do you need financial assistance?
 
 Our Travel Grant Program helps those that require financial assistance to attend from within Oceania. Applications closed on June 30 and applicants will hear from us by July 15. If you've missed our deadline, please subscribe to our mailing list to ensure you don't miss future opportunities. See our Travel Grant Program page for more details.
