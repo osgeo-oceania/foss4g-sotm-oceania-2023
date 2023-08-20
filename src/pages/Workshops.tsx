@@ -3,7 +3,10 @@ import Markdown from "markdown-to-jsx";
 
 import MarkDownDoc from "../documents/workshops.md";
 
+import Table from "../components/Table";
 import Blockquote from "../components/Blockquote";
+import Button from "../components/Button";
+
 
 const WorkshopsPage = () => {
   const [mddText, setMddText] = useState("");
@@ -30,6 +33,29 @@ const WorkshopsPage = () => {
           <Markdown
             options={{
               overrides: {
+                table: {
+                  component: Table,
+                },
+                thead: {
+                  props: {
+                    className: "bg-gray-800",
+                  },
+                },
+                th: {
+                  props: {
+                    className: "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
+                  },
+                },
+                tbody: {
+                  props: {
+                    className: "bg-gray-900 divide-y divide-gray-700",
+                  },
+                },
+                td: {
+                  props: {
+                    className: "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
+                  },
+                },
                 h1: {
                   props: {
                     className:
@@ -39,7 +65,8 @@ const WorkshopsPage = () => {
                 h2: {
                   props: {
                     className:
-                      "text-2xl font-semibold text-gray-700 capitalize",
+                    // add space before teh paragraph
+                      "text-2xl font-semibold text-gray-700 capitalize my-4",
                   },
                 },
                 h3: {
@@ -56,10 +83,13 @@ const WorkshopsPage = () => {
                     component: Blockquote,
                 },
                 a: {
+                  // make links buttons
                   props: {
                     className: "text-blue-500 underline",
-                    target: "_blank",
                   },
+                },
+                button: {
+                  component: Button,
                 }
               },
             }}
