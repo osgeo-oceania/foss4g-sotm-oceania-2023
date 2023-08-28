@@ -18,21 +18,21 @@ Whether you've been toiling the day in the workshops or have just flown in, join
 Tuesday morning *7am, Venue TBC*
 
 * Dress: Cool daywear geogeek - no PJs
-* Tickets: by invite only
+* Tickets: invite only
 
 <br />
 If you are a recipient of the **Travel Grant Program** (TGP), this is your breakfast put on by [OSGeo Oceania](https://osgeo-oceania.org/foss4g23_travel-grant-program/)! This is a chance to meet other TGP recipients and for our oganising committee to connect with you.
 
 <br />
 
-### Women in GIS Breakfast
+### Women in Geospatial Breakfast
 Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/eat-drink/), 2 High Street, Auckland *
 
 * Dress: Cool daywear geogeek - no PJs
-* Tickets: $10 are limited (coming soon)
+* Tickets: $10 [register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
 
 <br /> 
-Come along and celebrate **Women in GIS** whilst you enjoy a delicious breakfast accompanied by our speakers. You do not have to identify as Female to attend this event! 
+Come along and celebrate **Women in Geospatial** whilst you enjoy a delicious breakfast accompanied by our speakers. You do not have to identify as Female to attend this event! 
 <!--This event is sponsored by [X](link).-->
 <br />
 
