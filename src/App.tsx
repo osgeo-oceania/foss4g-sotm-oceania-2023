@@ -3,7 +3,7 @@ import Layout from "./pages/Layout";
 import LayoutNoFooter from "./pages/LayoutNoFooter";
 import Home from "./pages/Home";
 import CodeOfConductPage from "./pages/CodeOfConduct";
-import AccomodationPage from "./pages/Attend/Accomodation";
+import AccommodationPage from "./pages/Attend/Accommodation";
 import NoPage from "./pages/NoPage";
 import PresentPage from "./pages/Present";
 import AttendTGPPage from "./pages/Attend/TravelGrantProgram";
@@ -15,7 +15,6 @@ import ProgramPage from "./pages/Attend/Program";
 import RegisterPage from "./pages/Attend/Register";
 import SocialEventsPage from "./pages/Attend/SocialEvents";
 
-
 export default function App() {
   return (
     <HashRouter>
@@ -24,9 +23,15 @@ export default function App() {
           <Route index element={<Home />} />
           <Route path="code-of-conduct" element={<CodeOfConductPage />} />
           <Route path="present" element={<PresentPage />} />
-          <Route path="attend/travel-grant-program" element={<AttendTGPPage />} />
-          <Route path="attend/our-conference-venue" element={<OurConferenceVenuePage />} />
-          <Route path="attend/accomodation" element={<AccomodationPage />} />
+          <Route
+            path="attend/travel-grant-program"
+            element={<AttendTGPPage />}
+          />
+          <Route
+            path="attend/our-conference-venue"
+            element={<OurConferenceVenuePage />}
+          />
+          <Route path="attend/Accommodation" element={<AccommodationPage />} />
           <Route path="attend/register" element={<RegisterPage />} />
           <Route path="attend/social-events" element={<SocialEventsPage />} />
           <Route path="workshops" element={<Workshops />} />
@@ -34,7 +39,7 @@ export default function App() {
           <Route path="sponsorship" element={<Sponsorship />} />
           <Route path="*" element={<NoPage />} />
         </Route>
-        <Route path="/" element={<LayoutNoFooter />} >
+        <Route path="/" element={<LayoutNoFooter />}>
           <Route path="attend/program" element={<ProgramPage />} />
         </Route>
       </Routes>

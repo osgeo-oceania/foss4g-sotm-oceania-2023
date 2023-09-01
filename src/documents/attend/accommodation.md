@@ -1,6 +1,6 @@
-# Accomodation
+# Accommodation
 
-Auckland has a wide variety of accomodation options, from shared houses and apartments to hotels and motels.
+Auckland has a wide variety of Accommodation options, from shared houses and apartments to hotels and motels.
 
 
 ## Quest Valued Customer Rate

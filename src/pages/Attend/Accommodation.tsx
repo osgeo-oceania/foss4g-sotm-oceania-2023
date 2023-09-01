@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import Content from "../../documents/attend/accomodation.md";
+import Content from "../../documents/attend/accommodation.md";
 
 import Table from "../../components/Table";
 import Blockquote from "../../components/Blockquote";
 import Button from "../../components/Button";
 
-const AccomodationPage = () => {
+const AccommodationPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
@@ -42,7 +42,8 @@ const AccomodationPage = () => {
                 },
                 th: {
                   props: {
-                    className: "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
+                    className:
+                      "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
                   },
                 },
                 tbody: {
@@ -52,7 +53,8 @@ const AccomodationPage = () => {
                 },
                 td: {
                   props: {
-                    className: "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
+                    className:
+                      "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
                   },
                 },
                 h1: {
@@ -64,7 +66,7 @@ const AccomodationPage = () => {
                 h2: {
                   props: {
                     className:
-                    // add space before teh paragraph
+                      // add space before teh paragraph
                       "text-2xl font-semibold text-gray-700 capitalize my-4",
                   },
                 },
@@ -79,7 +81,7 @@ const AccomodationPage = () => {
                   },
                 },
                 blockquote: {
-                    component: Blockquote,
+                  component: Blockquote,
                 },
                 a: {
                   // make links buttons
@@ -89,7 +91,7 @@ const AccomodationPage = () => {
                 },
                 button: {
                   component: Button,
-                }
+                },
               },
             }}
             children={mddText}
@@ -99,4 +101,4 @@ const AccomodationPage = () => {
     </>
   );
 };
-export default AccomodationPage;
+export default AccommodationPage;
