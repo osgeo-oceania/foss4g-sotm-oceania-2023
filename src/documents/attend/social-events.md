@@ -10,7 +10,7 @@ Monday night *6pm, [Dr Rudi's](https://drrudis.co.nz/) Level 2/204 Quay St, Viad
 * Tickets: Free with conference registration
 
 <br />
-Whether you've been toiling the day in the workshops or have just flown in, join us at the Icebreaker get-together. Don your lanyard to meet up with old friends and make some new acquaintances. You will be kicking yourself if you miss this one! See you there! 
+Whether you've been toiling the day in the workshops or have just flown in, join us at the Icebreaker get-together. Meet up with old friends and make some new acquaintances. You will be kicking yourself if you miss this one! See you there! 
 <!-- This event is sponsored by **TBC**. -->
 <br />
 
