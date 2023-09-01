@@ -5,4 +5,4 @@ With a continued focus on hard-work, perseverance, and the right attitude, Orisi
 ## Capacity Building on the Hazard and Exposure Database for the Pacific Catastrophe Risk Assessment & Financing Initiative II (PCRAFII) Project<br/>
 Orisi's involvement in the [PCRAFII]( https://gem.spc.int/projects/capacity-building-on-the-hazard-and-exposure-database-for-pacific-catastrophe-risk) has seen the implementation of Open Source tools, including Kobo Toolbox and QGIS throughout the project areas of focus including Samoa, Solomon Islands, the Kingdom of Tonga, Republic of Vanuatu, and the Cook Islands. In his keynote, he will expand on the challenges, successes and opportunities this project has presented. 
 
- <!-- ### Keynote session time TBC -->
+ ### Orisi will be presenting at 10.10am, Thursday 19th October in the Plenary Room
