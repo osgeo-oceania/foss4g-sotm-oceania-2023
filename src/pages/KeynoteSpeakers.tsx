@@ -17,7 +17,7 @@ const PresentPage = () => {
         </h3>
         <div className="md:flex md:flex-row justify-around">
           <SpeakerCard
-            imgSrc="./imgs/keynote-speakers/CarrolChan.jpeg"
+            imgSrc="./imgs/keynote-speakers/CarrolChan.jpg"
             title="Carrol Chan"
             shortDescription="Building and progressing a mapping community in the Pacific, what is the role of unseen bias?"
             longDescriptionSrc="./documents/keynote-speakers/carrol-chan.md"
