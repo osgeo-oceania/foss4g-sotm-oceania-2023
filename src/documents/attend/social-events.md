@@ -4,7 +4,7 @@ C'mon and get Social! No top hat and ties here - unless you must. We have some f
 <br />
 
 ### Icebreaker get-together
-Monday night *6pm, Venue TBC*
+Monday night *6pm, [Dr Rudi's](https://drrudis.co.nz/) Level 2/204 Quay St, Viaduct Harbour, Auckland*
 
 * Dress: Cool eveningwear geogeek 
 * Tickets: Free with conference registration
