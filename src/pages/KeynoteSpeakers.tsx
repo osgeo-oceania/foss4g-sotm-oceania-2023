@@ -20,7 +20,7 @@ const PresentPage = () => {
            imgSrc="./imgs/keynote-speakers/CarrolChan.jpg"
             title="Carrol Chan"
             shortDescription="Do you see what I see? Building = yes and other defaults"
-            longDescriptionSrc="./documents/keynote-speakers/carrol-chan.md"
+            longDescriptionSrc="./documents/keynote-speakers/carrol-chan-long-description.md"
           />
           <SpeakerCard
             imgSrc="./imgs/keynote-speakers/JeremyPalmer.jpg"
