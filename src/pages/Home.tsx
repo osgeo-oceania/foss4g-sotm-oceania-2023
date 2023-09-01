@@ -4,7 +4,7 @@ import { HashLink } from "react-router-hash-link";
 
 import AboutFoss4g from "../documents/about-foss4g-sotm-oceania.md";
 import KeynoteSpeakers from "../components/KeynoteSpeakers";
-import SponsorshipLevels from "../components/SponsorshipLevels";
+// import SponsorshipLevels from "../components/SponsorshipLevels";
 
 const Home = () => {
   const [mddText, setMddText] = useState("");
@@ -161,7 +161,7 @@ const Home = () => {
         />
       </section>
 
-      <SponsorshipLevels />
+      {/* <SponsorshipLevels /> */}
     </div>
   );
 };
