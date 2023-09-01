@@ -4,7 +4,7 @@
     * [Travel Grants](#/attend/travel-grant-program)
     * [Present](#/present)
     * [Venue](#/attend/our-conference-venue)
-    * [Accomodation](#/attend/accomodation)
+    * [Accommodation](#/attend/Accommodation)
 * [PROGRAM](#/attend/program)
     * [Schedule](#/attend/program)
     * [Workshops](#/workshops)
