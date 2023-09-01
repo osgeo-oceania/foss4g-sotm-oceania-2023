@@ -1,6 +1,6 @@
 Carrol Chan has been involved in the OS Community for 9 years and uses it throughout her research work. She is currently pursuing a PhD at the University of Newcastle, Australia and have been leading and organising OSM community events in Fiji under OSM Fiji for the last three years. Her research investigates the feasibility of remote sensing as a tool to monitor invasive alien plant species in the Pacific and is supported by the Pacific Regional Invasive Species Management Support Services (PRISMSS) faciliated by SPREP. Prior to her PhD I worked in the geospatial industry across the Pacific region, based in her home, Fiji. She is a member of the Young Pacific Leaders (YPL) Alumni, Commonwealth Scholarship Commission Alumni.
  <br/>
-[LinkedIn]([https://www.linkedin.com/in/moka-apiti-b4ab38a/](https://www.linkedin.com/in/carrol-chan-2303/)) <br/>
+[LinkedIn](https://www.linkedin.com/in/carrol-chan-2303/) <br/>
 ## Do you see what I see? Building = yes and other defaults <br/>
 "Drawing inspiration from Edafe Onerhime's insightful talk, we aim to expand the conversation and deepen our understanding of how our assumptions shape the OSM ecosystem, the mapping communities in the Pacific and examples of current practices.
 
