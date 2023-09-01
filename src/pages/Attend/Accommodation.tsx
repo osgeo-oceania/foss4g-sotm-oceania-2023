@@ -1,16 +1,18 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import CallForPapers from "../documents/call-for-papers.md";
+import Content from "../../documents/attend/accommodation.md";
 
-import Blockquote from "../components/Blockquote";
+import Table from "../../components/Table";
+import Blockquote from "../../components/Blockquote";
+import Button from "../../components/Button";
 
-const PresentPage = () => {
+const AccommodationPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
-    fetch(CallForPapers)
+    fetch(Content)
       .then((res) => res.text())
       .then((text) => setMddText(text));
   });
@@ -19,7 +21,7 @@ const PresentPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/present_crop_01.png')",
+          backgroundImage: "url('/imgs/2020_auckland_hub.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
@@ -30,6 +32,31 @@ const PresentPage = () => {
           <Markdown
             options={{
               overrides: {
+                table: {
+                  component: Table,
+                },
+                thead: {
+                  props: {
+                    className: "bg-gray-800",
+                  },
+                },
+                th: {
+                  props: {
+                    className:
+                      "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
+                  },
+                },
+                tbody: {
+                  props: {
+                    className: "bg-gray-900 divide-y divide-gray-700",
+                  },
+                },
+                td: {
+                  props: {
+                    className:
+                      "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
+                  },
+                },
                 h1: {
                   props: {
                     className:
@@ -39,7 +66,8 @@ const PresentPage = () => {
                 h2: {
                   props: {
                     className:
-                      "text-2xl font-semibold text-gray-700 capitalize",
+                      // add space before teh paragraph
+                      "text-2xl font-semibold text-gray-700 capitalize my-4",
                   },
                 },
                 h3: {
@@ -53,14 +81,17 @@ const PresentPage = () => {
                   },
                 },
                 blockquote: {
-                    component: Blockquote,
+                  component: Blockquote,
                 },
                 a: {
+                  // make links buttons
                   props: {
                     className: "text-blue-500 underline",
-                    target: "_blank",
                   },
-                }
+                },
+                button: {
+                  component: Button,
+                },
               },
             }}
             children={mddText}
@@ -70,4 +101,4 @@ const PresentPage = () => {
     </>
   );
 };
-export default PresentPage;
+export default AccommodationPage;

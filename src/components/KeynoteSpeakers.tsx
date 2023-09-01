@@ -9,10 +9,10 @@ const KeynoteSpeakers = () => {
         </h3>
         <div className="md:flex md:flex-row justify-around">
           <SpeakerCard
-            imgSrc="./imgs/keynote-speakers/UeakeiaTofinga.jpeg"
-            title="Ueakeia Martin Tofinga"
-            shortDescription="Passion into action: The story of the Kiribati Women in Mapping NGO."
-            longDescriptionSrc="./documents/keynote-speakers/ueakeia-tofinga-long-description.md"
+           imgSrc="./imgs/keynote-speakers/CarrolChan.jpg"
+            title="Carrol Chan"
+            shortDescription="Do you see what I see? Building = yes and other defaults"
+            longDescriptionSrc="./documents/keynote-speakers/carrol-chan-long-description.md"
           />
           <SpeakerCard
             imgSrc="./imgs/keynote-speakers/JeremyPalmer.jpg"
