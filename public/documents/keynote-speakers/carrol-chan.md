@@ -9,5 +9,5 @@ The term ""building=yes and other defaults"" pertains to the data we add as feat
 This talk will explore these default aspects and common assumptions using the the OSM ecosystem, as a primary example. It is not meant to assign blame or induce guilt but to encourage awareness & inclusive discussions within a safe space.
 
 The talk is aimed to understand (and take action) on how our unseen biases affect data and the progression of the mapping community including OSM. Strategies for addressing biases, enhancing data quality, and cultivating a more inclusive and equitable community, will also be addressed."  <br/>
-### 9.10am, Wednesday 18th October, Plenary Room
+### Carrol will be presenting at 9.10am, Wednesday 18th October in the Plenary Room
 <br/>
