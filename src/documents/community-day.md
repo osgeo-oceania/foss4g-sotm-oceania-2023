@@ -15,8 +15,16 @@ Workshops are structured events led by one or more instructors to learn specific
 If you are interested in leading a community day event, send us an email with your thoughts to  [community@foss4g-oceania.org](mailto:community@foss4g-oceania.org).
 <br /><br />
 
-## Community Day Proposals
+## Current proposed events:
+OSGeo Oceania 2024 Goal Working Group
+FOSS4G SoTM 2023 Organising Committee Handover to 2024 Conference
+OSM Mapathon
+Business Skills Mentor Session
+<br />
 
+
+## Community Day Proposals
+Contact the [program team](mailto:program@foss4g-oceania.org) with your ideas
 ### Mapathons
 - OSM<br />
 
@@ -28,5 +36,11 @@ If you are interested in leading a community day event, send us an email with yo
 - Archaeology Mappers
 - QGIS<br />
 
-### Hackathons
-- OS Story Maps: looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin<br />
+### Product Development
+#### OS Story Maps 
+We are looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin. This is currently an area lacking in FOSS4G and whilst there are some products out there, they mostly require payment or are limited. We currently have some possible sponsorship to develop this, but if can come out of this with our requirements, we can create a crowdfunding exercise.
+
+
+Please contact emma@north-road.com with any of your ideas. 
+  
+  <br />
