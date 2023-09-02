@@ -1,16 +1,8 @@
-import SpeakerCard from "../components/SpeakerCard";
+import SpeakerCard from "./SpeakerCard";
 
-const PresentPage = () => {
+const KeynoteSpeakers = () => {
   return (
     <>
-      {/* <section
-        style={{
-          backgroundImage: "url('/imgs/present_crop_01.png')",
-          backgroundSize: "cover",
-          backgroundPosition: "center 0px",
-        }}
-        className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
-      ></section> */}
       <section className="container px-6 py-8 mx-auto lg:py-16">
         <h3 className="text-xl font-medium text-gray-800 md:text-2xl lg:text-3xl mb-10">
           Keynote Speakers
@@ -27,7 +19,7 @@ const PresentPage = () => {
             title="Jeremy Palmer"
             shortDescription="Mapping the Future: The Intersection of Geospatial, Open Source, and Open Data"
             longDescriptionSrc="./documents/keynote-speakers/jeremy-palmer-long-description.md"
-              />
+          />
           <SpeakerCard
             imgSrc="./imgs/keynote-speakers/OrisiNaivalurua3.jpg"
             title="Orisi Naivalurua"
@@ -39,4 +31,4 @@ const PresentPage = () => {
     </>
   );
 };
-export default PresentPage;
+export default KeynoteSpeakers;
