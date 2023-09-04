@@ -22,6 +22,9 @@ If you are interested in leading a community day event, send us an email with yo
 - OSM Mapathon
 - Business Skills Mentor Session
 
+### Mapathon
+Hosted by the team at [OpenMappingHub Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific), this day is an opportunity to jump into mapping a current campaign. Come along regardless of your experience. If you have never joined in one of these, this is a great opportunity to learn how it is done by those in the know!
+
 ### Product Development Session
 #### OS Story Maps 
 We are looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin. This is currently an area lacking in FOSS4G and whilst there are some products out there, they mostly require payment or have limited functionality. If we can come out of this with our requirements, we could then understand the resource requirements and build a crowdfunding exercise.
