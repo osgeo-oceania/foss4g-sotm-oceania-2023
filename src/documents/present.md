@@ -62,13 +62,13 @@ the workshop link below will need to be updated
 <br /><br />
 # From the program committee
 Kudos to all of you who will be presenting! I hope you have your presentation is under-way - remember practice to entertain - you don’t want to be writing it the day before as this will bring in too many gremlins! 
-
+<br /><br />
 ## Schedule
 Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. We will be updating our presenters page this week with some additional information. 
-
+<br /><br />
 ## Tell others about your presentation
 Take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
-
+<br /><br />
 ### Hints
 - If you have an image in your talk, this will appear on your socials post
 - Link your talk using the webaddress in bar when you click on your entry in the schedule.
@@ -77,21 +77,20 @@ Take some time to let your colleagues and friends know that you are presenting b
      - Twitter: @FOSS4G_Oceania
      - Masto: @foss4g_oceania@bird.makeup
      - Facebook: @FOSS4GOceania
-
-
+<br /><br />
 ## General Talks
 - Your talk is 20 minutes with 5 minutes questions time. 
 - Talks will start on time.
 - Time limits will be enforced by the MCs.
 - Please seek out your session MC prior to your session to help them get to know you.
 - Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
-
+<br /><br />
 ## Lightning talks
 - You talk is to talk 5 minutes and there will be no questions. 
 - You can set up your slides to transition automatically so it helps you keep to the 5 minutes.
 - Lightning talks bring about a bit of fun and interaction with the audience. It is meant to be under pressure to get your message out. So don't dig down too much into details. Check out [2018 lightning talks](https://www.youtube.com/watch?v=WPJC0VDceMk).
 > Presentations will need be submitted the day prior to your talk in order to prepare the session. Please [email them to the program chair](mailto:program@foss4g-oceania.org)
-
+<br /><br />
 ### Tips for speakers
 <!-- The OSGeo community is characterized for its dynamic way of growing and we are proud of welcoming a variety of voices and ideas. If you are considering sending a proposal to our call for papers, consider the following: -->
 Submissions are open for editing, feel free to add your subbmission and add in images. <!--once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission]).-->
