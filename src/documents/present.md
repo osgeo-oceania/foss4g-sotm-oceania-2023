@@ -80,8 +80,9 @@ Why not take some time to let your colleagues and friends know that you are pres
      - Facebook: @FOSS4GOceania
 <br /><br />
 
-## General Talks
-- Your talk is 20 minutes with 5 minutes questions time. 
+## Presentations
+Presentations are delivered in consecutive sessions over the three conference days Tuesday Oct 17th to Thursday Oct 20th.
+- Talks are 20 minutes with 5 minutes questions time. 
 - Talks will start on time.
 - Time limits will be enforced by the MCs.
 - Please seek out your session MC prior to your session to help them get to know you.<br />
@@ -89,7 +90,7 @@ Why not take some time to let your colleagues and friends know that you are pres
 <br /><br />
 
 ## Lightning talks
-**Lightning talks** are rapid presentations strictly limited to 5 mins. Lightning talks are presented back-to-back with several other speakers, and provide a good opportunity to share smaller projects, anecdotes or lighthearted content in an informal session. Lightning talks are delivered over the two conference days (Tuesday & Wednesday) as the final session.
+Lightning talks are rapid presentations strictly limited to 5 mins. Lightning talks are presented back-to-back with several other speakers, and provide a good opportunity to share smaller projects, anecdotes or lighthearted content in an informal session. Lightning talks are delivered over the two conference days (Tuesday & Wednesday) as the final session.
 - You talk is to talk 5 minutes and there will be no questions. 
 - You can set up your slides to transition automatically so it helps you keep to the 5 minutes.
 - Lightning talks bring about a bit of fun and interaction with the audience. It is meant to be under pressure to get your message out. So don't dig down too much into details. Check out the [2018 lightning talks](https://www.youtube.com/watch?v=WPJC0VDceMk).<br />
