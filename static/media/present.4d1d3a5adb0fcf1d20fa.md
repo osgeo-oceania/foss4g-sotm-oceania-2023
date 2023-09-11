@@ -69,6 +69,7 @@ Keep an eye on the schedule - we try not to change it but sometimes we cannot he
 ## Tell others about your presentation
 Take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
 <br /><br />
+
 ### Hints
 - If you have an image in your talk, this will appear on your socials post
 - Link your talk using the webaddress in bar when you click on your entry in the schedule.
@@ -78,23 +79,25 @@ Take some time to let your colleagues and friends know that you are presenting b
      - Masto: @foss4g_oceania@bird.makeup
      - Facebook: @FOSS4GOceania
 <br /><br />
+
 ## General Talks
 - Your talk is 20 minutes with 5 minutes questions time. 
 - Talks will start on time.
 - Time limits will be enforced by the MCs.
 - Please seek out your session MC prior to your session to help them get to know you.
-- Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
+> Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
 <br /><br />
+
 ## Lightning talks
 - You talk is to talk 5 minutes and there will be no questions. 
 - You can set up your slides to transition automatically so it helps you keep to the 5 minutes.
 - Lightning talks bring about a bit of fun and interaction with the audience. It is meant to be under pressure to get your message out. So don't dig down too much into details. Check out [2018 lightning talks](https://www.youtube.com/watch?v=WPJC0VDceMk).
 > Presentations will need be submitted the day prior to your talk in order to prepare the session. Please [email them to the program chair](mailto:program@foss4g-oceania.org)
 <br /><br />
+
 ### Tips for speakers
 <!-- The OSGeo community is characterized for its dynamic way of growing and we are proud of welcoming a variety of voices and ideas. If you are considering sending a proposal to our call for papers, consider the following: -->
-Submissions are open for editing, feel free to add your subbmission and add in images. <!--once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission]).-->
-<br /><br />
+- Submissions are open for editing, feel free to add your subbmission and add in images. <!--once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission]).-->
 - FOSS4G’s backbone is free and open source, so make sure you clearly indicate what is (are) the open source project(s) essential in your talk
 - If you present new developments or a completely new open source project, make sure you point to its repository(ies) so people can follow up. You can add in links to your submission.
 - Add in a photo of yourself and for your presentation. We will link to your presentation from the schedule page and list you as a speaker as per the [2019 FOSS4G SOTM Oceania conference](https://2019.foss4g-oceania.org/speakers/).
@@ -102,7 +105,6 @@ Submissions are open for editing, feel free to add your subbmission and add in i
 - When filling in your submission, please let us know your relationship with Oceania e.g. I live in Oceania, this project is about Oceania, this project applies to Oceania, I was born in Oceania but now I am a bigwig in San Fran & etc 
 - Check out these [past presentations including lightning talks](https://www.youtube.com/@foss4gsotmoceania433/videos) for inspiration. 
 <br /><br />
-
 
 ### What we expect from you as a speaker
 We believe in equality, so all presenters have the same exact amount of time to present their work, according to their contribution type. Please consider that when preparing your slides and be mindful about the time. A bell will be used to indicate time reached and we expect presenters to comply with it. Practice your presentation in the car, the shower or to your cat. All presentations will need be uploaded prior to the conference, so get cracking!
