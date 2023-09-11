@@ -1,7 +1,6 @@
 * [HOME](/)
 * [ATTEND](#/attend/register)
     * [Register](#/attend/register)
-    * [Travel Grants](#/attend/travel-grant-program)
     * [Present](#/present)
     * [Venue](#/attend/our-conference-venue)
     * [Accommodation](#/attend/Accommodation)

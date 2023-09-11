@@ -1,8 +1,6 @@
 # Register
 
 Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.
-There are several registration levels available and we do have
-[Travel Grants available](https://osgeo-oceania.org/foss4g23_travel-grant-program/) if you need some extra help to attend.
 
 ## Registration types
 
@@ -43,17 +41,6 @@ There are several registration levels available and we do have
 </button>
 
 <br />
-<br />
-## Do you need financial assistance?
-
-Our Travel Grant Program helps those that require financial assistance to attend from within Oceania. Applications closed on June 30 and applicants will hear from us by July 15. If you've missed our deadline, please subscribe to our mailing list to ensure you don't miss future opportunities. See our Travel Grant Program page for more details.
-
-If you or your organisation wish to contribute to this important initiative, please get in touch at tgp@foss4g-oceania.org. The program is built on financial support from OSGeo Oceania and conference sponsors and attendees, and 100% of your contribution will go directly to assisting people from around our region to attend.
-
-<br />
-<button target="https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform">
-    Apply for a Travel Grant here
-</button>
 
 <!-- page name: Attend
 everything needs to be linked to a page
