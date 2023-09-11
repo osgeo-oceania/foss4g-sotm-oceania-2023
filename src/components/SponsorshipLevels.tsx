@@ -74,9 +74,13 @@ const SponsorshipLevels = () => {
                 link: "https://linux.org.au/",
                 imgSrc: "./imgs/sponsorship-levels/bronze/linux-logo-primary-110-web.svg",
               },
+              {
+                link: "https://locatepress.com/",
+                imgSrc: "./imgs/sponsorship-levels/supporter/other_Locate_Press_logo.png",
+              },
             ]}
           />
-          <SponsorshipLevel
+          {/* <SponsorshipLevel
             title="Supporter Sponsors"
             cards={[
               {
@@ -84,7 +88,7 @@ const SponsorshipLevels = () => {
                 imgSrc: "./imgs/sponsorship-levels/supporter/other_Locate_Press_logo.png",
               },
             ]}
-          /> 
+          />  */}
           <SponsorshipLevel
             title="Venue Sponsors"
             cards={[
