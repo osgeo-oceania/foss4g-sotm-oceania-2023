@@ -67,7 +67,7 @@ Kudos to all of you who will be presenting! I hope you have your presentation is
 Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. 
 <br /><br />
 ## Tell others about your presentation
-Take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
+Why not take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
 <br /><br />
 
 ### Hints
