@@ -84,15 +84,16 @@ Take some time to let your colleagues and friends know that you are presenting b
 - Your talk is 20 minutes with 5 minutes questions time. 
 - Talks will start on time.
 - Time limits will be enforced by the MCs.
-- Please seek out your session MC prior to your session to help them get to know you.
+- Please seek out your session MC prior to your session to help them get to know you.<br />
 > Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
 <br /><br />
 
 ## Lightning talks
+**Lightning talks** are rapid presentations strictly limited to 5 mins. Lightning talks are presented back-to-back with several other speakers, and provide a good opportunity to share smaller projects, anecdotes or lighthearted content in an informal session. Lightning talks are delivered over the two conference days (Tuesday & Wednesday) as the final session.
 - You talk is to talk 5 minutes and there will be no questions. 
 - You can set up your slides to transition automatically so it helps you keep to the 5 minutes.
-- Lightning talks bring about a bit of fun and interaction with the audience. It is meant to be under pressure to get your message out. So don't dig down too much into details. Check out [2018 lightning talks](https://www.youtube.com/watch?v=WPJC0VDceMk).
-> Presentations will need be submitted the day prior to your talk in order to prepare the session. Please [email them to the program chair](mailto:program@foss4g-oceania.org)
+- Lightning talks bring about a bit of fun and interaction with the audience. It is meant to be under pressure to get your message out. So don't dig down too much into details. Check out the [2018 lightning talks](https://www.youtube.com/watch?v=WPJC0VDceMk).<br />
+> Lightning talks will need be submitted the day prior to your talk in order to prepare the session. Please [email them to the program chair](mailto:program@foss4g-oceania.org)
 <br /><br />
 
 ### Tips for speakers
