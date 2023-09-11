@@ -64,7 +64,7 @@ the workshop link below will need to be updated
 Kudos to all of you who will be presenting! I hope you have your presentation is under-way - remember practice to entertain - you don’t want to be writing it the day before as this will bring in too many gremlins! 
 <br /><br />
 ## Schedule
-Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. We will be updating our presenters page this week with some additional information. 
+Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. 
 <br /><br />
 ## Tell others about your presentation
 Take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
