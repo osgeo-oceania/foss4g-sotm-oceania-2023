@@ -33,10 +33,10 @@ const SponsorshipLevels = () => {
           <SponsorshipLevel
             title="Silver Sponsors"
             cards={[
-              // {
-              //   link: "https://www.linz.govt.nz/",
-              //   imgSrc: "./imgs/sponsorship-levels/silver/silver_linz_logo.jpg",
-              // },
+              {
+                 link: "https://www.linz.govt.nz/",
+                 imgSrc: "./imgs/sponsorship-levels/silver/silver_linz_logo.jpg",
+              },
               {
                 link: "https://www.novasystems.com/nz",
                 imgSrc: "./imgs/sponsorship-levels/silver/silver_NOVA-SYSTEMS_logo.png",
@@ -58,10 +58,10 @@ const SponsorshipLevels = () => {
           <SponsorshipLevel
             title="Bronze Sponsors"
             cards={[
-              // {
-              //   link: "https://koordinates.com/",
-              //   imgSrc: "./imgs/sponsorship-levels/bronze/bronze_koordinates_limited_logo.png",
-              // },
+              {
+                 link: "https://koordinates.com/",
+                 imgSrc: "./imgs/sponsorship-levels/bronze/bronze_koordinates_limited_logo.png",
+              },
               {
                 link: "https://north-road.com/",
                 imgSrc: "./imgs/sponsorship-levels/bronze/bronze_north_road_logo.png",
@@ -76,7 +76,7 @@ const SponsorshipLevels = () => {
               },
             ]}
           />
-          {/* <SponsorshipLevel
+          <SponsorshipLevel
             title="Supporter Sponsors"
             cards={[
               {
@@ -84,7 +84,7 @@ const SponsorshipLevels = () => {
                 imgSrc: "./imgs/sponsorship-levels/supporter/other_Locate_Press_logo.png",
               },
             ]}
-          /> */}
+          /> 
           <SponsorshipLevel
             title="Venue Sponsors"
             cards={[
