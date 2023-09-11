@@ -82,8 +82,8 @@ Why not take some time to let your colleagues and friends know that you are pres
 
 ## Presentations
 Presentations are delivered in consecutive sessions over the three conference days Tuesday Oct 17th to Thursday Oct 20th.
-- Talks are 20 minutes with 5 minutes questions time. 
-- Talks will start on time.
+- Presentations are 20 minutes with 5 minutes questions time. 
+- Presentations will start on time.
 - Time limits will be enforced by the MCs.
 - Please seek out your session MC prior to your session to help them get to know you.<br />
 > Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
