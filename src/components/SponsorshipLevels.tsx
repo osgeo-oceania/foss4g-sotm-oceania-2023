@@ -89,15 +89,15 @@ const SponsorshipLevels = () => {
               },
             ]}
           />  */}
-          {/*<SponsorshipLevel
+          <SponsorshipLevel
             title="Venue Sponsors"
             cards={[
               {
                 link: "https://www.auckland.ac.nz/",
-                imgSrc: "./imgs/sponsorship-levels/venue/AUT.webp",
+                imgSrc: "./imgs/sponsorship-levels/venue/AUT_logo.jpg",
               },
             ]}
-          />*/}
+          />
         </div>
       </section>
     </>
