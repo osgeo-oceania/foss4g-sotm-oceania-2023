@@ -94,7 +94,7 @@ const SponsorshipLevels = () => {
             cards={[
               {
                 link: "https://www.auckland.ac.nz/",
-                imgSrc: "./imgs/sponsorship-levels/venue/University-Of-Auckland-logo.webp",
+                imgSrc: "./imgs/sponsorship-levels/venue/AUT.webp",
               },
             ]}
           />*/}
