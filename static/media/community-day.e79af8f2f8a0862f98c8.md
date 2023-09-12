@@ -33,6 +33,7 @@ We are looking for ways to streamline creating Story Maps in FOSS4G with current
 - What should the base platform be? Think here about the resources for continual maintenance, accessibility, logic, ease of use. What currently offers this, could we approach them to build up their product with our requirements? Would be be able to roll what is available out there into the QGIS platform to allow for ongoing technical support? <br />
 Please contact emma@north-road.com with any of your ideas. 
 <br /><br />
+
 ## Community Day Proposals
 Contact the [program team](mailto:program@foss4g-oceania.org) with your ideas
 <br /><br />
