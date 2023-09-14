@@ -8,7 +8,7 @@ const SponsorshipLevels = () => {
             Our sponsors and partners
           </h1>
 
-          {/* <SponsorshipLevel
+          <SponsorshipLevel
             title="Platinum Sponsors"
             cards={[
               {
@@ -16,7 +16,7 @@ const SponsorshipLevels = () => {
                 imgSrc: "./imgs/sponsorship-levels/platinum/platinum_meta_logo.png",
               },
             ]}
-          /> */}
+          />
           {/* <SponsorshipLevel
             title="Gold Sponsors"
             cards={[
