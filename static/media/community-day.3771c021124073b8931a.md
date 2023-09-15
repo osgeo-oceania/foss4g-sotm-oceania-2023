@@ -40,6 +40,7 @@ Contact the [program team](mailto:program@foss4g-oceania.org) with your ideas
 ### Mapathons
 - OSM 
 <br /><br />
+
 ### Meetups
 - OSGeo Oceania
 - Heritage Mappers
