@@ -4,6 +4,7 @@ Well we say, **Let's share them!**<br />
 
 Using [Soar.Earth](https://soar.earth/), the latest digital atlas used by BBC, Washington Post, Cartographic Artists and Enthusiasts, we can collect and showcase the talent of Oceania. 
 Here's a taster of our [conference venues](https://soar.earth/maps/15722?pos=-36.84547055637228%2C174.76608946499994%2C16.06).
+![Conference Venues](/imgs/venues-map.png)
 
 ## Prizes for top 3!
 Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. 
