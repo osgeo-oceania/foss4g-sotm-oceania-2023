@@ -3,14 +3,14 @@ We are all hear to be inspired, but lurking behind each and everyone of us are o
 Well we say, **Let's share them!**<br />
 
 Using [Soar.Earth](https://soar.earth/), the latest digital atlas used by BBC, Washington Post, Cartographic Artists and Enthusiasts, we can collect and showcase the talent of Oceania. 
-Here's a taster of our [conference venues](soar.earth/maps/15722).
+Here's a taster of our [conference venues](https://soar.earth/maps/15722?pos=-36.84547055637228%2C174.76608946499994%2C16.06).
 
 ## Prizes for top 3!
 Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. 
 
 ## How to load up your project on Soar.Earth
-
-
-
-Showcase your product via Soar.Earth with the tag: FOSS4G-Oceania2023 and provide links to your project in the comments. Check out this uploaded map of the 
-Playing around with the Venue map using the new #SoarEarth #QGIS plugin for the FOSS4G SoTM Oceania Conference in Auckland in a month!@OSGeo@FOSS4G_Oceania@qgisau
+1. If you haven't already set up a User Account, head to [Soar.Earth](https://soar.earth/) to set one up.
+2. Create your map/raster.
+3. If you are creating it in **QGIS**, use the`Soar Plugin` via the `QGIS Plugins Manager`. Detailed instructions can be found [here](https://about.soar.earth/blog-pages/installing-and-using-soars-qgis-plugin).
+4. In the `Description` provide the story behind your project and add in any links - particularly if an online web-mapping application is available.
+5. Make sure you use the `Tag` FOSS4G-Oceania2023 to be in the running for the prizes!
