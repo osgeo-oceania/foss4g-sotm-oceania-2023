@@ -6,6 +6,7 @@ import Content from "../../documents/attend/our-conference-venue.md";
 import Table from "../../components/Table";
 import Blockquote from "../../components/Blockquote";
 import Button from "../../components/Button";
+import FeltMap from "../../components/FeltMap";
 
 const OurConferenceVenuePage = () => {
   const [mddText, setMddText] = useState("");
@@ -64,7 +65,7 @@ const OurConferenceVenuePage = () => {
                 h2: {
                   props: {
                     className:
-                    // add space before teh paragraph
+                    // add space before the paragraph
                       "text-2xl font-semibold text-gray-700 capitalize my-4",
                   },
                 },
@@ -96,7 +97,9 @@ const OurConferenceVenuePage = () => {
           />
         </div>
       </section>
-    </>
+      
+      <FeltMap />
+    </div>
   );
 };
 export default OurConferenceVenuePage;
