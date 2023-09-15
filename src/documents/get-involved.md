@@ -7,31 +7,40 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 - Student volunteers
 
 ## Sessions to choose from and their current status:
+**Tuesday**	
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
-| **Tuesday**	| **Session 2:** 1100-1215 | | |
+| **Session 2:** 1100-1215 |  | | |
 | Plenary room | 3D/AR | Available | Available |
 | Te Iringa room | Urban modelling | Available | Available |
-| | **Session 3:** 1315-1455 | | |
+| **Session 3:** 1315-1455 |  | | |
 | Plenary room | Disaster | Available | Available |
 | Te Iringa room | More modelling | Available | Available |
-| | **Session 4:** 1640-1730 | | |
+| **Session 4:** 1640-1730 |  | | |
 | Plenary room	| Lightning Talks | Available | Available |
-| **Wednesday**	| **Session 1:** 0950-1040 | | |
+
+**Wednesday**	
+|  | Theme | MC | Student Volunteer Status |
+| --- | --- | --- | --- |
+| **Session 1:** 0950-1040	|  | | |
 | Plenary room | Data collection OSM/Mapillary | Available | Available |
 | Te Iringa room | Design UX | Available | Available |
-| | **Session 2:** 1110-1250 | | |
+| **Session 2:** 1110-1250 |  | | |
 | Plenary room	| Open Source Tools Adaption | Available | Available |
 | Te Iringa room	| Cloud based imagery/Web | Available | Available |
-| | **Session 3:** 1645-1720 | | |
+| **Session 3:** 1645-1720 |  | | |
 | Plenary room	| Cloud Data Platforms | Available | Available |
 | Te Iringa room	| AI/Machine learning | Available | Available |
-| | **Session 4:** 1535-1640 | | |
+| **Session 4:** 1535-1640 |  | | |
 | Plenary room	| Lightning Talks | Available | Available |
-| **Thursday**	| **Session 2:** 1130-1245 | | |
+
+**Thursday**	
+|  | Theme | MC | Student Volunteer Status |
+| --- | --- | --- | --- |
+| **Session 2:** 1130-1245	|  | | |
 | Plenary room	| Data platforms in Oceania | Available | Available |
 | Te Iringa room	| Open Source Data | Available | Available |
-| | **Session 3:** 1345-1435 | | |
+| **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
 | Te Iringa room	| Cultural approaches | Available | Available |
 
