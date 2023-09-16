@@ -15,7 +15,7 @@ Whether you've been toiling the day in the workshops or have just flown in, join
 <br />
 
 ### TGP Breakfast
-Tuesday morning *7am, Venue TBC*
+Tuesday morning *7am, Meze Cafe, Durham St SE*
 
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: invite only
@@ -26,7 +26,7 @@ If you are a recipient of the **Travel Grant Program** (TGP), this is your break
 <br />
 
 ### Women in Geospatial Breakfast
-Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/eat-drink/), 2 High Street, Auckland *
+Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/eat-drink/), 2 High Street, Auckland*
 
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: $10 [register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
