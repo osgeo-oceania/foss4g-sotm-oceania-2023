@@ -86,7 +86,8 @@ Presentations are delivered in consecutive sessions over the three conference da
 - Presentations will start on time.
 - Time limits will be enforced by the MCs.
 - Please seek out your session MC prior to your session to help them get to know you.<br />
-> Presentations will need to be uploaded with a USB in the break before your session. If you wish to use your own laptop, please let us know in advance by emailing [the program chair](mailto:program@foss4g-oceania.org)
+> We are still determining the best manner to upload Presentations, it will possibly be uploaded via a DropBox, or worst case a USB if there are any late changed - so keep checking back and look our for an email from the Program Committee. <br />
+> If you require your laptop to demonstrate an element of your talk, ensure you bring a HDMI connection cord. Please [let us know](mailto:program@foss4g-oceania.org) in advance so we can be prepared. 
 <br /><br />
 
 ## Lightning talks
