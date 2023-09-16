@@ -1,5 +1,6 @@
 # Get Involved
 Our FOSS4G and SotM community is nothing without the connections we make when putting on events such as these. We have a number of ways to be involved.
+<br /><br />
 
 ### Currently seeking
 - Session MCs x 14
@@ -8,6 +9,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 
 ## Sessions to choose from and their current status:
 **Tuesday**	
+
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 2:** 1100-1215 |  | | |
@@ -19,7 +21,9 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1640-1730 |  | | |
 | Plenary room	| Lightning Talks | Available | Available |
 
+<br >
 **Wednesday**	
+
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 1:** 0950-1040	|  | | |
@@ -34,7 +38,9 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1535-1640 |  | | |
 | Plenary room	| Lightning Talks | Available | Available |
 
+<br >
 **Thursday**	
+
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 2:** 1130-1245	|  | | |
@@ -54,10 +60,13 @@ They are responsible for:
 - **Inviting and moderating the questions:** at the end of the talk there is 5 minutes for questions. The MC is to entice the audience to ask questions and should have back up questions themselves if the audience is quite shy. 
 - **Ensuring the talks start on time and finish on time:** Yes, you will be the TimeLord for a session. Talks start on time, not before it, but on the time. This makes sure if  people are moving between rooms, they don't miss the start. You will have a bell to give 5 minutes warning at the 15 minute mark. Talks are for 20 minutes with a 5 minute question time at the end of the talk. 
 
+<br />
+
 > If you would like to be a session MC, please email the following to the [program team](mailto:program@foss4g-oceania.org):
 >  - Your name
 >  - Preferred session(s): you can MC as many as you want
 
+<br />
 Once we have confirmed your MC spot, we will send you more detailed instructions but the main actions you will need to do are: 
 - Make contact with your speakers - either before the conference or at the Icebreaker
 - Meet your speakers 10min before the session

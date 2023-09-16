@@ -9,5 +9,5 @@
     * [Workshops](#/workshops)
     * [Community Day](#/community-day)
     * [Social Events](#/attend/social-events)
-    * [Get Involved](#/get-involved)
+    * [Get Involved](#/program/get-involved)
 * [SPONSORSHIP](#/sponsorship)
