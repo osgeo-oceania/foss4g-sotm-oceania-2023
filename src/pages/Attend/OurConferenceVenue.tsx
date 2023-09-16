@@ -99,7 +99,7 @@ const OurConferenceVenuePage = () => {
       </section>
       
       <FeltMap />
-    </div>
+    </>
   );
 };
 export default OurConferenceVenuePage;
