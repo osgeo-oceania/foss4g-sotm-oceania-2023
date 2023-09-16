@@ -1,14 +1,11 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import MarkDownDoc from "../documents/workshops.md";
+import MarkDownDoc from "../../documents/community-day.md";
 
-import Table from "../components/Table";
-import Blockquote from "../components/Blockquote";
-import Button from "../components/Button";
+import Blockquote from "../../components/Blockquote";
 
-
-const WorkshopsPage = () => {
+const CommunityDayPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
@@ -22,7 +19,7 @@ const WorkshopsPage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/workshop_crop_01.png')",
+          backgroundImage: "url('/imgs/present_crop_01.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
@@ -33,29 +30,6 @@ const WorkshopsPage = () => {
           <Markdown
             options={{
               overrides: {
-                table: {
-                  component: Table,
-                },
-                thead: {
-                  props: {
-                    className: "bg-gray-800",
-                  },
-                },
-                th: {
-                  props: {
-                    className: "px-12 py-3.5 text-sm font-bold text-left rtl:text-right text-gray-400",
-                  },
-                },
-                tbody: {
-                  props: {
-                    className: "bg-gray-900 divide-y divide-gray-700",
-                  },
-                },
-                td: {
-                  props: {
-                    className: "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
-                  },
-                },
                 h1: {
                   props: {
                     className:
@@ -65,8 +39,7 @@ const WorkshopsPage = () => {
                 h2: {
                   props: {
                     className:
-                    // add space before teh paragraph
-                      "text-2xl font-semibold text-gray-700 capitalize my-4",
+                      "text-2xl font-semibold text-gray-700 capitalize",
                   },
                 },
                 h3: {
@@ -80,17 +53,14 @@ const WorkshopsPage = () => {
                   },
                 },
                 blockquote: {
-                    component: Blockquote,
+                  component: Blockquote,
                 },
                 a: {
-                  // make links buttons
                   props: {
                     className: "text-blue-500 underline",
+                    target: "_blank",
                   },
                 },
-                button: {
-                  component: Button,
-                }
               },
             }}
             children={mddText}
@@ -100,4 +70,4 @@ const WorkshopsPage = () => {
     </>
   );
 };
-export default WorkshopsPage;
+export default CommunityDayPage;
