@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.73c9b4af.css",
-    "main.js": "/static/js/main.5f842366.js",
+    "main.js": "/static/js/main.fae534d5.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
-    "static/media/present.md": "/static/media/present.aca2a2a91d9b73d2827f.md",
+    "static/media/present.md": "/static/media/present.813656f65bf14a0acda2.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.2ae3e42d650a84ab59ef.md",
     "static/media/community-day.md": "/static/media/community-day.3771c021124073b8931a.md",
     "static/media/get-involved.md": "/static/media/get-involved.258d79bb839b1de5fa25.md",
@@ -18,11 +18,11 @@
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
     "static/media/top-menu.md": "/static/media/top-menu.1b09a463739ce9fac3a2.md",
     "main.73c9b4af.css.map": "/static/css/main.73c9b4af.css.map",
-    "main.5f842366.js.map": "/static/js/main.5f842366.js.map",
+    "main.fae534d5.js.map": "/static/js/main.fae534d5.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73c9b4af.css",
-    "static/js/main.5f842366.js"
+    "static/js/main.fae534d5.js"
   ]
 }
