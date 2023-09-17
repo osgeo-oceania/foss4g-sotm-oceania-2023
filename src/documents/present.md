@@ -61,10 +61,13 @@ the workshop link below will need to be updated
 -->
 <br /><br />
 # From the program committee
-Kudos to all of you who will be presenting! I hope you have your presentation is under-way - remember practice to entertain - you don’t want to be writing it the day before as this will bring in too many gremlins! 
+Kudos to all of you who will be presenting! I hope you have your presentation is under-way - remember practice to entertain - you don’t want to be writing it the day before as this will bring in too many gremlins! <br />
+> If you would like to be the MC for sessions, head to the [Get Involved page](https://2023.foss4g-oceania.org/#/program/get-involved) for more details.
+
 <br /><br />
 ## Schedule
 Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. 
+The latest update will be released on the 18th September.
 <br /><br />
 ## Tell others about your presentation
 Why not take some time to let your colleagues and friends know that you are presenting by sharing your talk on your socials?
