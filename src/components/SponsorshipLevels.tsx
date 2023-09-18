@@ -41,10 +41,10 @@ const SponsorshipLevels = () => {
                 link: "https://www.novasystems.com/nz",
                 imgSrc: "./imgs/sponsorship-levels/silver/silver_NOVA-SYSTEMS_logo.png",
               },
-              // {
-              //   link: "https://www.openwork.nz/",
-              //   imgSrc: "./imgs/sponsorship-levels/silver/silver_Openwork_logo_Transparent.png",
-              // },
+              {
+                link: "https://www.openwork.nz/",
+                imgSrc: "./imgs/sponsorship-levels/silver/silver_Openwork_logo_Transparent.png",
+              },
               {
                 link: "https://www.orbica.com/",
                 imgSrc: "./imgs/sponsorship-levels/silver/silver_orbica_green.png",
