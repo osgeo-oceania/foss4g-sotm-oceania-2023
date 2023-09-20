@@ -1,6 +1,5 @@
 import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
-import LayoutNoFooter from "./pages/LayoutNoFooter";
 import Home from "./pages/Home";
 import CodeOfConductPage from "./pages/CodeOfConduct";
 import AccommodationPage from "./pages/Attend/Accommodation";
@@ -34,15 +33,13 @@ export default function App() {
           />
           <Route path="attend/Accommodation" element={<AccommodationPage />} />
           <Route path="attend" element={<RegisterPage />} />
+          <Route path="program" element={<ProgramPage />} />
           <Route path="program/social-events" element={<SocialEventsPage />} />
           <Route path="program/workshops" element={<Workshops />} />
           <Route path="program/get-involved" element={<GetInvolvedPage />} />
           <Route path="program/community-day" element={<CommunityDayPage />} />
           <Route path="sponsorship" element={<Sponsorship />} />
           <Route path="*" element={<NoPage />} />
-        </Route>
-        <Route path="/" element={<LayoutNoFooter />}>
-          <Route path="program" element={<ProgramPage />} />
         </Route>
       </Routes>
     </HashRouter>
