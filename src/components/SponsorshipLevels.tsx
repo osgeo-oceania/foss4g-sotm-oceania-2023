@@ -41,10 +41,10 @@ const SponsorshipLevels = () => {
                 link: "https://www.novasystems.com/nz",
                 imgSrc: "./imgs/sponsorship-levels/silver/silver_NOVA-SYSTEMS_logo.png",
               },
-              // {
-              //   link: "https://www.openwork.nz/",
-              //   imgSrc: "./imgs/sponsorship-levels/silver/silver_Openwork_logo_Transparent.png",
-              // },
+              {
+                link: "https://www.openwork.nz/",
+                imgSrc: "./imgs/sponsorship-levels/silver/silver_Openwork_logo_Transparent.png",
+              },
               {
                 link: "https://www.orbica.com/",
                 imgSrc: "./imgs/sponsorship-levels/silver/silver_orbica_green.png",
@@ -77,6 +77,10 @@ const SponsorshipLevels = () => {
               {
                 link: "https://locatepress.com/",
                 imgSrc: "./imgs/sponsorship-levels/supporter/other_Locate_Press_logo.png",
+              },
+              {
+                link:"https://data61.csiro.au/",
+                imgSrc: "./imgs/sponsorship-levels/bronze/bronze-Terria-D61-CSIRO-onLight.jpg",
               },
             ]}
           />
