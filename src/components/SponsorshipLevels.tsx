@@ -78,6 +78,10 @@ const SponsorshipLevels = () => {
                 link: "https://locatepress.com/",
                 imgSrc: "./imgs/sponsorship-levels/supporter/other_Locate_Press_logo.png",
               },
+              {
+                link:"https://data61.csiro.au/",
+                imgSrc: "./imgs/sponsorship-levels/supporter/bronze-Terria-D61-CSIRO-onLight.jpg",
+              },
             ]}
           />
           {/* <SponsorshipLevel
