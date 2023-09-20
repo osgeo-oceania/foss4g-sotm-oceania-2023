@@ -8,7 +8,7 @@ afternoon time slots (up to 4 hours long).
 We are aiming to offer a diverse range of workshops for a variety of skill levels.
 <br/><br />
 
-> Check out the workshops on our [Schedule](/#/attend/program)
+> Check out the workshops on our [Schedule](https://2023.foss4g-oceania.org/#/program)
 
 
 <br /><br />
