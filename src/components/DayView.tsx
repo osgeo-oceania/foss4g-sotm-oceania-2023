@@ -36,7 +36,9 @@ const toAmPm = (minute: number, interval: number) => {
   const minutes = minute % 60;
   const ampm = hours >= 12 ? "PM" : "AM";
   const formattedHours = hours % 12 || 12;
-  return `${formattedHours}:${minutes === 0 ? "00" : minutes.toString().padStart(2, '0')} ${ampm}`;
+  return `${formattedHours}:${
+    minutes === 0 ? "00" : minutes.toString().padStart(2, "0")
+  } ${ampm}`;
 };
 
 const toHours = (duration: string) => {
@@ -51,7 +53,6 @@ const handleClick = (url: string) => {
 };
 
 const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
-
   const { periods, specialEvents = [] } = dayConfig;
   // Generate time slots for each period
   const timeSlots: { time: number; interval: number }[] = periods.flatMap(
@@ -64,7 +65,8 @@ const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
           interval: timeSlotInterval,
         })
       );
-  });
+    }
+  );
 
   // Merge specialEvents with room events
   const roomsWithSpecialEvents = { ...day.rooms };
@@ -88,9 +90,11 @@ const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
         </tr>
       </thead>
       <tbody>
-      {timeSlots.map(({ time, interval }, index) => (
+        {timeSlots.map(({ time, interval }, index) => (
           <tr key={time} className="h-[50px]">
-            <td className="border p-2 text-right pr-4">{toAmPm(time, interval)}</td>
+            <td className="border p-2 text-right pr-4">
+              {toAmPm(time, interval)}
+            </td>
             {Object.keys(roomsWithSpecialEvents).map((roomName, index) => (
               <td key={index} className="border p-2 relative">
                 {roomsWithSpecialEvents[roomName].map((event) => {
@@ -128,7 +132,10 @@ const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
                         {event.id > 0 ? (
                           <>
                             <div className="text-sm text-white bg-blue-400 p-1 rounded">
-                            <strong>Start: {toAmPm(time, interval)} <br />Duration: {toHours(event.duration)}</strong>
+                              <strong>
+                                Start: {toAmPm(time, interval)} <br />
+                                Duration: {toHours(event.duration)}
+                              </strong>
                             </div>
                             <strong className="text-xs lg:text-sm xl:text-lg">
                               {event.title}
@@ -136,13 +143,13 @@ const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
                             <div className="absolute text-xs lg:text-sm bottom-0 p-3">
                               Presenter:
                               <br />
-                              {event.persons && event.persons.length > 0
-                                ? event.persons.map((person, index) => (
-                                    <strong key={index}>
-                                      {person.public_name}
-                                    </strong>
-                                  ))
-                                : ""}
+                              <strong>
+                                {event.persons && event.persons.length > 0
+                                  ? event.persons
+                                      .map((person) => person.public_name)
+                                      .join(", ")
+                                  : ""}
+                              </strong>
                             </div>
                           </>
                         ) : (

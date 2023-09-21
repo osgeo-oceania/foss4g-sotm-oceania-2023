@@ -33,7 +33,7 @@ type Event = {
         transformed.push({
           time: event.start,
           title: event.title,
-          author: event.persons?.[0]?.public_name || "",
+          author: event.persons?.length ? event.persons.map((person) => person.public_name).join(", ") : "",
           type: event.type || type,
           url: event.url || "",
           room,
