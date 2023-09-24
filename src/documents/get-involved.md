@@ -31,7 +31,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | Te Iringa room | Design UX | Available | Available |
 | **Session 2:** 1110-1250 |  | | |
 | Plenary room	| Open Source Tools Adaption | Available | Available |
-| Te Iringa room	| Cloud based imagery/Web | Available | Available |
+| Te Iringa room	| Cloud based imagery/Web | Greg Lauer | Available |
 | **Session 3:** 1645-1720 |  | | |
 | Plenary room	| Cloud Data Platforms | Available | Available |
 | Te Iringa room	| AI/Machine learning | Available | Available |
@@ -44,7 +44,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 2:** 1130-1245	|  | | |
-| Plenary room	| Data platforms in Oceania | Available | Available |
+| Plenary room	| Data platforms in Oceania | Greg Lauer | Available |
 | Te Iringa room	| Open Source Data | Available | Available |
 | **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
