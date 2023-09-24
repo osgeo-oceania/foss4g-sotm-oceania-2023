@@ -256,17 +256,10 @@ const DayView: React.FC<DayViewProps> = ({ day, dayConfig }) => {
 
     const bgColor = getBackgroundColor(event.track);
 
-    const hoverColor =
-      event.track === "lunch"
-        ? "bg-green-200"
-        : event.track === "break"
-        ? "bg-yellow-200"
-        : "bg-blue-500";
-
     const EventDiv = (
       <div
         key={event.id}
-        className={`${bgColor} p-1 rounded absolute hover:${hoverColor}`}
+        className={`${bgColor} p-1 rounded absolute hover:bg-[#3b82f6]`}
         style={{
           top: `0px`,
           height: `${height - 6}px`,
