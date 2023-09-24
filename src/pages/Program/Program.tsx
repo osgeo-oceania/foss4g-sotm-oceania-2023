@@ -1,103 +1,99 @@
-// import DayView from "../../components/DayView";
+import DayView from "../../components/DayView";
 import DayViewSmall from "../../components/DayViewSmall";
-// import { Day } from "../../components/DayView";
+import { Day } from "../../components/DayView";
 
 import { useEffect, useState } from "react";
 
 // Define a function to get special events based on the date
-// const getDayConfig = (day: Day) => {
-//   switch (day.date) {
-//     case "2023-10-16":
-//       return {
-//         periods: [{ startTime: 7, endTime: 18, timeSlotInterval: 15 }],
-//         specialEvents: [
-//           { id: -1, start: "12:00", duration: "01:00", title: "Lunch" },
-//           {
-//             id: -2,
-//             start: "10:00",
-//             duration: "00:15",
-//             title: "Morning Tea",
-//           },
-//           {
-//             id: -3,
-//             start: "15:00",
-//             duration: "00:15",
-//             title: "Afternoon Tea",
-//           },
-//         ],
-//       };
-//     case "2023-10-17":
-//       return {
-//         periods: [
-//           { startTime: 8.5, endTime: 11, timeSlotInterval: 10 },
-//           { startTime: 11, endTime: 12, timeSlotInterval: 5 },
-//           { startTime: 12, endTime: 16.5, timeSlotInterval: 5 },
-//           { startTime: 16.5, endTime: 17.35, timeSlotInterval: 1 },
-//         ],
-//         specialEvents: [
-//           { id: -1, start: "12:15", duration: "01:00", title: "Lunch" },
-//           {
-//             id: -2,
-//             start: "10:30",
-//             duration: "00:30",
-//             title: "Morning Tea",
-//           },
-//           {
-//             id: -3,
-//             start: "15:00",
-//             duration: "00:30",
-//             title: "Afternoon Tea",
-//           },
-//         ],
-//       };
-//     case "2023-10-18":
-//       return {
-//         periods: [
-//           { startTime: 10, endTime: 16.75, timeSlotInterval: 5 },
-//           { startTime: 16.75, endTime: 17.35, timeSlotInterval: 1 },
-//         ],
-//         specialEvents: [
-//           { id: -1, start: "12:50", duration: "01:00", title: "Lunch" },
-//           {
-//             id: -2,
-//             start: "10:40",
-//             duration: "00:30",
-//             title: "Morning Tea",
-//           },
-//           {
-//             id: -3,
-//             start: "15:05",
-//             duration: "00:30",
-//             title: "Afternoon Tea",
-//           },
-//         ],
-//       };
-//     case "2023-10-19":
-//       return {
-//         periods: [{ startTime: 11.75, endTime: 18, timeSlotInterval: 5 }],
-//         specialEvents: [
-//           { id: -1, start: "12:35", duration: "01:00", title: "Lunch" },
-//           {
-//             id: -2,
-//             start: "10:50",
-//             duration: "00:30",
-//             title: "Morning Tea",
-//           },
-//           {
-//             id: -3,
-//             start: "14:25",
-//             duration: "00:30",
-//             title: "Afternoon Tea",
-//           },
-//         ],
-//       };
-//     default:
-//       return {
-//         periods: [{ startTime: 8, endTime: 14, timeSlotInterval: 60 }],
-//         specialEvents: [],
-//       };
-//   }
-// };
+const getDayConfig = (day: Day) => {
+  switch (day.date) {
+    case "2023-10-16":
+      return {
+        specialEvents: [
+          { id: -1, start: "12:00", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -2,
+            start: "10:00",
+            duration: "00:15",
+            title: "Morning Tea",
+            track: "break",
+          },
+          {
+            id: -3,
+            start: "15:00",
+            duration: "00:15",
+            title: "Afternoon Tea",
+            track: "break",
+          },
+        ],
+      };
+    case "2023-10-17":
+      return {
+        specialEvents: [
+          { id: -1, start: "12:15", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -2,
+            start: "10:30",
+            duration: "00:30",
+            title: "Morning Tea",
+            track: "break",
+          },
+          {
+            id: -3,
+            start: "15:00",
+            duration: "00:30",
+            title: "Afternoon Tea",
+            track: "break",
+          },
+        ],
+      };
+    case "2023-10-18":
+      return {
+        specialEvents: [
+          { id: -1, start: "12:50", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -2,
+            start: "10:40",
+            duration: "00:30",
+            title: "Morning Tea",
+            track: "break",
+          },
+          {
+            id: -3,
+            start: "15:05",
+            duration: "00:30",
+            title: "Afternoon Tea",
+            track: "break",
+          },
+        ],
+      };
+    case "2023-10-19":
+      return {
+        specialEvents: [
+          { id: -1, start: "12:35", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -2,
+            start: "10:50",
+            duration: "00:30",
+            title: "Morning Tea",
+            track: "break",
+          },
+          {
+            id: -3,
+            start: "14:25",
+            duration: "00:30",
+            title: "Afternoon Tea",
+            track: "break",
+          },
+        ],
+      };
+    default:
+      return {
+        periods: [{ startTime: 8, endTime: 14, timeSlotInterval: 60 }],
+        specialEvents: [],
+      };
+  }
+};
 
 const formatDate = (dateString: string) => {
   const [year, month, day] = dateString.split('-').map(Number);
@@ -160,11 +156,20 @@ const ProgramPage = () => {
             </button>
           ))}
         </div>
+      </section>
+      <div className="hidden lg:block">
+        {allDaysData[activeDay] && (
+          <DayView
+            day={allDaysData[activeDay]}
+            dayConfig={getDayConfig(allDaysData[activeDay])}
+          />
+        )}
+      </div>
+      <div className="block lg:hidden">
         {allDaysData[activeDay] && (
           <DayViewSmall day={allDaysData[activeDay]} />
         )}
-      </section>
-      
+      </div>
     </>
   );
 };
