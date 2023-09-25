@@ -31,8 +31,9 @@ const toAmPm = (time: string): string => {
   // Converting 24-hour format to 12-hour format
   const formattedHours = hours % 12 || 12;
 
-  // Returning the formatted time
-  return `${formattedHours}:${minutes === 0 ? "00" : minutes} ${ampm}`;
+  return `${formattedHours}:${
+    minutes === 0 ? "00" : minutes.toString().padStart(2, "0")
+  } ${ampm}`;
 };
 
 const DayView: React.FC<DayViewProps> = ({ day }) => {
