@@ -6,7 +6,7 @@ import MarkDownDoc from "../../documents/product-showcase.md";
 import Blockquote from "../../components/Blockquote";
 
 const ProductShowcasePage = () => {
-    const [mddText, setMddText] = useState("");
+  const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
   useEffect(() => {
@@ -14,8 +14,9 @@ const ProductShowcasePage = () => {
       .then((res) => res.text())
       .then((text) => setMddText(text));
   });
-  
-<section
+  return (
+    <>
+      <section
         style={{
           backgroundImage: "url('/imgs/venues_map.png')",
           backgroundSize: "cover",
