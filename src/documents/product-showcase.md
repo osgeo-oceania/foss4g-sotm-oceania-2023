@@ -8,7 +8,10 @@ Using [Soar.Earth](https://soar.earth/), the latest digital atlas used by BBC, W
 ## Prizes for top 3!
 Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. <br /><br />
 
-> All products tagged with **FOSS4G-Oceania2023** will be in the running!
+> All products tagged with 
+>  **FOSS4G-Oceania2023**  
+> will be in the running!
+
 
 <br />
 ## How to load up your project on Soar.Earth
