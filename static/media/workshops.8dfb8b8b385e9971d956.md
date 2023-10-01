@@ -11,8 +11,11 @@ We are aiming to offer a diverse range of workshops for a variety of skill level
 > Check out the workshops on our [Schedule](https://2023.foss4g-oceania.org/#/program)
 
 <br /><br />
+
 Workshops will be held in the [WF Building Level 4](https://use.mazemap.com/#v=1&config=AUT&zlevel=4&center=174.765377,-36.853580&zoom=20.3&campusid=103) located opposite the WG Building across the plaza. 
+
 <br />
+
 If you decide at the last minute to attend a workshop, that's fine! Just purchase via Registration link below. 
 <br /><br />
 
