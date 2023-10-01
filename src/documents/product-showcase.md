@@ -10,7 +10,7 @@ Along with Soar.Earth, the conference committee will select the top 3 entries an
 
 > Make sure you tag your map with  <br />
     > **FOSS4G-Oceania2023** <br />
-> to be in the running for some great prizes! 
+> to be in the running for some great prizes! <br /><br />
 
 
 ## What to upload? 
