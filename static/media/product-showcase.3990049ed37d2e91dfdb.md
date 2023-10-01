@@ -12,6 +12,12 @@ Along with Soar.Earth, the conference committee will select the top 3 entries an
     > **FOSS4G-Oceania2023** <br />
 > to be in the running for some great prizes! 
 
+#### What to upload? 
+- Projects: upload a map or image perhaps in the location of the project. In the comments, apply any links such as a website.
+- Maps
+- Imagery
+- Earth Art  <br />
+**N.B.** All uploads to be considered must have been somehow manipulated by the author i.e. an uploaded satellite image with no manipulation will not be considered. We want it to tell a geographical story curated by yourself. 
 
 <br />
 ## How to load up your project on Soar.Earth
