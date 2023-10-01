@@ -18,7 +18,7 @@ const ProductShowcasePage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/venues_map.png')",
+          backgroundImage: "url('/imgs/auckland_map.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
@@ -49,6 +49,11 @@ const ProductShowcasePage = () => {
                 ul: {
                   props: {
                     className: "list-disc list-outside ms-8",
+                  },
+                },
+                ol: {
+                  props: {
+                    className: "list-decimal list-outside ms-8",
                   },
                 },
                 blockquote: {

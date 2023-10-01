@@ -14,6 +14,7 @@ import ProgramPage from "./pages/Program/Program";
 import RegisterPage from "./pages/Attend/Register";
 import SocialEventsPage from "./pages/Program/SocialEvents";
 import GetInvolvedPage from "./pages/Program/GetInvolved";
+import ProductShowcasePage from "./pages/Program/ProductShowcase";
 
 export default function App() {
   return (
@@ -38,6 +39,7 @@ export default function App() {
           <Route path="program/workshops" element={<Workshops />} />
           <Route path="program/get-involved" element={<GetInvolvedPage />} />
           <Route path="program/community-day" element={<CommunityDayPage />} />
+          <Route path="program/product-showcase" element={<ProductShowcasePage />} />
           <Route path="sponsorship" element={<Sponsorship />} />
           <Route path="*" element={<NoPage />} />
         </Route>
