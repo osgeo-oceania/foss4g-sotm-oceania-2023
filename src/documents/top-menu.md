@@ -10,4 +10,5 @@
     * [Community Day](#/program/community-day)
     * [Social Events](#/program/social-events)
     * [Get Involved](#/program/get-involved)
+    * [Product Showcase](#/[program/product-showcase)
 * [SPONSORSHIP](#/sponsorship)
