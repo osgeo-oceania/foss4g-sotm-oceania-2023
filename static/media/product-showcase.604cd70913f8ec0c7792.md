@@ -6,7 +6,7 @@ Well we say, **Let's share them!**<br /><br />
 
 Using [Soar.Earth](https://soar.earth/), the latest digital atlas used by BBC, Washington Post, Cartographic Artists and Enthusiasts, we can collect and showcase the talent of Oceania. <br /><br />
 ## Prizes for top 3!
-Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. 
+Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. <br /><br />
 > All products tagged with **FOSS4G-Oceania2023** will be in the running!
 <br /><br />
 
