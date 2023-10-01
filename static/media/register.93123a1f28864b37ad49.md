@@ -16,7 +16,7 @@ Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.
 | Type               | Details                                                                                                                                                                                                         | Cost (NZD)   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | Conference Dinner  | Held at Wynyard Pavilion on the evening of Wednesday 18th. Includes 3 course meal and drink tickets.                                                                                                            | 110          |
-| Conference T-Shirt | Limited edition FOSS4G Oceania conference T-Shirt. Available in mens or womens, multiple sizes.                                                                                                                 | 35           |
+| Conference T-Shirt | Limited edition FOSS4G Oceania conference T-Shirt. Available in mens or womens, multiple sizes. Pick them up at the registration desk.                                                                                                                | 35           |
 | Good Mojo          | FOSS4G is an community conference run by the OSGeo Oceania. Any additional donations via our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. Thanks! | Your Choice! |
 
 <br />
