@@ -1,14 +1,17 @@
 # Product Showcase
-We are all hear to be inspired, but lurking behind each and everyone of us are our brilliant products that imbibe the essence of how we tell stories. <br />
-Well we say, **Let's share them!**<br />
+
+We are all hear to be inspired, but lurking behind each and everyone of us are our brilliant products that imbibe the essence of how we tell stories. 
+<br /><br />
+Well we say, **Let's share them!**<br /><br />
 
 Using [Soar.Earth](https://soar.earth/), the latest digital atlas used by BBC, Washington Post, Cartographic Artists and Enthusiasts, we can collect and showcase the talent of Oceania. 
-Here's a taster of our [conference venues](https://soar.earth/maps/15722?pos=-36.84547055637228%2C174.76608946499994%2C16.06).<br />
-![Conference Venues](/public/imgs/venues-map.png)
-
+Here's a taster of our [conference venues](https://soar.earth/maps/15722?pos=-36.84547055637228%2C174.76608946499994%2C16.06).<br /><br />
+![Conference Venues](/imgs/venues-map.png)
+<br />
 ## Prizes for top 3!
 Along with Soar.Earth, the conference committee will select the top 3 entries and award them some great prizes courtesy of Soar.Earth at the Conference Closing Ceremony. 
 **All products tagged with *FOSS4G-Oceania2023* will be in the running!**
+<br /><br />
 
 ## How to load up your project on Soar.Earth
 1. If you haven't already set up a User Account, head to [Soar.Earth](https://soar.earth/) to set one up.
