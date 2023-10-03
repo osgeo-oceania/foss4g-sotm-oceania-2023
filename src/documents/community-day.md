@@ -26,12 +26,16 @@ Hosted by the team at [OpenMappingHub Asia Pacific](https://www.hotosm.org/hubs/
 <br /><br />
 ### Product Development Session: OS Story Maps 
 We are looking for ways to streamline creating Story Maps in FOSS4G with current products or to design an outline for a new product or plugin. This is currently an area lacking in FOSS4G and whilst there are some products out there, they mostly require payment or have limited functionality. If we can come out of this with our requirements, we could then understand the resource requirements and build a crowdfunding exercise.
-
- Our Goals <br />
+<br /><br />
+ Our Goals for this session:   <br />
 - What elements do we require? The base would include media, text, and map. However, perhaps we want to be able to view it 3d or create some dashboard like features. <br />
 - What should their behaviour be? Think about what is currently out there - what do you like, what is missing & etc. We want to progress further than a map and an information box side-by-side. <br />
+- What tools should be included? What tools do you want to create the output - graphical, import, export, bringing in elements, integration & etc.
 - What should the base platform be? Think here about the resources for continual maintenance, accessibility, logic, ease of use. What currently offers this, could we approach them to build up their product with our requirements? Would be be able to roll what is available out there into the QGIS platform to allow for ongoing technical support? <br />
-Please contact emma@north-road.com with any of your ideas. 
+- Most importantly, what do we want to avoid? <br />
+<br />
+
+This session will be run by Em Hain along with others. Please send any of your ideas for collation to: emma@north-road.com 
 <br /><br />
 
 ## Community Day Proposals
