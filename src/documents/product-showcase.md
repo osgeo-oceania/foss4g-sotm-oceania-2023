@@ -23,7 +23,7 @@ Along with Soar.Earth, the conference committee will select the top 3 entries an
 <br />
 ## How to load up your project on Soar.Earth
 1. If you haven't already set up a User Account, head to [Soar.Earth](https://soar.earth/) to set one up.
-2. Create your map/raster.
+2. Create your map/layer/raster. The CRS Soar uses is EPSG:3857 WGS84 Pseudo-Mercator.
 3. If you are creating it in **QGIS**, use the`Soar Plugin` via the `QGIS Plugins Manager`. Detailed instructions can be found [here](https://about.soar.earth/blog-pages/installing-and-using-soars-qgis-plugin).
 4. In the `Description` provide the story behind your project and add in any links - particularly if an online web-mapping application is available.
 5. Make sure you use the `Tag` FOSS4G-Oceania2023 to be in the running for the prizes!
