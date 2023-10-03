@@ -18,7 +18,7 @@ const ProductShowcasePage = () => {
     <>
       <section
         style={{
-          backgroundImage: "url('/imgs/Soar_AUT_2.png')",
+          backgroundImage: "url('/imgs/auckland_map.png')",
           backgroundSize: "cover",
           backgroundPosition: "center 0px",
         }}
