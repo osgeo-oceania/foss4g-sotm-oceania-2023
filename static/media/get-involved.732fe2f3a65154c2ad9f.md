@@ -48,7 +48,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | Te Iringa room	| Open Data | Elisa Puccioni | Available |
 | **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
-| Te Iringa room	| Cultural approaches | Available | Available |
+| Te Iringa room	| Cultural approaches | Elisa Puccioni | Available |
 
 ## Session MCs
 Session MCs are integral to running a successful conference. <br />
