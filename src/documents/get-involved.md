@@ -13,13 +13,13 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 2:** 1100-1215 |  | | |
-| Plenary room | 3D/AR | Available | Available |
-| Te Iringa room | Urban modelling | Available | Available |
+| Plenary room | 3D/AR | Danielle Gatland | Available |
+| Te Iringa room | Urban modelling | Jonathan Ball | Available |
 | **Session 3:** 1315-1455 |  | | |
 | Plenary room | Disaster | Alex Leith | Available |
-| Te Iringa room | More modelling | Available | Available |
+| Te Iringa room | More modelling | Simon Nitz | Available |
 | **Session 4:** 1640-1730 |  | | |
-| Plenary room	| Lightning Talks | Available | Available |
+| Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
 <br >
 **Wednesday**	
@@ -30,13 +30,13 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | Plenary room | Data collection OSM/Mapillary | Available | Available |
 | Te Iringa room | Design UX | Available | Available |
 | **Session 2:** 1110-1250 |  | | |
-| Plenary room	| Open Source Tools Adaption | Available | Available |
+| Plenary room	| Open Source Tools Adaption | Anne Harper | Available |
 | Te Iringa room	| Cloud based imagery/Web | Greg Lauer | Available |
 | **Session 3:** 1645-1720 |  | | |
 | Plenary room	| Cloud Data Platforms | Available | Available |
 | Te Iringa room	| AI/Machine learning | Available | Available |
 | **Session 4:** 1535-1640 |  | | |
-| Plenary room	| Lightning Talks | Available | Available |
+| Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
 <br >
 **Thursday**	
