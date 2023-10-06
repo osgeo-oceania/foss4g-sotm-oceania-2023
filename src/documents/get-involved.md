@@ -26,14 +26,14 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 |  | Theme | MC | Student Volunteer Status |
 | --- | --- | --- | --- |
 | **Session 1:** 0950-1040	|  | | |
-| Plenary room | Data collection OSM/Mapillary | Available | Available |
+| Plenary room | Data collection OSM/Mapillary | Dawn Hendricks | Available |
 | Te Iringa room | Design UX | Simon Nitz | Available |
 | **Session 2:** 1110-1250 |  | | |
 | Plenary room	| Open Source Tools Adaption | Anne Harper | Available |
 | Te Iringa room	| Cloud based imagery/Web | Greg Lauer | Available |
 | **Session 3:** 1345-1500 |  | | |
 | Plenary room	| Cloud Data Platforms | Alex Leith | Available |
-| Te Iringa room	| AI/Machine learning | Available | Available |
+| Te Iringa room	| AI/Machine learning | Greg Lauer | Available |
 | **Session 4:** 1535-1640 |  | | |
 | Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
