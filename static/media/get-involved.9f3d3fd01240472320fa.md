@@ -28,7 +28,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | --- | --- | --- | --- |
 | **Session 1:** 0950-1040	|  | | |
 | Plenary room | Data collection OSM/Mapillary | Available | Available |
-| Te Iringa room | Design UX | Available | Available |
+| Te Iringa room | Design UX | Simon Nitz | Available |
 | **Session 2:** 1110-1250 |  | | |
 | Plenary room	| Open Source Tools Adaption | Anne Harper | Available |
 | Te Iringa room	| Cloud based imagery/Web | Greg Lauer | Available |
