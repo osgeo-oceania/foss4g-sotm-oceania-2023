@@ -16,7 +16,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | Plenary room | 3D/AR | Available | Available |
 | Te Iringa room | Urban modelling | Available | Available |
 | **Session 3:** 1315-1455 |  | | |
-| Plenary room | Disaster | Available | Available |
+| Plenary room | Disaster | Alex Leith | Available |
 | Te Iringa room | More modelling | Available | Available |
 | **Session 4:** 1640-1730 |  | | |
 | Plenary room	| Lightning Talks | Available | Available |
@@ -45,7 +45,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | --- | --- | --- | --- |
 | **Session 2:** 1130-1245	|  | | |
 | Plenary room	| Data platforms in Oceania | Greg Lauer | Available |
-| Te Iringa room	| Open Source Data | Available | Available |
+| Te Iringa room	| Open Data | Available | Available |
 | **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
 | Te Iringa room	| Cultural approaches | Available | Available |
