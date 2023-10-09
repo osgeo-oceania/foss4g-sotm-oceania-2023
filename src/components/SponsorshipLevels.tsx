@@ -43,7 +43,7 @@ const SponsorshipLevels = () => {
               },
               {
                 link: "https://www.openwork.nz/",
-                imgSrc: "./imgs/sponsorship-levels/silver/silver_Openwork_logo_Transparent.png",
+                imgSrc: "./imgs/sponsorship-levels/silver/silver_geocat_openwork.png",
               },
               {
                 link: "https://www.orbica.com/",
