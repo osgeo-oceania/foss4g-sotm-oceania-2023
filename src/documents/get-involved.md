@@ -3,8 +3,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 <br /><br />
 
 ### Currently seeking
-- Session MCs x 14
-- Lightning talk MC x 2
+- Session MCs x 2
 - Student volunteers
 
 ## Sessions to choose from and their current status:
