@@ -24,7 +24,7 @@ If you are a recipient of the **Travel Grant Program** (TGP), this is your break
 Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/eat-drink/), 2 High Street, Auckland*
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: $10 [register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
-
+<br /><br />
 ![Nova Systems](public/imgs/silver_NOVA-SYSTEMS_logo.png) 
 <br /><br /> 
 Come along and celebrate **Women in Geospatial** whilst you enjoy a delicious breakfast and hear from the amazing experiences of [Lanieta Rokotuiwakaya](https://www.linkedin.com/in/lanieta-rokotuiwakaya-7a9193113/). This event is proudly sponsored by [Nova Systems](https://www.novasystems.com/nz). <br /> 
