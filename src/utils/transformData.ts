@@ -5,6 +5,7 @@ type Event = {
     title: string;
     type?: string;
     url?: string;
+    track?: string;
     persons?: { public_name: string }[];
   };
   
@@ -22,7 +23,7 @@ type Event = {
     room: string;
   };
   
-  export const transformData = (originalData: Day): TransformedData[] => {
+  export const transformData = (originalData: Day, specialEvents: Event[] ): TransformedData[] => {
     const transformed: TransformedData[] = [];
   
     Object.keys(originalData.rooms).forEach((room) => {
@@ -40,7 +41,20 @@ type Event = {
         });
       });
     });
-  
+
+    const transformedSpecialEvents = specialEvents.map(item => {
+        return {
+            author: "",  // Hardcoded for this example
+            room: "",  // Hardcoded for this example
+            time: item.start,
+            title: item.title,
+            type: item.track ? item.track : "",  // Hardcoded for this example
+            url: ""  // Hardcoded for this example
+        };
+    });
+
+    transformed.push(...transformedSpecialEvents);
+
     // Sort the transformed array by time
     transformed.sort((a, b) => a.time.localeCompare(b.time));
   

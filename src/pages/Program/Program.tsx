@@ -10,7 +10,13 @@ const getDayConfig = (day: Day) => {
     case "2023-10-16":
       return {
         specialEvents: [
-          { id: -1, start: "12:00", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -1,
+            start: "12:00",
+            duration: "01:00",
+            title: "Lunch",
+            track: "lunch",
+          },
           {
             id: -2,
             start: "10:00",
@@ -30,7 +36,13 @@ const getDayConfig = (day: Day) => {
     case "2023-10-17":
       return {
         specialEvents: [
-          { id: -1, start: "12:15", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -1,
+            start: "12:15",
+            duration: "01:00",
+            title: "Lunch",
+            track: "lunch",
+          },
           {
             id: -2,
             start: "10:30",
@@ -50,7 +62,13 @@ const getDayConfig = (day: Day) => {
     case "2023-10-18":
       return {
         specialEvents: [
-          { id: -1, start: "12:50", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -1,
+            start: "12:50",
+            duration: "01:00",
+            title: "Lunch",
+            track: "lunch",
+          },
           {
             id: -2,
             start: "10:40",
@@ -70,7 +88,13 @@ const getDayConfig = (day: Day) => {
     case "2023-10-19":
       return {
         specialEvents: [
-          { id: -1, start: "12:35", duration: "01:00", title: "Lunch", track: "lunch" },
+          {
+            id: -1,
+            start: "12:35",
+            duration: "01:00",
+            title: "Lunch",
+            track: "lunch",
+          },
           {
             id: -2,
             start: "10:50",
@@ -96,14 +120,14 @@ const getDayConfig = (day: Day) => {
 };
 
 const formatDate = (dateString: string) => {
-  const [year, month, day] = dateString.split('-').map(Number);
+  const [year, month, day] = dateString.split("-").map(Number);
   const date = new Date(Date.UTC(year, month - 1, day)); // month is 0-indexed
-  
+
   const options: Intl.DateTimeFormatOptions = {
     weekday: "short",
     month: "short",
     day: "numeric",
-    timeZone: "UTC"
+    timeZone: "UTC",
   };
 
   return new Intl.DateTimeFormat(undefined, options).format(date);
@@ -167,7 +191,10 @@ const ProgramPage = () => {
       </div>
       <div className="block lg:hidden">
         {allDaysData[activeDay] && (
-          <DayViewSmall day={allDaysData[activeDay]} />
+          <DayViewSmall
+            day={allDaysData[activeDay]}
+            dayConfig={getDayConfig(allDaysData[activeDay])}
+          />
         )}
       </div>
     </>
