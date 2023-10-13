@@ -14,7 +14,7 @@ Tuesday morning *7am, Meze Cafe, Durham St SE*
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: invite only
 <br /><br />
-![Linux Australia](/public/imgs/linux-logo-primary-110-web.svg)
+![Linux Australia](/imgs/linux-logo-primary-110-web.svg)
 <br /><br />
 
 If you are a recipient of the **Travel Grant Program** (TGP), this is your breakfast, proudly sponsored by [Linux Australia](https://linux.org.au/). This is a chance to meet other TGP recipients and for our oganising committee to connect with you.
