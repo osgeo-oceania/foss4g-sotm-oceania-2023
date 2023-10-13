@@ -14,7 +14,7 @@ Tuesday morning *7am, Meze Cafe, Durham St SE*
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: invite only
 <br /><br />
-![Linux Australia](/public/imgs/sponsorship-levels/bronze/linux-logo-primary-110-web.svg) 
+![Linux Australia](./imgs/sponsorship-levels/bronze/linux-logo-primary-110-web.svg 
 
 <br />
 If you are a recipient of the **Travel Grant Program** (TGP), this is your breakfast, proudly sponsored by [Linux Australia](https://linux.org.au/). This is a chance to meet other TGP recipients and for our oganising committee to connect with you.
@@ -25,7 +25,7 @@ Wednesday morning *7am, Suite 1841, [DeBretts Hotel](https://hoteldebrett.com/ea
 * Dress: Cool daywear geogeek - no PJs
 * Tickets: $10 [register here](https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023)
 
-![Nova Systems](/public/imgs/sponsorship-levels/silver/silver_NOVA-SYSTEMS_logo.png) 
+![Nova Systems](./imgs/sponsorship-levels/silver/silver_NOVA-SYSTEMS_logo.png) 
 <br /><br /> 
 Come along and celebrate **Women in Geospatial** whilst you enjoy a delicious breakfast and hear from the amazing experiences of [Lanieta Rokotuiwakaya](https://www.linkedin.com/in/lanieta-rokotuiwakaya-7a9193113/). This event is proudly sponsored by [Nova Systems](https://www.novasystems.com/nz). <br /> 
 
