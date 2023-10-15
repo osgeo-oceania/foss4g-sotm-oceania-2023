@@ -65,6 +65,9 @@ Kudos to all of you who will be presenting! I hope you have your presentation is
 > If you would like to be the MC for sessions, head to the [Get Involved page](https://2023.foss4g-oceania.org/#/program/get-involved) for more details.
 
 <br /><br />
+## Uploading you talk
+If you have not uploaded the talk to the google folder provided in the emails, you can give a copy to the AV desk in the room of your talk.
+<br /><br />
 ## Schedule
 Keep an eye on the schedule - we try not to change it but sometimes we cannot help it. 
 The latest update will be released on the 18th September.
