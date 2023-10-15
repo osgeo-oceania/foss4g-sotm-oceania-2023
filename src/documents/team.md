@@ -11,5 +11,6 @@ Role <br />
 Also I want to not mess around with sub folders and it would be super cool if I could also have the picture as a circle with a border around it--->
 
 ## Supporting companies
-![Company logo](/imgs/venues-map.png)
-
+![Alt text](../../public/imgs/coy-koordinates.png)
+![Alt text](../../public/imgs/coy-meta.png)
+![Alt text](../../public/imgs/coy-MRC.jpg)![Alt text](../../public/imgs/coy-ngis.png)
