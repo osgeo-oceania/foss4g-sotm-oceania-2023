@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
 
-import MarkDownDoc from "../documents/team.md";
+import MarkDownDoc from "../documents/organisers.md";
 
 import Blockquote from "../components/Blockquote";
 
-const ProductShowcasePage = () => {
+const OrganisersPage = () => {
   const [mddText, setMddText] = useState("");
 
   // Fetch Terms of Use
@@ -74,4 +74,4 @@ const ProductShowcasePage = () => {
     </>
   );
 };
-export default ProductShowcasePage;
+export default OrganisersPage;

@@ -9,7 +9,7 @@ import AttendTGPPage from "./pages/Attend/TravelGrantProgram";
 import Workshops from "./pages/Program/Workshops";
 import CommunityDayPage from "./pages/Program/CommunityDay";
 import Sponsorship from "./pages/Sponsorship";
-import Team from "./pages/Team";
+import Organisers from "./pages/Organisers";
 import OurConferenceVenuePage from "./pages/Attend/OurConferenceVenue";
 import ProgramPage from "./pages/Program/Program";
 import RegisterPage from "./pages/Attend/Register";
@@ -42,7 +42,7 @@ export default function App() {
           <Route path="program/community-day" element={<CommunityDayPage />} />
           <Route path="program/product-showcase" element={<ProductShowcasePage />} />
           <Route path="sponsorship" element={<Sponsorship />} />
-          <Route path="team" element={<Team />} />
+          <Route path="organisers" element={<Organisers />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
