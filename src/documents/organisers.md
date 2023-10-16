@@ -132,6 +132,6 @@ We would like to extend our thanks to these companies for supporting their emplo
         <img src="/imgs/coy-ngis.png" alt="NGIS" width="200" height="150">
     </div>
     <div class="flex justify-center items-center p-4">
-        <img src="/imgs/woods_standard_use_brand_mark_v1.png" alt="Woods" width="200" height="150">
+        <img src="/imgs/Untitled.png" alt="Woods" width="200" height="150">
     </div>
 </div>
