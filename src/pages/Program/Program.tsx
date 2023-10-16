@@ -119,6 +119,15 @@ const getDayConfig = (day: Day) => {
   }
 };
 
+const getToday = (): string => {
+  const today = new Date();
+  const yyyy = today.getFullYear().toString();
+  const mm = (today.getMonth() + 1).toString().padStart(2, '0'); // Months are 0-based
+  const dd = today.getDate().toString().padStart(2, '0');
+
+  return `${yyyy}-${mm}-${dd}`;
+};
+
 const formatDate = (dateString: string) => {
   const [year, month, day] = dateString.split("-").map(Number);
   const date = new Date(Date.UTC(year, month - 1, day)); // month is 0-indexed
@@ -144,10 +153,16 @@ const ProgramPage = () => {
     )
       .then(async (response) => await response.json())
       .then((data) => {
+        const fetchedDays = data.schedule.conference.days;
         setAllDaysData(data.schedule.conference.days);
-        setDays(
-          data.schedule.conference.days.map((day: any) => formatDate(day.date))
-        );
+        const today = getToday();
+        let todayIndex = fetchedDays.findIndex((day: any) => day.date === today);
+
+        // If today is not found in the fetched days, default to 0
+        todayIndex = todayIndex === -1 ? 0 : todayIndex;
+
+        setDays(fetchedDays.map((day: any) => formatDate(day.date)));
+        setActiveDay(todayIndex);
       })
       .catch((error) => {
         console.error("Error fetching data:", error);
