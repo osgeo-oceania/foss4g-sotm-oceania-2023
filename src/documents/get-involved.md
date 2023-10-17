@@ -43,7 +43,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | --- | --- | --- | --- |
 | **Session 2:** 1130-1245	|  | | |
 | Plenary room	| Data platforms in Oceania | Greg Lauer | Available |
-| Te Iringa room	| Open Data | Elisa Puccioni | Available |
+| Te Iringa room	| Geospatial hustles and problems | Elisa Puccioni | Available |
 | **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
 | Te Iringa room	| Cultural approaches | Elisa Puccioni | Available |
