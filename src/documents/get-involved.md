@@ -19,7 +19,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1640-1730 |  | | |
 | Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
-<br >
+<br />
 **Wednesday**	
 
 |  | Theme | MC | Student Volunteer Status |
@@ -36,7 +36,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1535-1640 |  | | |
 | Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
-<br >
+<br />
 **Thursday**	
 
 |  | Theme | MC | Student Volunteer Status |
@@ -68,6 +68,8 @@ They are responsible for:
 Once we have confirmed your MC spot, we will send you more detailed instructions but the main actions you will need to do are: 
 - Make contact with your speakers - either before the conference or at the Icebreaker
 - Meet your speakers 10min before the session
+- Get them micced up
+- Make sure you speak into the speakers (otherwise we will lose you in the YouTubes)
 - Get acquainted with the tech as you will be troubleshooting any issues
 - You will have a Student Volunteer who will be your runner if you need help
 - Ring that bell
