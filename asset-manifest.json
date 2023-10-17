@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bd2774e2.css",
-    "main.js": "/static/js/main.e0ae9776.js",
+    "main.js": "/static/js/main.77217553.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
     "static/media/present.md": "/static/media/present.f31ce4c203798e6cea11.md",
@@ -9,7 +9,7 @@
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
     "static/media/workshops.md": "/static/media/workshops.8dfb8b8b385e9971d956.md",
-    "static/media/get-involved.md": "/static/media/get-involved.ef7abe55c2b249958b98.md",
+    "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
     "static/media/register.md": "/static/media/register.43dbf799669cd07a5f7c.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
@@ -20,11 +20,11 @@
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
     "static/media/top-menu.md": "/static/media/top-menu.d978b36d62672c6c2267.md",
     "main.bd2774e2.css.map": "/static/css/main.bd2774e2.css.map",
-    "main.e0ae9776.js.map": "/static/js/main.e0ae9776.js.map",
+    "main.77217553.js.map": "/static/js/main.77217553.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd2774e2.css",
-    "static/js/main.e0ae9776.js"
+    "static/js/main.77217553.js"
   ]
 }
