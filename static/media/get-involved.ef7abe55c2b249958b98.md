@@ -19,7 +19,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1640-1730 |  | | |
 | Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
-<br />
+<br /><br />
 **Wednesday**	
 
 |  | Theme | MC | Student Volunteer Status |
@@ -36,7 +36,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 4:** 1535-1640 |  | | |
 | Plenary room	| Lightning Talks | Edoardo Neerhut | Available |
 
-<br />
+<br /><br />
 **Thursday**	
 
 |  | Theme | MC | Student Volunteer Status |
@@ -47,7 +47,7 @@ Our FOSS4G and SotM community is nothing without the connections we make when pu
 | **Session 3:** 1345-1435 |  | | |
 | Plenary room	| QGIS | Dawn Hendrick | Available |
 | Te Iringa room	| Cultural approaches | Elisa Puccioni | Available |
-
+<br /><br />
 ## Session MCs
 Session MCs are integral to running a successful conference. <br />
 They are responsible for:
@@ -58,13 +58,12 @@ They are responsible for:
 - **Inviting and moderating the questions:** at the end of the talk there is 5 minutes for questions. The MC is to entice the audience to ask questions and should have back up questions themselves if the audience is quite shy. 
 - **Ensuring the talks start on time and finish on time:** Yes, you will be the TimeLord for a session. Talks start on time, not before it, but on the time. This makes sure if  people are moving between rooms, they don't miss the start. You will have a bell to give 5 minutes warning at the 15 minute mark. Talks are for 20 minutes with a 5 minute question time at the end of the talk. 
 
-<br />
-
+<br /><br />
 > If you would like to be a session MC, please email the following to the [program team](mailto:program@foss4g-oceania.org):
 >  - Your name
 >  - Preferred session(s): you can MC as many as you want
 
-<br />
+<br /><br />
 Once we have confirmed your MC spot, we will send you more detailed instructions but the main actions you will need to do are: 
 - Make contact with your speakers - either before the conference or at the Icebreaker
 - Meet your speakers 10min before the session
