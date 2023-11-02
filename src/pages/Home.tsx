@@ -59,7 +59,32 @@ const Home = () => {
           </div>
         </div>
       </section>
+ <section className="container px-6 py-8 mx-auto lg:py-16" id="about">
+        <div className="lg:flex lg:items-center lg:-mx-4">
+          <div className="lg:w-1/2 lg:px-4">
+            <h3 className="text-xl font-medium text-gray-800 md:text-2xl lg:text-3xl">
+              {" "}
+              Well that's a wrap for FOSS4G SotM Oceania 2023 in Auckland!
+            </h3>
 
+            <p className="mt-6 text-gray-500">
+              It was great to connect with everyone and we hope many longlasting 
+              relationships have come from this gathering. 
+              Thank-you to AUT School of Future Environments for hosting us 
+              as well as their amazing Events staff. A BIG Thanks to all who presentated, 
+              to our Keynotes, Presenters, Lightning Talks and those who sat on our Panels. 
+              Finally, a massive thanks to our organising committee - thank-you for all your time. 
+              Go check out all of the presentations [here](https://youtube.com/playlist?list=PLlZzWSPAR5GZZ-JN9rTaVGCx8kYb3kpxM&si=gvwdHJw4leWinSS3)
+            </p>
+          <div className="mt-8 lg:w-1/2 lg:px-4 lg:mt-0">
+            <img
+              className="object-cover w-full rounded-xl h-96"
+              src="/imgs/group.png"
+              alt="Auckland"
+            />
+          </div>
+        </div>
+      </section>
       <section className="container px-6 py-8 mx-auto lg:py-16" id="about">
         <div className="lg:flex lg:items-center lg:-mx-4">
           <div className="lg:w-1/2 lg:px-4">
