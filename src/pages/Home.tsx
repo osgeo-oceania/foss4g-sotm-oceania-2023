@@ -58,6 +58,7 @@ const Home = () => {
             </HashLink>
           </div>
         </div>
+      </section>
       <section className="container px-6 py-8 mx-auto lg:py-16" id="about">
         <div className="lg:flex lg:items-center lg:-mx-4">
           <div className="lg:w-1/2 lg:px-4">
