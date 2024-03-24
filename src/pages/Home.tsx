@@ -75,7 +75,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <div className="p-6">
+      <div className="p-6" id="about">
         <section className="mx-auto mt-8 prose lg:prose-lg">
           <Markdown
             options={{
