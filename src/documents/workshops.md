@@ -1,34 +1,32 @@
 # Workshops
 
 Workshops are a great way to get practical experience in a hands-on session, guided by expert practitioners and project developers.
-<br /> 
+<br />
 The workshops will be held on **Monday 16th October 2023** and are half day morning or
 afternoon time slots (up to 4 hours long).
 <br />
 We are aiming to offer a diverse range of workshops for a variety of skill levels.
 <br/><br />
 
-> Check out the workshops on our [Schedule](https://2023.foss4g-oceania.org/#/program)
+> Check out the workshops on our [Schedule](https://2024.foss4g-oceania.org/#/program)
 
 <br /><br />
 
-Workshops will be held in the [WF Building Level 4](https://use.mazemap.com/#v=1&config=AUT&zlevel=4&center=174.765377,-36.853580&zoom=20.3&campusid=103) located opposite the WG Building across the plaza. 
+Workshops will be held in the [WF Building Level 4](https://use.mazemap.com/#v=1&config=AUT&zlevel=4&center=174.765377,-36.853580&zoom=20.3&campusid=103) located opposite the WG Building across the plaza.
 
 <br />
 
-If you decide at the last minute to attend a workshop, that's fine! Just purchase via Registration link below. 
+If you decide at the last minute to attend a workshop, that's fine! Just purchase via Registration link below.
 <br /><br />
-
 
 ## Workshop Registration
 
 **Each workshop will have capacity for a maximum of 25 participants, so register quick!**
 
-| Type                  | Details                                                                                                                   | Cost (NZD) |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Morning               | General registration for one Morning workshop on Monday 16th October 2023.                                                | $100       |
-| Afternoon             | General registration for one Afternoon workshop on Monday 16th October 2023.                                              | $100       |
-
+| Type      | Details                                                                      | Cost (NZD) |
+| --------- | ---------------------------------------------------------------------------- | ---------- |
+| Morning   | General registration for one Morning workshop on Monday 16th October 2023.   | $100       |
+| Afternoon | General registration for one Afternoon workshop on Monday 16th October 2023. | $100       |
 
 <br />
 <button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023-workshops">
@@ -41,9 +39,7 @@ N.B. All attendees'email addresses will be passed onto to Workshop Organisers fo
 # Running a workshop?
 <br />
 
-
 > Review your workshop details: [here](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp).
-
 
 <!-->
 <br />
@@ -74,7 +70,8 @@ to propose something completely different!
 > Visit our call for papers page [here](https://talks.osgeo.org/foss4g-sotm-oceania-2023/cfp).
 
 <br /><br />
-> Workshop submissions have now closed. Check back soon to see what workshops we have on offer. 
+
+> Workshop submissions have now closed. Check back soon to see what workshops we have on offer.
 
 <br /><br />
 Submissions will then be voted on by the community during the month of July. Once community voting has been completed, successful applications will be notified in the first week of August. If you are successful in your application, you will still need to purchase a conference ticket.
@@ -85,10 +82,12 @@ For more info contact the workshop team at mailto: workshops@foss4g-oceania.org
 > Note that all presentations and workshop content is expected to adhere to our [code of conduct](/#/code-of-conduct).
 
 <br /><br />
+
 ### Workshop Session Timeframes
 
 **Monday 16th October 2023**
+
 - Morning Session: 9am - 12pm
 - Lunch 12pm - 1pm
 - Afternoon Sessions: 1pm - 5pm
--->
+  -->

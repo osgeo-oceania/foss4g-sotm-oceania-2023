@@ -6,8 +6,8 @@ All asterixed events can be bought via the register page either at the time of r
 
 | Date                 | Session                                                          | Social                                           |
 | -------------------- | ---------------------------------------------------------------- | ------------------------------------------------ |
-| Monday 16 October    | [Workshops*](https://2023.foss4g-oceania.org/#/workshops)        | Ice breaker                                      |
+| Monday 16 October    | [Workshops\*](https://2024.foss4g-oceania.org/#/workshops)       | Ice breaker                                      |
 | Tuesday 17 October   | Day 1 of the Conference                                          | TGP Breakfast                                    |
 | Wednesday 18 October | Day 2 of the Conference                                          | Women in Geospatial Breakfast, Conference Dinner |
 | Thursday 19 October  | Day 3 of the Conference                                          | Closing night drinks                             |
-| Friday 20 October    | [Community Day](https://2023.foss4g-oceania.org/#/community-day) | TBC get together                                 |
+| Friday 20 October    | [Community Day](https://2024.foss4g-oceania.org/#/community-day) | TBC get together                                 |

@@ -7,9 +7,8 @@ promote the adoption of open source geospatial technology. All of this is done w
 the broader context of open source software philosophy and participatory community
 driven development.
 
-'**State of the Map**' or **SotM** is the conference of the **OpenStreetMap
-Foundation (OSMF)** which supports the development of a free and open editable
-world map. This takes the form of the community driven OpenStreetMap project.  
+'**State of the Map**' or **SotM** is the conference of the **OpenStreetMap Foundation (OSMF)** which supports the development of a free and open editable
+world map. This takes the form of the community driven OpenStreetMap project.
 
 '**Oceania**' – no acronyms here – This is the part of the world which is
 quite, well, ocean-y. Think Moana. Technically, Wikipedia tells us it's the

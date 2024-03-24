@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
+import React, { useEffect, useState } from "react";
+import { markdownCommonStyles } from "../utils/markdownCommonStyles";
 
 type SpeakerCardProps = {
   imgSrc: string;
@@ -86,40 +87,10 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
                   {title}
                 </h3>
 
-                <div className="mt-2 text-sm text-gray-400">
+                <div className="container prose-sm md:prose lg:prose-lg">
                   <Markdown
                     options={{
-                      overrides: {
-                        h1: {
-                          props: {
-                            className:
-                              "text-3xl font-medium text-gray-400 md:text-2xl lg:text-3xl",
-                          },
-                        },
-                        h2: {
-                          props: {
-                            className:
-                              "text-xl font-semibold text-gray-400 capitalize",
-                          },
-                        },
-                        h3: {
-                          props: {
-                            className:
-                              "text-xl font-semibold text-gray-400 capitalize",
-                          },
-                        },
-                        ul: {
-                          props: {
-                            className: "list-disc list-outside ms-8",
-                          },
-                        },
-                        a: {
-                          props: {
-                            className: "text-blue-500 underline",
-                            target: "_blank",
-                          },
-                        },
-                      },
+                      overrides: markdownCommonStyles,
                     }}
                     children={mddText}
                   />
