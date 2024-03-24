@@ -1,38 +1,10 @@
+import { MarkdownToJSX } from "markdown-to-jsx";
 import Blockquote from "../components/Blockquote";
 import Button from "../components/Button";
 import Table from "../components/Table";
 
-export const markdownCommonStyles = {
-  // h1: {
-  //   props: {
-  //     className: "text-3xl font-medium text-gray-800 md:text-2xl lg:text-3xl",
-  //   },
-  // },
-  // h2: {
-  //   props: {
-  //     className: "text-2xl font-semibold text-gray-700 capitalize",
-  //   },
-  // },
-  // h3: {
-  //   props: {
-  //     className: "text-xl font-semibold text-gray-600 capitalize",
-  //   },
-  // },
-  // ul: {
-  //   props: {
-  //     className: "list-disc list-outside ms-8",
-  //   },
-  // },
-  // p: {
-  //   props: {
-  //     className: "my-4",
-  //   },
-  // },
-  // ol: {
-  //   props: {
-  //     className: "list-decimal list-outside ms-8",
-  //   },
-  // },
+
+export const markdownCommonStyles: MarkdownToJSX.Overrides = {
   blockquote: {
     component: Blockquote,
   },
@@ -71,4 +43,9 @@ export const markdownCommonStyles = {
         "px-12 py-3.5 text-sm font-normal text-left rtl:text-right text-gray-200",
     },
   },
+  img: {
+    props: {
+      className: "popout-image"
+    }
+  }
 };

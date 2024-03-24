@@ -10,7 +10,7 @@ _lutruwita milaythina Pakana_ – Tasmania is Aboriginal land.
 
 ## About nipaluna / Hobart
 
-Hobart, nestled on the southeastern coast of Tasmania, Australia, is a charming city known for its rich history and breathtaking natural surroundings. As the capital of Tasmania, Hobart offers visitors a unique blend of cultural experiences, outdoor adventures, and culinary delights.
+nipaluna / Hobart, nestled on the southeastern coast of lutruwita / Tasmania, Australia, is a charming city known for its rich history and breathtaking natural surroundings. As the capital of Tasmania, Hobart offers visitors a unique blend of cultural experiences, outdoor adventures, and culinary delights.
 
 ![Hobart](/imgs/dock.jpeg)
 

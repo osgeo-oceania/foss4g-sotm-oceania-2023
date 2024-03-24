@@ -15,3 +15,22 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p:has(> .popout-image) {
+  margin-left: calc((-100vw + 100%) / 2);
+  width: 100vw;
+
+  @media (min-width: 768px) {
+    padding-left: 1.5rem /* 24px */;
+    padding-right: 1.5rem /* 24px */;
+  }
+
+  padding-left: 0.75rem /* 12px */;
+  padding-right: 0.75rem /* 12px */;
+}
+
+.popout-image {
+  margin: auto;
+  width: 1080px;
+  max-width: 100%;
+}
