@@ -12,7 +12,7 @@ _lutruwita milaythina Pakana_ – Tasmania is Aboriginal land.
 
 Hobart, nestled on the southeastern coast of Tasmania, Australia, is a charming city known for its rich history and breathtaking natural surroundings. As the capital of Tasmania, Hobart offers visitors a unique blend of cultural experiences, outdoor adventures, and culinary delights.
 
-![Hobart](/imgs/dock.jpg)
+![Hobart](/imgs/dock.jpeg)
 
 Embraced by the majestic kunanyi / Mt Wellington and overlooking the serene waters of timtumili minanya / River Derwent, Hobart boasts a picturesque setting that enchants travelers from around the globe. With its vibrant arts scene, historic architecture, and thriving culinary scene, Hobart offers something for everyone.
 

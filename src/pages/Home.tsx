@@ -88,7 +88,7 @@ const Home = () => {
         {/* <div className="mt-8 lg:w-1/2 lg:px-4 lg:mt-0">
           <img
             className="object-cover w-full rounded-xl h-96"
-            src="/imgs/dock.JPG"
+            src="/imgs/dock.jpeg"
             alt="Hobart Dock"
           />
         </div> */}
