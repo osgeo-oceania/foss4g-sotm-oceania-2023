@@ -37,7 +37,7 @@ const Home = () => {
             <div className="flex flex-col items-center mx-auto text-center">
               <h1 className="p-4 lg:text-6xl md:text-5xl text-3xl font-bold text-white">
                 {/* <img
-                src="/imgs/FOSS4G_2023_Logo_Colour.png"
+                src="/imgs/FOSS4G_s_Logo_Colour.png"
                 alt="FOSS4G 2023"
                 className="w-28 h-28 md:w-64 md:h-64"
               /> */}
