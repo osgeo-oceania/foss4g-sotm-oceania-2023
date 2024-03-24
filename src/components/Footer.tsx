@@ -12,13 +12,13 @@ const Footer = () => {
         <div className="lg:flex">
           <div className="w-full -mx-6 lg:w-2/5">
             <div className="px-6">
-              <a href="/">
+              {/* <a href="/">
                 <img
                   className="w-auto h-24"
                   src="/imgs/FOSS4G-2024-Logo-White.png "
                   alt=""
                 />
-              </a>
+              </a> */}
               <p className="max-w-sm mt-2 text-gray-400">
                 Join us as we discovery what's new in FOSS4G!
               </p>

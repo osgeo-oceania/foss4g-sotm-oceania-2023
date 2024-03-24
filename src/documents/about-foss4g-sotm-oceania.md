@@ -1,4 +1,6 @@
-## FOSS4G SotM Oceania - Yeah, we know that's a mouthful. Here's what it means.
+## FOSS4G SotM Oceania
+
+_Yeah, we know that's a mouthful. Here's what it means:_
 
 So let's break it down — '**Free and Open Source Software for Geospatial**' or **FOSS4G**
 if you're a fan of efficiency (we are) is the name given to the conferences of the Open
@@ -15,11 +17,11 @@ quite, well, ocean-y. Think Moana. Technically, Wikipedia tells us it's the
 geographic region made up of Australasia, Melanesia, Micronesia, and Polynesia.
 Are you from Oceania? Register now! Not from Oceania? We want you too! Come visit us!
 
-<br>
-
-## All together now!
+### All together now!
 
 FOSS4G SotM Oceania is the regional chapter of the larger global community
 and the chance to merge the two conferences into one exciting Oceania centered
 event. We are recognised as local chapters of OSGeo and the OpenStreetMap
 Foundation (OSMF).
+
+---

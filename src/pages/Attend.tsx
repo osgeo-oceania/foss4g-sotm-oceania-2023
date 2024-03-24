@@ -11,7 +11,7 @@ const AttendPage = () => {
     fetch(Content)
       .then((res) => res.text())
       .then((text) => setMddText(text));
-  });
+  }, []);
 
   return (
     <>
@@ -23,16 +23,16 @@ const AttendPage = () => {
         }}
         className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
       ></section>
-      <section className="prose-md container prose-sm md:prose lg:prose-lg">
-        <div>
+      <div className="p-6">
+        <section className="mx-auto mt-8 prose lg:prose-lg">
           <Markdown
             options={{
               overrides: markdownCommonStyles,
             }}
             children={mddText}
           />
-        </div>
-      </section>
+        </section>
+      </div>
     </>
   );
 };

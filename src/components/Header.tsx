@@ -14,17 +14,18 @@ const Header = () => {
     fetch(TopMenuMD)
       .then((res) => res.text())
       .then((text) => setMddText(text));
-  });
+  }, []);
 
   return (
     <header className="bg-blue-950 sticky top-0 z-40 flex-none w-full mx-auto">
-      <nav className="container relative flex px-6 py-1 mx-auto text-white">
+      <nav className="container relative flex px-6 py-1 mx-auto text-white h-16">
         <div className="flex items-center justify-start lg:ms-28">
-          <img
+          {/* <img
             src={"imgs/FOSS4G-2023-Logo-White.png"}
             alt="Logo"
             className="mr-4 h-14 p-1"
-          />
+          /> */}
+          <p className=" md:hidden">FOSS4G SotM Oceania: Hobart</p>
         </div>
         <div className="flex items-center justify-end flex-grow lg:me-28">
           <button

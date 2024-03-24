@@ -1,6 +1,10 @@
-# Register
+# Attend FOSS4G SotM Oceania
 
-Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.
+We will announce registration details and call for papers in the coming months. Stay tuned!
+
+![Salamanca at Hobart's waterfront](/imgs/waterfront.jpg)
+
+<!-- Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.
 
 ## Registration types
 
