@@ -4,7 +4,12 @@ import { markdownCommonStyles } from "../utils/markdownCommonStyles";
 
 export const MarkdownPage = (props: {
   markdownUrl: string;
-  headerImg: { url: string; positionX?: string; positionY?: string };
+  headerImg: {
+    url: string;
+    positionX?: string;
+    positionY?: string;
+    height?: string | number;
+  };
 }) => {
   const [mddText, setMddText] = useState("");
 
@@ -16,16 +21,21 @@ export const MarkdownPage = (props: {
 
   return (
     <>
-      <section
-        style={{
-          backgroundImage: `url('${props.headerImg.url}')`,
-          backgroundSize: "cover",
-          backgroundPosition: `${props.headerImg.positionX ?? "center"} ${
-            props.headerImg.positionY ?? "center"
-          }`,
-        }}
-        className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
-      ></section>
+      <div className=" bg-blue-950">
+        <section
+          style={{
+            backgroundRepeat: "no-repeat",
+            backgroundImage: `url('${props.headerImg.url}')`,
+            backgroundSize: "cover",
+            backgroundPosition: `${props.headerImg.positionX ?? "center"} ${
+              props.headerImg.positionY ?? "center"
+            }`,
+            height: props.headerImg.height ?? "16rem",
+            maxWidth: 1920,
+          }}
+          className="m-auto relative flex items-center justify-center bg-gray-100"
+        ></section>
+      </div>
       <div className="p-6">
         <section className="mx-auto mt-8 prose lg:prose-lg">
           <Markdown

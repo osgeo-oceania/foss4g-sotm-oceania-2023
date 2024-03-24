@@ -74,7 +74,7 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={RegisterMD}
-                headerImg={{ url: "/imgs/group photo.jpeg", positionY: "40%" }}
+                headerImg={{ url: "/imgs/group photo.jpeg", positionY: "40%", height: "20rem"}}
               />
             }
           />
