@@ -18,6 +18,7 @@ import Layout from "./pages/Layout";
 import { MarkdownPage } from "./pages/MarkdownPage";
 import NoPage from "./pages/NoPage";
 import ProgramMD from "./pages/Program";
+import ProgramOutlineMD from "./documents/program-outline.md"
 
 export default function App() {
   return (
@@ -39,7 +40,7 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={CallForPapersMD}
-                headerImg={{ url: "/imgs/main-room.jpg", positionY: "40%" }}
+                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
               />
             }
           />
@@ -89,6 +90,15 @@ export default function App() {
             }
           />
           <Route path="program" element={<ProgramMD />} />
+          <Route
+            path="program/outline"
+            element={
+              <MarkdownPage
+                markdownUrl={ProgramOutlineMD}
+                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
+              />
+            }
+          />
           <Route
             path="program/social-events"
             element={

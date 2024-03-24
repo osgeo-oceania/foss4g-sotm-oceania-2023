@@ -149,7 +149,7 @@ const ProgramPage = () => {
   useEffect(() => {
     // Fetch the data only when the component mounts
     fetch(
-      "https://talks.osgeo.org/foss4g-sotm-oceania-2023/schedule/export/schedule.json"
+      "https://talks.osgeo.org/foss4g-sotm-oceania-2024/schedule/export/schedule.json"
     )
       .then(async (response) => await response.json())
       .then((data) => {
