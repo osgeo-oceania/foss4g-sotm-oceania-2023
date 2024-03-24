@@ -44,7 +44,7 @@ const Home = () => {
                 FOSS4G SotM Oceania 2024
               </h1>
               <p className="p-2 md:mt-36 text-xl md:text-3xl font-extralight text-white">
-                Hobart, Tasmania, Australia.&nbsp;&nbsp;November 5-6, 2024.
+                Hobart, Tasmania, Australia.&nbsp;&nbsp;November 5-8, 2024.
               </p>
 
               <HashLink
