@@ -1,5 +1,6 @@
 import { HashRouter, Route, Routes } from "react-router-dom";
 import AccommodationMD from "./documents/attend/accommodation.md";
+import CallForPapersMD from "./documents/call-for-papers.md";
 import OurConferenceVenueMD from "./documents/attend/our-conference-venue.md";
 import RegisterMD from "./documents/attend/register.md";
 import SocialEventsMD from "./documents/attend/social-events.md";
@@ -30,6 +31,15 @@ export default function App() {
               <MarkdownPage
                 markdownUrl={CodeOfConduct}
                 headerImg={{ url: "/imgs/office_with_paper_work.png" }}
+              />
+            }
+          />
+          <Route
+            path="call-for-papers"
+            element={
+              <MarkdownPage
+                markdownUrl={CallForPapersMD}
+                headerImg={{ url: "/imgs/main-room.jpg", positionY: "40%" }}
               />
             }
           />
