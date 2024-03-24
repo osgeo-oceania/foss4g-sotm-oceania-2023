@@ -21,12 +21,12 @@ p:has(> .popout-image) {
   width: 100vw;
 
   @media (min-width: 768px) {
-    padding-left: 1.5rem /* 24px */;
-    padding-right: 1.5rem /* 24px */;
+    padding-top: 1.5rem /* 24px */;
+    padding-bottom: 1.5rem /* 24px */;
   }
 
-  padding-left: 0.75rem /* 12px */;
-  padding-right: 0.75rem /* 12px */;
+  padding-top: 0.75rem /* 12px */;
+  padding-bottom: 0.75rem /* 12px */;
 }
 
 .popout-image {
