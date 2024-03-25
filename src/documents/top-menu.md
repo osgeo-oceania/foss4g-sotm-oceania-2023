@@ -1,5 +1,6 @@
 - [HOME](/)
 - [CALL FOR PAPERS](#/call-for-papers)
+- [LOGO COMPETITION](#/logo-competition)
 - [ATTEND](#/attend)
 - [PROGRAM](#/program/outline)
 - [SPONSORSHIP](#/sponsorship)

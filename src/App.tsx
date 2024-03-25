@@ -19,6 +19,7 @@ import { MarkdownPage } from "./pages/MarkdownPage";
 import NoPage from "./pages/NoPage";
 import ProgramMD from "./pages/Program";
 import ProgramOutlineMD from "./documents/program-outline.md"
+import LogoCompetitionMD from "./documents/logo-competition.md"
 
 export default function App() {
   return (
@@ -40,6 +41,15 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={CallForPapersMD}
+                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
+              />
+            }
+          />
+          <Route
+            path="logo-competition"
+            element={
+              <MarkdownPage
+                markdownUrl={LogoCompetitionMD}
                 headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
               />
             }
