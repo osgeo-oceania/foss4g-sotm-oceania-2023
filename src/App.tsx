@@ -50,7 +50,7 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={LogoCompetitionMD}
-                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
+                headerImg={{ url: "/imgs/Logo_design_sketching.jpg", positionY: "60%" }}
               />
             }
           />
