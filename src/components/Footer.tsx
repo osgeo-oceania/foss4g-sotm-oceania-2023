@@ -20,7 +20,7 @@ const Footer = () => {
                 />
               </a> */}
               <p className="max-w-sm mt-2 text-gray-400">
-                Join us as we discovery what's new in FOSS4G!
+                Join us as we discover what's new in FOSS4G!
               </p>
               <div className="flex mt-6 -mx-2">
                 <a
@@ -74,6 +74,14 @@ const Footer = () => {
                 >
                   Open Source Geospatial Foundation (OSGeo)
                 </a>
+                <a
+                  href="https://osmfoundation.org/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="block mt-2 text-sm text-gray-400 hover:underline"
+                >
+                  OpenStreetMap Foundation
+                </a>
               </div>
               <div>
                 <h3 className="uppercase text-white">Related Conferences</h3>
@@ -98,10 +106,10 @@ const Footer = () => {
               <div>
                 <h3 className="uppercase text-white">Contact</h3>
                 <a
-                  href="mailto:admin@foss4g-oceania.org"
+                  href="mailto:chair@foss4g-oceania.org"
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
-                  admin@foss4g-oceania.org
+                  chair@foss4g-oceania.org
                 </a>
               </div>
             </div>
