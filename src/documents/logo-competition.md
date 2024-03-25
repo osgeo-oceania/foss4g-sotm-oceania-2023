@@ -21,12 +21,11 @@ Some examples of past logos can be found below and there are several more exampl
 <div style="width:130px"><img src="https://2019.foss4g-oceania.org/images/social-share.jpg"></div>
 <div style="width:130px"><img src="https://raw.githubusercontent.com/osgeo-oceania/2018-website-archive/master/sites/default/files/logo_image_small.png"></div>
 
-
 ## How to enter
 
 * Create your logo in PNG file format and a scalable file format (either SVG or PDF).
 * If you’re not used to scalable formats please still enter the competition as we can try to help.
-* Submit your entry to admin@foss4g-oceania.org
+* Submit your entry to [chair@foss4g-oceania.org](mailto:chair@foss4g-oceania.org).
 
 ## Prize
 
