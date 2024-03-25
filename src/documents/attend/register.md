@@ -1,6 +1,8 @@
 # Attend FOSS4G SotM Oceania
 
-We will announce registration details and call for papers in the coming months. Stay tuned!
+We will announce registration details in the coming weeks. Stay tuned!
+
+[Call for Papers](/#/call-for-papers) is now open.
 
 ![Salamanca at Hobart's waterfront](/imgs/waterfront.jpg)
 

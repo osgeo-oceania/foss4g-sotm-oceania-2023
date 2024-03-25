@@ -1,6 +1,5 @@
+# Call for Papers
 
-
-# Call for Papers 
 Presentations and Workshops are the beating heart of the FOSS4G SotM Oceania conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G SotM Oceania community forward.
 
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2024/cfp">
@@ -8,7 +7,6 @@ Presentations and Workshops are the beating heart of the FOSS4G SotM Oceania con
 </button>
 
 **All applications must be received by midnight Friday 31st May 2024, AEDT (Australian Eastern Daylight Time)**
-
 
 ## Presentations
 
@@ -26,7 +24,7 @@ Time slots come in 20 minute conference presentations or 5 minute lightning talk
 
 If you're passionate about a topic and you're skillful at conveying your hands-on knowledge and experience to others, this is for you! We are aiming to offer a diverse range of workshops for a variety of skill levels.
 
-The workshops are half day (4 hr) morning or afternoon time slots, held in a classroom setting and have a capacity of 18-32 participants.  Held during our Tuesday 5th November 2024 workshop day, workshops can be up to 4 hours long. 
+The workshops are half day (4 hr) morning or afternoon time slots, held in a classroom setting and have a capacity of 18-32 participants. Held during our Tuesday 5th November 2024 workshop day, workshops can be up to 4 hours long.
 
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2024/cfp">
     Submit your Workshop
@@ -37,9 +35,10 @@ The workshops are half day (4 hr) morning or afternoon time slots, held in a cla
 ## Tips for speakers
 
 The OSGeo community is characterized for its dynamic way of growing and we are proud of welcoming a variety of voices and ideas. If you are considering sending a proposal to our call for papers, consider the following:
+
 - FOSS4G’s backbone is free and open source, so make sure you clearly indicate what is (are) the open source project(s) essential in your talk
 - If you present new developments or a completely new open source project, make sure you point to its repository(ies) so people can follow up.
-- Topics should be either from Oceania residents, or on projects that concern or can align with Oceania. 
+- Topics should be either from Oceania residents, or on projects that concern or can align with Oceania.
 - When filling in your submission, please let us know your relationship with Oceania e.g. I live in Oceania
 
 ## Inspiration

@@ -41,7 +41,7 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={CallForPapersMD}
-                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
+                headerImg={{ url: "/imgs/present-header.jpg", positionY: "30%" }}
               />
             }
           />
@@ -105,7 +105,7 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={ProgramOutlineMD}
-                headerImg={{ url: "/imgs/main-room.jpg", positionY: "30%" }}
+                headerImg={{ url: "/imgs/workshop-lunch.jpg", positionY: "40%" }}
               />
             }
           />
