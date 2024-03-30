@@ -81,6 +81,9 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
       {menuItem.subMenuItems.length === 0 && (
         <a
           href={menuItem.href}
+          onClick={() => {
+            setMenuOpen(false);
+          }}
           className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center"
         >
           {menuItem.text}
