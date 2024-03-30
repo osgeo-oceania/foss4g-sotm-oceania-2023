@@ -14,6 +14,7 @@ export const MarkdownPage = (props: {
   const [mddText, setMddText] = useState("");
 
   useEffect(() => {
+    setMddText("");
     fetch(props.markdownUrl)
       .then((res) => res.text())
       .then((text) => setMddText(text));
