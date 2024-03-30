@@ -2,7 +2,7 @@ import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { Protocol } from "pmtiles";
 import { useEffect } from "react";
-import Map from "react-map-gl/maplibre";
+import Map, { NavigationControl } from "react-map-gl/maplibre";
 
 export const MapComponent = (props: {
   width: number | string;
@@ -24,7 +24,12 @@ export const MapComponent = (props: {
         latitude: -42.8832,
         zoom: 11,
       }}
+      onLoad={(e) => {
+        e.target.cooperativeGestures.enable();
+      }}
       mapStyle="https://api.protomaps.com/styles/v2/light.json?key=51cf1275231eb004"
-    ></Map>
+    >
+      <NavigationControl />
+    </Map>
   );
 };
