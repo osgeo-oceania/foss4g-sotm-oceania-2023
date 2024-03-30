@@ -1,25 +1,26 @@
 import { HashRouter, Route, Routes } from "react-router-dom";
 import AccommodationMD from "./documents/attend/accommodation.md";
-import CallForPapersMD from "./documents/call-for-papers.md";
 import OurConferenceVenueMD from "./documents/attend/our-conference-venue.md";
 import RegisterMD from "./documents/attend/register.md";
 import SocialEventsMD from "./documents/attend/social-events.md";
 import TravelGrantProgramMD from "./documents/attend/travel-grant-program.md";
+import CallForPapersMD from "./documents/call-for-papers.md";
 import CodeOfConduct from "./documents/code-of-conduct.md";
 import CommunityDayMD from "./documents/community-day.md";
 import GetInvolvedMD from "./documents/get-involved.md";
+import LogoCompetitionMD from "./documents/logo-competition.md";
 import OrganisersMD from "./documents/organisers.md";
 import PresentMD from "./documents/present.md";
 import ProductShowcaseMD from "./documents/product-showcase.md";
+import ProgramOutlineMD from "./documents/program-outline.md";
 import SponsorshipMD from "./documents/sponsorship.md";
 import WorkshopsMD from "./documents/workshops.md";
 import Home from "./pages/Home";
 import Layout from "./pages/Layout";
+import { MailingList } from "./pages/MailingList";
 import { MarkdownPage } from "./pages/MarkdownPage";
 import NoPage from "./pages/NoPage";
 import ProgramMD from "./pages/Program";
-import ProgramOutlineMD from "./documents/program-outline.md"
-import LogoCompetitionMD from "./documents/logo-competition.md"
 
 export default function App() {
   return (
@@ -41,7 +42,10 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={CallForPapersMD}
-                headerImg={{ url: "/imgs/present-header.jpg", positionY: "30%" }}
+                headerImg={{
+                  url: "/imgs/present-header.jpg",
+                  positionY: "30%",
+                }}
               />
             }
           />
@@ -50,7 +54,10 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={LogoCompetitionMD}
-                headerImg={{ url: "/imgs/Logo_design_sketching.jpg", positionY: "60%" }}
+                headerImg={{
+                  url: "/imgs/Logo_design_sketching.jpg",
+                  positionY: "60%",
+                }}
               />
             }
           />
@@ -95,7 +102,11 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={RegisterMD}
-                headerImg={{ url: "/imgs/group photo.jpeg", positionY: "40%", height: "20rem"}}
+                headerImg={{
+                  url: "/imgs/group photo.jpeg",
+                  positionY: "40%",
+                  height: "20rem",
+                }}
               />
             }
           />
@@ -105,7 +116,10 @@ export default function App() {
             element={
               <MarkdownPage
                 markdownUrl={ProgramOutlineMD}
-                headerImg={{ url: "/imgs/workshop-lunch.jpg", positionY: "40%" }}
+                headerImg={{
+                  url: "/imgs/workshop-lunch.jpg",
+                  positionY: "40%",
+                }}
               />
             }
           />
@@ -193,6 +207,8 @@ export default function App() {
               />
             }
           />
+
+          <Route path="mailing-list" element={<MailingList />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

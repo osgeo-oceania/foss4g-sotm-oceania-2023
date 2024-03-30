@@ -4,6 +4,8 @@ We will announce registration details in the coming weeks. Stay tuned!
 
 [Call for Papers](/#/call-for-papers) is now open.
 
+[Join our mailing list](#/mailing-list) to stay up to date with the latest news and announcements.
+
 ![Salamanca at Hobart's waterfront](/imgs/waterfront.jpg)
 
 <!-- Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.

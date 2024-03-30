@@ -25,3 +25,5 @@ event. We are recognised as local chapters of OSGeo and the OpenStreetMap
 Foundation (OSMF).
 
 ---
+
+[Join our mailing list](#/mailing-list) to stay up to date with the latest news and announcements.

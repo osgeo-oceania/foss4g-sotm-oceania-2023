@@ -106,6 +106,12 @@ const Footer = () => {
               <div>
                 <h3 className="uppercase text-white">Contact</h3>
                 <a
+                  href="#/mailing-list"
+                  className="block mt-2 text-sm text-gray-400 hover:underline"
+                >
+                  Join our Mailing List
+                </a>
+                <a
                   href="mailto:chair@foss4g-oceania.org"
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
