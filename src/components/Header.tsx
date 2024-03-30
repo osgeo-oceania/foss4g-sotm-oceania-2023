@@ -74,7 +74,9 @@ const Header = () => {
               options={{
                 overrides: {
                   ul: {
-                    component: TopMenu,
+                    component: (props) => (
+                      <TopMenu {...props} setMenuOpen={setMenuOpen} />
+                    ),
                   },
                 },
               }}

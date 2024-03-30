@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 type TopMenuProps = {
   children: React.ReactNode;
+  setMenuOpen: (menuOpen: boolean) => void;
 };
 
 type SubMenuItem = {
@@ -18,7 +19,7 @@ type RootMenuItem = {
 
 type RootMenuItems = RootMenuItem[];
 
-const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
+const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
   const headingLinks: RootMenuItems = [];
 
   React.Children.map(children, (child, _index) => {
@@ -93,6 +94,9 @@ const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
         >
           <a
             href={menuItem.href}
+            onClick={() => {
+              setMenuOpen(false);
+            }}
             className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full"
           >
             {menuItem.text}
@@ -107,7 +111,11 @@ const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
           </a>
           <div className="hidden md:block">
             <div
-              style={{ display: menuItem.isShown ? "block" : "none", left: "50%", transform: "translateX(-50%)"}}
+              style={{
+                display: menuItem.isShown ? "block" : "none",
+                left: "50%",
+                transform: "translateX(-50%)",
+              }}
               className="absolute bg-blue-950 rounded-md shadow-lg min-w-full w-fit text-center pt-4 pb-1 hidden md:inline-block"
             >
               {menuItem.subMenuItems.map((subMenuItem, subIndex) => (
@@ -127,6 +135,9 @@ const TopMenu: React.FC<TopMenuProps> = ({ children }) => {
                 <a
                   key={subIndex}
                   href={subMenuItem.href}
+                  onClick={() => {
+                    setMenuOpen(false);
+                  }}
                   className="block px-4 py-2 text-sky hover:bg-blue-900 text-center"
                 >
                   {subMenuItem.text}
