@@ -6,7 +6,7 @@ Presentations and Workshops are the beating heart of the FOSS4G SotM Oceania con
     Submit your Presentation or Workshop
 </button>
 
-**All applications must be received by midnight Friday 31st May 2024, AEDT (Australian Eastern Daylight Time)**
+**All applications must be received by midnight Monday 15th July 2024, AEDT (Australian Eastern Daylight Time)**
 
 ## Presentations
 
@@ -18,7 +18,7 @@ Time slots come in 20 minute conference presentations or 5 minute lightning talk
     Submit your Presentation
 </button>
 
-**All applications must be received by midnight Friday 31st May 2024, AEDT (Australian Eastern Daylight Time)**
+**All applications must be received by midnight Monday 15th July 2024, AEDT (Australian Eastern Daylight Time)**
 
 ## Workshops
 
@@ -30,7 +30,7 @@ The workshops are half day (4 hr) morning or afternoon time slots, held in a cla
     Submit your Workshop
 </button>
 
-**All applications must be received by midnight Friday 31st May 2024, AEDT (Australian Eastern Daylight Time)**
+**All applications must be received by midnight Monday 15th July 2024, AEDT (Australian Eastern Daylight Time)**
 
 ## Tips for speakers
 
