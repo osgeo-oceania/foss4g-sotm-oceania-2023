@@ -7,7 +7,7 @@ Check out the Design Brief below (borrowing from the SotM) that outlines what we
 
 By submitting a logo, you will be assigning an open license to OSGeo Oceania so that it can be used across different mediums. The organising committee may also commission improvements of the winning work. 
 
-**Entries need to submitted by Friday 31st May 2024**
+**Entries need to submitted by Friday 10th May 2024**
 
 The community will vote to decide which logo wins.
 
