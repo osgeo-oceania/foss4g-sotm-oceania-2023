@@ -78,7 +78,7 @@ If you have any questions or suggestions, email us at [sponsorship@foss4g-oceani
 
 ★★ Included full price conference registrations are valued at $550 / person, half-day workshop registrations are valued at $100 / person.
 
-★★★ Dinner tickets are valued at $135 / person
+★★★ Dinner tickets are valued at $110 / person
 
 ★★★★ Due to the limited space in the foyer area, trade tables can only be guaranteed to Platinum and Gold sponsors.
 
