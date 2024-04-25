@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bd2774e2.css",
-    "main.js": "/static/js/main.77217553.js",
+    "main.js": "/static/js/main.88dc871a.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.383f7aab9de57c4fa2a9.md",
     "static/media/present.md": "/static/media/present.f31ce4c203798e6cea11.md",
@@ -12,7 +12,7 @@
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
     "static/media/register.md": "/static/media/register.43dbf799669cd07a5f7c.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
-    "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
+    "static/media/travel-grant-program.md": "/static/media/travel-grant-program.347ac68a1eb177060291.md",
     "index.html": "/index.html",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.5ab9c2e754441a5d7f60.md",
@@ -20,11 +20,11 @@
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
     "static/media/top-menu.md": "/static/media/top-menu.d978b36d62672c6c2267.md",
     "main.bd2774e2.css.map": "/static/css/main.bd2774e2.css.map",
-    "main.77217553.js.map": "/static/js/main.77217553.js.map",
+    "main.88dc871a.js.map": "/static/js/main.88dc871a.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd2774e2.css",
-    "static/js/main.77217553.js"
+    "static/js/main.88dc871a.js"
   ]
 }
