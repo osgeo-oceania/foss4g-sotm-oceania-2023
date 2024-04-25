@@ -8,7 +8,7 @@ we want to stretch our limited budget as widely as possible.
 The TGP is administered by the Conference Committee (CC) and supported by OSGeo Oceania. 
 
 <br />
-<button target="https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform">
+<button target="https://docs.google.com/forms/d/1NNPSqYvYDGnbr7u6Fz8bDGfQ8m5m49gbCzBPAs9kORI/viewform?edit_requested=true">
     Apply for the travel grant program
 </button>
 
@@ -26,9 +26,9 @@ The TGP is administered by the Conference Committee (CC) and supported by OSGeo 
 
 There will be 3 tiers of grants:
 
-- Tier 1: NZD $2,500
-- Tier 2: NZD $1,500
-- Tier 3: NZD $300
+- Tier 1: AUD $2,500
+- Tier 2: AUD $1,500
+- Tier 3: AUD $300
 
 ## Criteria
 
@@ -60,5 +60,5 @@ additional criteria, with points awarded as follows:
 |                     | Date             |
 | ------------------- | ---------------- |
 | TGP grants open     | Now              |
-| Submission close    | 1st July, 2023   |
-| Recipients notified | 1st August, 2023 |
+| Submission close    | 1st June, 2024   |
+| Recipients notified | TBC |
