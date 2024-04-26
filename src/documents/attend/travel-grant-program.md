@@ -1,64 +1,45 @@
 # Travel Grant Program
 
-The Travel Grant Program (TGP) is aimed at increasing the diversity,
-impact, and reach of the conference. We are looking for worthy recipients
-who are committed to make an impact with the opportunity provided, and
-we want to stretch our limited budget as widely as possible.
+OSGeo Oceania is pleased to announce that it is again providing a Travel Grant Program (TGP) to facilitate accessibility and diversity at the FOSS4G SoTM Oceania 2024 Conference. You will find below more details about who is eligible, the type of grant tiers you can apply for, where to submit your application, and who to contact if you need assistance with the process.
 
-The TGP is administered by the Conference Committee (CC) and supported by OSGeo Oceania. 
+Applications will be accepted until midnight on the 30th June 2024 (AEST Standard Time).
 
-<br />
-<button target="https://docs.google.com/forms/d/e/1FAIpQLScpovAkdHyIz4ariAHpR8pRpmtjpM6piaDrdOBA1Wo-t9f56Q/viewform">
-    Apply for the travel grant program
+<button target="https://docs.google.com/forms/d/1NNPSqYvYDGnbr7u6Fz8bDGfQ8m5m49gbCzBPAs9kORI/viewform?edit_requested=true">
+    Apply for the Travel Grant Program
 </button>
 
-## Goals of the TGP
+## Who should apply
 
-- Bringing the power of Open Geospatial to a wider audience
-- Helping individuals become engaged in the development of Open Geospatial
-  Software, Data and Standards
-- Reaching, empowering and giving a voice to our diverse community
-  including those who might not have the financial or social means
-  to attend the conference
-- To ensure we continue to develop an inclusive community.
+Only residents in the Oceania region are entitled to apply for the grant.
+The aim of the program is to increase the chances of attendance and accessibility of this conference to community members and it especially focuses on facilitating the participation for minority groups and categories usually underrepresented. This includes, but it is not limited to:
 
-## Travel Grants
+- People from remote areas of the Oceania region, who wouldn't be able to attend without funding assistance.
+- People attending the FOSS4G SoTM Conference for the first time.
+- People from underrepresented communities, such as Indigenous communities; Residents of remote communities; and Women and minority genders.
+- Community development workers or students who don’t have workplace or government funding
+- People who will make use of what they learn to make a positive impact on themselves and their communities.
+- People who contribute to open communities, such as contributing to OpenStreetMap, or open source software.
 
-There will be 3 tiers of grants:
+## What you can apply for
 
-- Tier 1: NZD $2,500
-- Tier 2: NZD $1,500
-- Tier 3: NZD $300
+Successful applicants will be provided with free registration to the conference and workshop sessions, plus financial assistance to help cover eligible travel costs. Grants will be issued in the following tiers:
 
-## Criteria
+- Tier 1: free conference & workshop registration, plus up to AUD $3000
+- Tier 2: free conference & workshop registration, plus up to AUD $1000
+- Tier 3: free conference & workshop registration only
 
-### Eligibility Requirement
+## How to apply
 
-To be eligible, applicants must meet these three factors:
+You can find the application form [here](https://docs.google.com/forms/d/1NNPSqYvYDGnbr7u6Fz8bDGfQ8m5m49gbCzBPAs9kORI/viewform?edit_requested=true).
 
-- Applicant is from Oceania: **1 point**
-- The applicant should be in possession of a valid passport with at least six
-  months validity at the time of travel: **1 point**
-- The applicant actively contributes to and participates in the open mapping, open data,
-  open source geospatial or a related community: **1 point**
+Applicant data will be kept confidential and only used for assessing TGP applications. Please ensure that the email address provided is regularly monitored as the selection committee may seek clarification of your response.
 
+For more information, either on the disbursement of grants or guidance on the application process, please email us at tgp@foss4g-oceania.org and we will do our best to assist and accommodate you.
 
-### Additional Criteria
+The Travel Grant Program is funded by OSGeo Oceania, OSGeo Foundation, proceeds from our generous sponsors, and contributions from organisations and individuals. Please note that the number of grants available is dependent on this funding and the number of applications we receive.
 
-Applicants who meet the eligibility requirements will go through
-the next round of evaluation and will be evaluated based on the
-additional criteria, with points awarded as follows:
+<button target="https://docs.google.com/forms/d/1NNPSqYvYDGnbr7u6Fz8bDGfQ8m5m49gbCzBPAs9kORI/viewform?edit_requested=true">
+    Apply for the Travel Grant Program
+</button>
 
-- Applicant is a woman/LGBTQ/diverse: **1 point**
-- Applicant is a student: **1 point**
-- Applicant has submitted a talk or workshop proposal: **1 point**
-- First Geospatial Conference: **1 point**
-- Applicant’s motivation statement (details of contributions and participation as well as how their attendance will benefit their local community/humanitarian open mapping community): **0 to 3 points**
-
-## Timeline
-
-|                     | Date             |
-| ------------------- | ---------------- |
-| TGP grants open     | Now              |
-| Submission close    | 1st July, 2023   |
-| Recipients notified | 1st August, 2023 |
+![Sunset from Hobart's eastern shore](/imgs/sunset.jpeg)
