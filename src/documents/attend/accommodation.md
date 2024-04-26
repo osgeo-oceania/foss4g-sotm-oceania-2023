@@ -38,3 +38,11 @@ You can find a range of options on the following websites:
 - 3-star hostel, various room sizes from $80 per night.
 - Close to the waterfront, 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
 - [Website](https://www.yha.com.au/hostels/tas/hobart-surrounds/hobart-yha-backpacker-accommodation/), [Google Maps](https://maps.app.goo.gl/PAXiWDpZx9DW8Ut39), [OpenStreetMap](https://www.openstreetmap.org/way/323035623/)
+
+### Henry Jones Art Hotel
+
+- 5-star hotel with rooms starting around $350 per night.
+- A former jam factory overlooking Hobart Harbour. 10 minute drive/40 minute walk to C3.
+- [Website](https://www.thehenryjones.com/), [Google Maps](https://maps.app.goo.gl/TEvxG75s7mXb7wTJ8), [OpenStreetMap](https://www.openstreetmap.org/way/171631185/)
+
+![Sunset from Hobart's eastern shore](/imgs/sunset.jpeg)
