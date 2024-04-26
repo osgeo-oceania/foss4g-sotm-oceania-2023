@@ -27,14 +27,19 @@ You can find a range of options on the following websites:
 - 2km from CBD - 10 minute drive to C3 Conference Centre.
 - [Website](https://www.rydges.com/rates/#/hobart), [Google Maps](https://maps.app.goo.gl/FPup8VjWf5HaKGL4A), [OpenStreetMap](https://www.openstreetmap.org/way/326656042/)
 
+### YHA Central
+
+- 3-star hostel, various room sizes from $80 per night.
+- Close to the waterfront, 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://www.yha.com.au/hostels/tas/hobart-surrounds/hobart-yha-backpacker-accommodation/), [Google Maps](https://maps.app.goo.gl/PAXiWDpZx9DW8Ut39), [OpenStreetMap](https://www.openstreetmap.org/way/323035623/)
+
 ### ibis Styles Hobart
 
 - 4-star hotel 2km from CBD. Rooms from $205 per night.
 - 30 minute walk to C3 Conference Centre along the Hobart Rivulet track.
 - [Website](https://all.accor.com/hotel/B040/index.en.shtml), [Google Maps](https://maps.app.goo.gl/s94HVeuEibFj91Nd7), [OpenStreetMap](https://www.openstreetmap.org/way/664743464/)
 
-### YHA Central
-
-- 3-star hostel, various room sizes from $80 per night.
-- Close to the waterfront, 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
-- [Website](https://www.yha.com.au/hostels/tas/hobart-surrounds/hobart-yha-backpacker-accommodation/), [Google Maps](https://maps.app.goo.gl/PAXiWDpZx9DW8Ut39), [OpenStreetMap](https://www.openstreetmap.org/way/323035623/)
+### The Tasman
+- 5-star luxury hotel just next to the CBD with rooms over $300 per night.
+- 35 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://www.marriott.com/reservation/rateListMenu.mi)
