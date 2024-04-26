@@ -38,6 +38,12 @@ For more information, either on the disbursement of grants or guidance on the ap
 
 The Travel Grant Program is funded by OSGeo Oceania, OSGeo Foundation, proceeds from our generous sponsors, and contributions from organisations and individuals. Please note that the number of grants available is dependent on this funding and the number of applications we receive.
 
+## About the TGP
+
+The FOSS4G Travel Grant Program initiative was established in 2018 by the OSGeo Oceania Board to facilitate accessibility and diversity at the FOSS4G SoTM conference in Melbourne.
+
+The travel grant program is managed by the Conference Committee, in collaboration with the OSGEO Oceania Board.
+
 <button target="https://docs.google.com/forms/d/1NNPSqYvYDGnbr7u6Fz8bDGfQ8m5m49gbCzBPAs9kORI/viewform?edit_requested=true">
     Apply for the Travel Grant Program
 </button>
