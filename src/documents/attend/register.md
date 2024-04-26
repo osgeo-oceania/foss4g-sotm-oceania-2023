@@ -1,54 +1,64 @@
 # Attend FOSS4G SotM Oceania
 
-We will announce registration details in the coming weeks. Stay tuned!
-
 [Call for Papers](/#/call-for-papers) is now open.
 
-[Join our mailing list](#/mailing-list) to stay up to date with the latest news and announcements.
+[Join our Mailing List](#/mailing-list) to stay up to date with the latest news and announcements.
 
-![Salamanca at Hobart's waterfront](/imgs/waterfront.jpg)
+Here's all you need to know to attend FOSS4G SotM Oceania 2024 in Hobart.
 
-<!-- Here's all you need to know to attend FOSS4G SotM Oceania 2023 in Auckland.
+## Program outline
+
+| Date                 | Session                 | Social                           |
+| -------------------- | ----------------------- | -------------------------------- |
+| Tuesday 5 November   | Workshops               | Ice breaker                      |
+| Wednesday 6 November | Day 1 of the Conference | TGP Breakfast, Conference Dinner |
+| Thursday 7 November  | Day 2 of the Conference | Women in Geospatial Breakfast    |
+| Friday 8 November    | Community Day           | TBC get together                 |
 
 ## Registration types
 
-| Type                  | Details                                                                                                                   | Cost (NZD) |
+Includes conference registration to presentations and talks, morning tea, lunch and afternoon tea for Wednesday 6th and Thursday 7th November.
+
+It also includes access to the Ice Breaker on Tuesday 5th November and the Community Day on Friday 8th November.
+
+| Type                  | Details                                                                                                                   | Cost (AUD) |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Standard              | General registraion.                                                                                                      | $500       |
-| Early Bird            | *Extended by popular demand to 14th August 2023*                                                                          | $400       |
-| Student               | For secondary and tertiary students at any institution.                                                                   | $230       |
-| Community Contributor | For open source, open data or volunteer community contributors otherwise not supported by another organisation to attend. | $230       |
+| Early Bird            | Early bird registration, available until 15th August.                                                                     | $400       |
+| Standard              | General registration, available until 3rd October.                                                                        | $500       |
+| Last Chance           | Last minute registration after 3rd October.                                                                               | $600       |
+| Student               | For secondary and tertiary students at any institution.                                                                   | $250       |
+| Community Contributor | For open source, open data or volunteer community contributors otherwise not supported by another organisation to attend. | $300       |
 
 ## Optional extras
 
-| Type               | Details                                                                                                                                                                                                         | Cost (NZD)   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Conference Dinner  | Held at Wynyard Pavilion on the evening of Wednesday 18th. Includes 3 course meal and drink tickets.                                                                                                            | 110          |
-| Conference T-Shirt | Limited edition FOSS4G Oceania conference T-Shirt. Available in mens or womens, multiple sizes. Purchase online and then pick them up at the registration desk.                                                                                                                | 35           |
-| Good Mojo          | FOSS4G is an community conference run by the OSGeo Oceania. Any additional donations via our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. Thanks! | Your Choice! |
+| Type                          | Details                                                                                                                                                                                                                                  | Cost (AUD)   |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Conference Dinner             | Held on the evening of Wednesday 6th November, location TBA. Includes 3 course meal and drink tickets.                                                                                                                                   | $125         |
+| Women in Geospatial Breakfast | Held on the morning of Thursday 7th November, location TBA.                                                                                                                                                                              | $10          |
+| Conference T-Shirt            | Limited edition conference T-Shirt. Available in either a men's or women's cut and in multiple sizes.                                                                                                                                    | $40          |
+| Good Mojo                     | FOSS4G SotM is a community run conference by OSGeo Oceania. As a not-for-profit organisation, any additional donations to our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. | Your Choice! |
 
-<br />
-<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023">
+<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2024" className="m-auto mt-8 block">
     Conference Registration
 </button>
 
-<br />
-<br />
 ## Workshop Registration
 
+Workshops will be held on Tuesday 5th November 2024. We will post more information when the program is finalised.
+
+<!--
 **Each workshop will have capacity for a maximum of 25 participants, so register quick!**
 
-| Type                  | Details                                                                                                                   | Cost (NZD) |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Morning               | General registration for one Morning workshop on Monday 16th October 2023.                                                | $100       |
-| Afternoon             | General registration for one Afternoon workshop on Monday 16th October 2023.                                              | $100       |
+| Type      | Details                                                                      | Cost (AUD) |
+| --------- | ---------------------------------------------------------------------------- | ---------- |
+| Morning   | General registration for one Morning workshop on Monday 16th October 2023.   | $100       |
+| Afternoon | General registration for one Afternoon workshop on Monday 16th October 2023. | $100       |
 
-<br />
-<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023-workshops">
+<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2023-workshops" className="m-auto mt-8 block">
     Workshop Registration
-</button>
+</button> -->
 
-<br />
+![Salamanca at Hobart's waterfront](/imgs/waterfront.jpg)
 
 <!-- page name: Attend
 everything needs to be linked to a page

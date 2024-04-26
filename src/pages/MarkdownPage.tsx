@@ -1,6 +1,7 @@
 import Markdown from "markdown-to-jsx";
 import { useEffect, useState } from "react";
 import { markdownCommonStyles } from "../utils/markdownCommonStyles";
+import { useLocation } from "react-router-dom";
 
 export const MarkdownPage = (props: {
   markdownUrl: string;
@@ -11,6 +12,10 @@ export const MarkdownPage = (props: {
     height?: string | number;
   };
 }) => {
+  // Get current page from react router
+  const location = useLocation();
+  const pathname = location.pathname.slice(1);
+
   const [mddText, setMddText] = useState("");
 
   useEffect(() => {
@@ -38,7 +43,10 @@ export const MarkdownPage = (props: {
         ></section>
       </div>
       <div className="p-6">
-        <section className="mx-auto mt-8 prose lg:prose-lg">
+        <section
+          className="mx-auto mt-8 prose lg:prose-lg"
+          id={pathname.replace("/", "-")}
+        >
           <Markdown
             options={{
               overrides: markdownCommonStyles,
