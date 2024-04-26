@@ -1,32 +1,41 @@
 # Accommodation
 
-Auckland has a wide variety of Accommodation options, from shared houses and apartments to hotels and motels.
+Hobart has a wide variety of Accommodation options, from shared houses and apartments to hotels and motels.
 
+## Recommendations
 
-## Quest Valued Customer Rate
+### Alabama Hotel
 
-<div style="width: 350px; float: right; margin: 20px">
-    <img src="/imgs/quest-logo.jpg" />
-</div>
+- 3-star hotel - private rooms with shared bathroom. Starting from $100 per night
+- In the CBD, 35 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://www.alabamahobart.com.au/), [Google Maps](https://maps.app.goo.gl/e5DxsdTesxnEPvet5)
 
-We are pleased to offer a discounted rate supplied by [Quest serviced apartments](https://www.questapartments.co.nz/)
+### Montacute Boutique Bunkhouse
 
-Quest offers FOSS4G Oceania Conference attendees a 10% discount off the Best Flexible Rate for any delegate bookings over the conference period, at any of the following Quest Apartment Hotels using our Quest App:
+- 3-star hotel with dormitory-style bunkrooms and private rooms starting at $110 per night.
+- 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://montacute.com.au/), [Google Maps](https://maps.app.goo.gl/cGZnVDHKosdbXHRR7), [OpenStreetMap](https://www.openstreetmap.org/way/1078852139/)
 
-  * Quest Auckland
-  * Quest Carlaw Park
-  * Quest Mt Eden
-  * Quest Newmarket
-  * Quest on Beaumont
-  * Quest on Eden
-  * Quest on Hobson
-  * Quest on Queen
-  * Quest Parnell
+### Harrington's 102
 
-The promo code `FOSS4F23` is valid for stays between 15th - 21st October 2023, booked via the Quest app.
+- 3 star hotel with rooms varying from $105 to $220 per night.
+- 30 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://harringtons102.com.au/), [Google Maps](https://maps.app.goo.gl/Vm1msPn5pJJupoED9), [OpenStreetMap](https://www.openstreetmap.org/way/326663096/)
 
-QUEST APP LINK:
-https://www.questapartments.co.nz/about-quest/quest-app
+### Rydges Hobart
 
-**Please note this promo code is only valid when booking via App**
+- 3 star hotel with rooms starting around $200 per night.
+- 2km from CBD - 10 minute drive to C3 Conference Centre.
+- [Website](https://www.rydges.com/rates/#/hobart), [Google Maps](https://maps.app.goo.gl/FPup8VjWf5HaKGL4A), [OpenStreetMap](https://www.openstreetmap.org/way/326656042/)
 
+### ibis Styles Hobart
+
+- 4 star hotel 2km from CBD. Rooms from $205 per night.
+- 30 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://all.accor.com/hotel/B040/index.en.shtml), [Google Maps](https://maps.app.goo.gl/s94HVeuEibFj91Nd7), [OpenStreetMap](https://www.openstreetmap.org/way/664743464/)
+
+### YHA Central
+
+- Close to the waterfront, 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- 3 star hostel, various room sizes from $80 per night.
+- [Website](https://www.yha.com.au/hostels/tas/hobart-surrounds/hobart-yha-backpacker-accommodation/), [Google Maps](https://maps.app.goo.gl/PAXiWDpZx9DW8Ut39), [OpenStreetMap](https://www.openstreetmap.org/way/323035623/)
