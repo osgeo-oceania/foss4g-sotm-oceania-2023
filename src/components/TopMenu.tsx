@@ -95,12 +95,13 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           onMouseLeave={() => handleMouseLeave(menuItem.text)}
           className="relative"
         >
+          {/* Desktop menu - top level item */}
           <a
             href={menuItem.href}
             onClick={() => {
               setMenuOpen(false);
             }}
-            className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full"
+            className="hidden md:block font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full"
           >
             {menuItem.text}
             <svg
@@ -112,6 +113,21 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
               <path fillRule="evenodd" d="M6 8l4 4 4-4H6z" />
             </svg>
           </a>
+          {/* Mobile menu - top level item
+              Note: we disable top-level links on mobile
+          */}
+          <a className="block md:hidden font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
+            {menuItem.text}
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-4 h-4 inline ml-1"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path fillRule="evenodd" d="M6 8l4 4 4-4H6z" />
+            </svg>
+          </a>
+          {/* Desktop menu - sub items */}
           <div className="hidden md:block">
             <div
               style={{
@@ -132,6 +148,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
               ))}
             </div>
           </div>
+          {/* Mobile menu - sub items */}
           <div className="block md:hidden">
             <div style={{ display: menuItem.isShown ? "block" : "none" }}>
               {menuItem.subMenuItems.map((subMenuItem, subIndex) => (
