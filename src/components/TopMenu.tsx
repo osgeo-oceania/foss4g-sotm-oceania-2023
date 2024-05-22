@@ -116,7 +116,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           {/* Mobile menu - top level item
               Note: we disable top-level links on mobile
           */}
-          <a className="block md:hidden font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
+          <button className="block md:hidden font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
             {menuItem.text}
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -126,7 +126,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
             >
               <path fillRule="evenodd" d="M6 8l4 4 4-4H6z" />
             </svg>
-          </a>
+          </button>
           {/* Desktop menu - sub items */}
           <div className="hidden md:block">
             <div
