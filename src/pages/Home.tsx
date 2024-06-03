@@ -1,23 +1,13 @@
 import Markdown from "markdown-to-jsx";
 import { useEffect, useState } from "react";
-import { HashLink } from "react-router-hash-link";
 import { MapComponent } from "../components/Map";
-import AboutFoss4g from "../documents/about-foss4g-sotm-oceania.md";
 import Intro from "../documents/home-preamble.md";
-import Acknowledge from "../documents/acknowledgement-country.md";
 import { markdownCommonStyles } from "../utils/markdownCommonStyles";
 
 const Home = () => {
   const [introMddText, setIntroMddText] = useState("");
-  const [aboutMddText, setAboutMddText] = useState("");
-  const [acknowledgeMddText, setAcknowledgeText] = useState("");
 
-  // Fetch Terms of Use
   useEffect(() => {
-    fetch(AboutFoss4g)
-      .then((res) => res.text())
-      .then((text) => setAboutMddText(text));
-
     fetch(Intro)
       .then((res) => res.text())
       .then((text) => setIntroMddText(text));
