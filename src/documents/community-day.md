@@ -18,7 +18,7 @@ If you are interested in leading a community day event, send us an email with yo
 ## Current proposed events:
 *Check here for more information as we get closer to the conference.*
 - OSGeo Oceania 2024 Goal Working Group
-- FOSS4G SoTM 2023 Organising Committee Handover to 2024 Conference organisers
+- FOSS4G SotM 2023 Organising Committee Handover to 2024 Conference organisers
 - Business Skills Mentor Session
 
 ### Mapathon

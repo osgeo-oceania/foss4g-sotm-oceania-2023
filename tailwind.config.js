@@ -2,7 +2,18 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    container: {
+      screens: {
+        sm: '600px',
+        md: '728px',
+        lg: '984px',
+        xl: '1240px',
+      },
+    },
     extend: {
+      fontFamily: {
+        'display': ["Roboto Serif", "serif"],
+      },
       colors: {
         primary: {
           50: "#EEF5FC",

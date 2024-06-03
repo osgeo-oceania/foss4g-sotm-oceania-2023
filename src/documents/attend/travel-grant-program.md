@@ -1,6 +1,6 @@
 # Travel Grant Program
 
-OSGeo Oceania is pleased to announce that it is again providing a Travel Grant Program (TGP) to facilitate accessibility and diversity at the FOSS4G SoTM Oceania 2024 Conference. You will find below more details about who is eligible, the type of grant tiers you can apply for, where to submit your application, and who to contact if you need assistance with the process.
+OSGeo Oceania is pleased to announce that it is again providing a Travel Grant Program (TGP) to facilitate accessibility and diversity at the FOSS4G SotM Oceania 2024. You will find below more details about who is eligible, the type of grant tiers you can apply for, where to submit your application, and who to contact if you need assistance with the process.
 
 Applications will be accepted until midnight on the 30th June 2024 (AEST Standard Time).
 
@@ -14,7 +14,7 @@ Only residents in the Oceania region are entitled to apply for the grant.
 The aim of the program is to increase the chances of attendance and accessibility of this conference to community members and it especially focuses on facilitating the participation for minority groups and categories usually underrepresented. This includes, but it is not limited to:
 
 - People from remote areas of the Oceania region, who wouldn't be able to attend without funding assistance.
-- People attending the FOSS4G SoTM Conference for the first time.
+- People attending FOSS4G SotM Oceania for the first time.
 - People from underrepresented communities, such as Indigenous communities; Residents of remote communities; and Women and minority genders.
 - Community development workers or students who don’t have workplace or government funding
 - People who will make use of what they learn to make a positive impact on themselves and their communities.
@@ -40,7 +40,7 @@ The Travel Grant Program is funded by OSGeo Oceania, OSGeo Foundation, proceeds 
 
 ## About the TGP
 
-The FOSS4G Travel Grant Program initiative was established in 2018 by the OSGeo Oceania Board to facilitate accessibility and diversity at the FOSS4G SoTM conference in Melbourne.
+The FOSS4G Travel Grant Program initiative was established in 2018 by the OSGeo Oceania Board to facilitate accessibility and diversity at FOSS4G SotM Oceania in Melbourne.
 
 The travel grant program is managed by the Conference Committee, in collaboration with the OSGEO Oceania Board.
 

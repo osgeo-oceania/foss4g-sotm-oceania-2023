@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
+import { useEffect, useState } from "react";
 
 import TopMenuMD from "../documents/top-menu.md";
+import { HeaderLogo } from "./HeaderLogo";
 import TopMenu from "./TopMenu";
 
 const Header = () => {
@@ -17,17 +18,16 @@ const Header = () => {
   }, []);
 
   return (
-    <header className="bg-blue-950 sticky top-0 z-40 flex-none w-full mx-auto">
-      <nav className="container relative flex px-6 py-1 mx-auto text-white h-16">
-        <div className="flex items-center justify-start lg:ms-28">
-          {/* <img
-            src={"imgs/FOSS4G-2023-Logo-White.png"}
-            alt="Logo"
-            className="mr-4 h-14 p-1"
-          /> */}
-          <p className=" md:hidden">FOSS4G SotM Oceania: Hobart</p>
-        </div>
-        <div className="flex items-center justify-end flex-grow lg:me-28">
+    <header className="bg-white sticky top-0 z-40 flex-none w-full mx-auto">
+      <nav className="container relative flex px-6 py-1 mx-auto text-black h-16">
+        <a href="/" className="flex items-center justify-start">
+          <div>
+            <HeaderLogo/>
+
+            <p className="hidden">FOSS4G SotM Oceania 2024</p>
+          </div>
+        </a>
+        <div className="flex items-center justify-end flex-grow">
           <button
             onClick={() => setMenuOpen(!menuOpen)}
             className="md:hidden p-4"
@@ -64,11 +64,10 @@ const Header = () => {
             </span>
           </button>
           <div
-            className={`${
-              menuOpen
+            className={`${menuOpen
                 ? "translate-x-0 opacity-100"
                 : "opacity-0 -translate-x-full"
-            } absolute inset-x-0 z-30 w-full px-4 py-8 mt-4 space-y-6 transition-all duration-300 ease-in-out bg-blue-950 top-10 md:mt-0 md:p-0 md:top-0 md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center md:justify-center`}
+              } absolute inset-x-0 z-30 w-full px-4 py-8 mt-4 space-y-6 transition-all duration-300 ease-in-out text-black bg-white top-10 md:mt-0 md:p-0 md:top-0 md:relative md:bg-transparent md:w-auto md:opacity-100 md:translate-x-0 md:space-y-0 md:-mx-6 md:flex md:items-center md:justify-center`}
           >
             <Markdown
               options={{

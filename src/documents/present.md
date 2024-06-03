@@ -122,7 +122,7 @@ Lightning talks are rapid presentations strictly limited to 5 mins. Lightning ta
 - Submissions are open for editing, feel free to add your subbmission and add in images. <!--once they have been accepted. Until then, you cannot edit your submission. If you would like to update it in the meantime, please email the [program coordinator](mailto:program@foss4g-oceania.org?subject=[Submission]).-->
 - FOSS4G’s backbone is free and open source, so make sure you clearly indicate what is (are) the open source project(s) essential in your talk
 - If you present new developments or a completely new open source project, make sure you point to its repository(ies) so people can follow up. You can add in links to your submission.
-- Add in a photo of yourself and for your presentation. We will link to your presentation from the schedule page and list you as a speaker as per the [2019 FOSS4G SOTM Oceania conference](https://2019.foss4g-oceania.org/speakers/).
+- Add in a photo of yourself and for your presentation. We will link to your presentation from the schedule page and list you as a speaker as per the [2019 FOSS4G SotM Oceania](https://2019.foss4g-oceania.org/speakers/).
 - Topics should be either from Oceania residents, or on projects that concern or can align with Oceania.
 - When filling in your submission, please let us know your relationship with Oceania e.g. I live in Oceania, this project is about Oceania, this project applies to Oceania, I was born in Oceania but now I am a bigwig in San Fran & etc
 - Check out these [past presentations including lightning talks](https://www.youtube.com/@foss4gsotmoceania433/videos) for inspiration.

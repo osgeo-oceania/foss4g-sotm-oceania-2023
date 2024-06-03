@@ -27,7 +27,7 @@ export const MarkdownPage = (props: {
 
   return (
     <>
-      <div className=" bg-blue-950">
+      <div className="bg-gray-100">
         <section
           style={{
             backgroundRepeat: "no-repeat",
@@ -39,12 +39,12 @@ export const MarkdownPage = (props: {
             height: props.headerImg.height ?? "16rem",
             maxWidth: 1920,
           }}
-          className="m-auto relative flex items-center justify-center bg-gray-100"
+          className="m-auto relative flex items-center justify-center"
         ></section>
       </div>
-      <div className="p-6">
+      <div className="container mx-auto p-6">
         <section
-          className="mx-auto mt-8 prose lg:prose-lg"
+          className="mt-8 prose-base max-w-none"
           id={pathname.replace("/", "-")}
         >
           <Markdown
