@@ -34,25 +34,25 @@ const Home = () => {
             margin: "auto",
           }}
         >
-          <div className="container mx-auto grid md:grid-cols-[600px_1fr] items-center md:py-16">
+          <div className="container mx-auto px-4 grid md:grid-cols-[300px_1fr] lg:grid-cols-[600px_1fr] items-center md:py-16">
             <div className="flex flex-col">
-              <div className="p-4 lg:text-6xl md:text-5xl text-3xl font-bold text-white">
+              <div className="p-4 lg:text-6xl md:text-5xl text-3xl font-bold text-white mx-auto md:mx-0">
                 <img
                   src="/imgs/2024/2024_logo_round.png"
                   alt="FOSS4G SotM Oceania 2024"
-                  className="w-28 h-28 md:w-auto md:h-96"
+                  className="w-auto h-36 md:h-64 lg:h-96"
                 />
               </div>
             </div>
-            <div className="text-2xl font-display leading-[3rem] font-['Roboto Serif']">
-              <div>Join us for <span className="text-4xl">FOSS4G SotM Oceania</span> in <span className="text-4xl">Hobart, Tasmania</span> </div>
-              <div>from <span className="text-4xl">5-8 November 2024</span>.</div>
-              
+            <div className="hidden md:block text-center md:text-left text-lg md:text-2xl font-display font-['Roboto Serif']" style={{lineHeight: "3rem"}}>
+              <div>Join us for <span className="text-xl md:text-4xl">FOSS4G SotM Oceania</span> in <span className="text-xl md:text-4xl">Hobart, Tasmania</span> </div>
+              <div>from <span className="text-xl md:text-4xl">5 - 8 November 2024</span>.</div>
             </div>
+            <div className="md:hidden text-center text-2xl font-bold mb-4 text-white">5 - 8 November 2024</div>
           </div>
         </div>
       </section>
-      <section className="container mx-auto py-8">
+      <section className="container mx-auto py-8 px-4">
           <div className="prose-base max-w-none">
             <p className="text-lg">FOSS4G SotM Oceania is a gathering for our vibrant open geospatial community to come together and geek out over all things open geospatial.
             </p>
@@ -61,7 +61,7 @@ const Home = () => {
           </div>
       </section>
 
-      <section className="container mx-auto">
+      <section className="container mx-auto px-4">
         <div className="prose-base max-w-none">
           <Markdown
             options={{

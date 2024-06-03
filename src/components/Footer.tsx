@@ -21,7 +21,7 @@ const Footer = () => {
   return (
     <div>
        <section className="bg-gray-900 text-sm text-white">
-        <div className="container mx-auto py-8 text-italic text-center prose-sm">
+        <div className="container mx-auto px-4 py-8 text-italic text-center prose-sm">
           <Markdown
             options={{
               overrides: markdownCommonStyles,

@@ -34,7 +34,7 @@ It also includes access to the Ice Breaker on Tuesday 5th November and the Commu
 
 
 <div>
-    <img className="w-28 h-28 md:w-auto md:h-96" src="/imgs/2024/tshirts_mockup.webp">
+    <img className="w-28 h-auto md:w-auto md:h-96" src="/imgs/2024/tshirts_mockup.webp">
 </div>
 
 ## Workshop Registration
