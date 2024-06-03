@@ -84,7 +84,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           onClick={() => {
             setMenuOpen(false);
           }}
-          className="font-semibold block text-sky transition-colors duration-300 md:px-6 hover:text-black text-center"
+          className="font-semibold block text-sky transition-colors duration-300 md:px-4 lg:px-6 hover:text-black text-center"
         >
           {menuItem.text}
         </a>
@@ -101,7 +101,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
             onClick={() => {
               setMenuOpen(false);
             }}
-            className="hidden md:block font-semibold text-sky transition-colors duration-300 md:px-6 hover:text-black text-center min-w-full"
+            className="hidden md:block font-semibold text-sky transition-colors duration-300 md:px-4 lg:px-6 hover:text-black text-center min-w-full"
           >
             {menuItem.text}
             <svg
@@ -116,7 +116,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           {/* Mobile menu - top level item
               Note: we disable top-level links on mobile
           */}
-          <button className="block md:hidden font-semibold text-sky transition-colors duration-300 md:px-6 hover:text-black text-center min-w-full">
+          <button className="block md:hidden font-semibold text-sky transition-colors duration-300 md:px-4 lg:px-6 hover:text-black text-center min-w-full">
             {menuItem.text}
             <svg
               xmlns="http://www.w3.org/2000/svg"
