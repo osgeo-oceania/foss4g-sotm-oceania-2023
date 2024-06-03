@@ -84,7 +84,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           onClick={() => {
             setMenuOpen(false);
           }}
-          className="font-bold block text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center"
+          className="font-semibold block text-sky transition-colors duration-300 md:px-6 hover:text-black text-center"
         >
           {menuItem.text}
         </a>
@@ -101,7 +101,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
             onClick={() => {
               setMenuOpen(false);
             }}
-            className="hidden md:block font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full"
+            className="hidden md:block font-semibold text-sky transition-colors duration-300 md:px-6 hover:text-black text-center min-w-full"
           >
             {menuItem.text}
             <svg
@@ -116,7 +116,7 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
           {/* Mobile menu - top level item
               Note: we disable top-level links on mobile
           */}
-          <button className="block md:hidden font-bold text-sky transition-colors duration-300 md:px-6 hover:text-indigo-300 text-center min-w-full">
+          <button className="block md:hidden font-semibold text-sky transition-colors duration-300 md:px-6 hover:text-black text-center min-w-full">
             {menuItem.text}
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -135,13 +135,13 @@ const TopMenu: React.FC<TopMenuProps> = ({ children, setMenuOpen }) => {
                 left: "50%",
                 transform: "translateX(-50%)",
               }}
-              className="absolute bg-blue-950 rounded-md shadow-lg min-w-full w-fit text-center pt-4 pb-1 hidden md:inline-block"
+              className="absolute bg-white rounded-md shadow-lg min-w-full w-fit text-center pt-4 pb-1 hidden md:inline-block"
             >
               {menuItem.subMenuItems.map((subMenuItem, subIndex) => (
                 <a
                   key={subIndex}
                   href={subMenuItem.href}
-                  className="block px-4 py-2 text-sky hover:bg-blue-900 whitespace-nowrap"
+                  className="block px-4 py-2 hover:text-blue-700 whitespace-nowrap"
                 >
                   {subMenuItem.text}
                 </a>

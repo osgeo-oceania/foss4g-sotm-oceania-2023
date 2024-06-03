@@ -1,5 +1,4 @@
 - [HOME](/)
-- [LOGO COMPETITION](#/logo-competition)
 - [ATTEND](#/attend)
   - [Register](#/attend)
   - [Travel Grant Program](#/attend/travel-grant-program)

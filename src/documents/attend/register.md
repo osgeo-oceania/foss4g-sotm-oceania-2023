@@ -4,20 +4,14 @@
 
 [Join our Mailing List](#/mailing-list) to stay up to date with the latest news and announcements.
 
-Here's all you need to know to attend FOSS4G SotM Oceania 2024 in Hobart.
+## Registration
 
-## Program outline
+<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2024" className=" mt-8 block">
+    Conference Registration
+</button>
 
-| Date                 | Session                 | Social                           |
-| -------------------- | ----------------------- | -------------------------------- |
-| Tuesday 5 November   | Workshops               | Ice breaker                      |
-| Wednesday 6 November | Day 1 of the Conference | TGP Breakfast, Conference Dinner |
-| Thursday 7 November  | Day 2 of the Conference | Women in Geospatial Breakfast    |
-| Friday 8 November    | Community Day           | TBC get together                 |
 
-## Registration types
-
-Includes conference registration to presentations and talks, morning tea, lunch and afternoon tea for Wednesday 6th and Thursday 7th November.
+Registration includes conference registration to presentations and talks, morning tea, lunch and afternoon tea for Wednesday 6th and Thursday 7th November.
 
 It also includes access to the Ice Breaker on Tuesday 5th November and the Community Day on Friday 8th November.
 
@@ -35,12 +29,13 @@ It also includes access to the Ice Breaker on Tuesday 5th November and the Commu
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | Conference Dinner             | Held on the evening of Wednesday 6th November, location TBA. Includes 3 course meal and drink tickets.                                                                                                                                   | $125         |
 | Women in Geospatial Breakfast | Held on the morning of Thursday 7th November, location TBA.                                                                                                                                                                              | TBA          |
-| Conference T-Shirt            | Limited edition conference T-Shirt. Available in either a men's or women's cut and in multiple sizes.                                                                                                                                    | $40          |
-| Good Mojo                     | FOSS4G SotM is a community run conference by OSGeo Oceania. As a not-for-profit organisation, any additional donations to our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. | Your Choice! |
+| Conference T-Shirt            | Limited edition conference T-Shirt. Available in either a men's or women's cut, multiple sizes, and dark or light design (see below).                                                                                                                                    | $40          |
+| Good Mojo                     | FOSS4G SotM Oceania is a community run conference by OSGeo Oceania. As a not-for-profit organisation, any additional donations to our Good Mojo fund will go toward supporting community events, travel grant programmes and future conferences. | Your Choice! |
 
-<button target="https://ti.to/osgeo-oceania/foss4g-sotm-oceania-2024" className="m-auto mt-8 block">
-    Conference Registration
-</button>
+
+<div>
+    <img className="w-28 h-28 md:w-auto md:h-96" src="/imgs/2024/tshirts_mockup.webp">
+</div>
 
 ## Workshop Registration
 

@@ -5,8 +5,31 @@ import {
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Markdown from "markdown-to-jsx";
+import { markdownCommonStyles } from "../utils/markdownCommonStyles";
+import Acknowledge from "../documents/acknowledgement-country.md";
+import { useEffect, useState } from "react";
+
 const Footer = () => {
+  const [acknowledgeMddText, setAcknowledgeText] = useState("");
+
+  useEffect(() => {
+      fetch(Acknowledge)
+      .then((res) => res.text())
+      .then((text) => setAcknowledgeText(text));
+  }, []);
   return (
+    <div>
+       <section className="bg-gray-900 text-sm text-white">
+        <div className="container mx-auto py-8 text-italic text-center prose-sm">
+          <Markdown
+            options={{
+              overrides: markdownCommonStyles,
+            }}
+            children={acknowledgeMddText}
+          />
+        </div>
+      </section>
     <footer className="bg-blue-950">
       <div className="container p-6 mx-auto">
         <div className="lg:flex">
@@ -129,6 +152,7 @@ const Footer = () => {
         </div>
       </div>
     </footer>
+    </div>
   );
 };
 export default Footer;

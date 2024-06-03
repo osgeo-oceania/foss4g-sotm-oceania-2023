@@ -8,7 +8,7 @@ import CallForPapersMD from "./documents/call-for-papers.md";
 import CodeOfConduct from "./documents/code-of-conduct.md";
 import CommunityDayMD from "./documents/community-day.md";
 import GetInvolvedMD from "./documents/get-involved.md";
-import LogoCompetitionMD from "./documents/logo-competition.md";
+// import LogoCompetitionMD from "./documents/logo-competition.md";
 import OrganisersMD from "./documents/organisers.md";
 import PresentMD from "./documents/present.md";
 import ProductShowcaseMD from "./documents/product-showcase.md";
@@ -49,7 +49,7 @@ export default function App() {
               />
             }
           />
-          <Route
+          {/* <Route
             path="logo-competition"
             element={
               <MarkdownPage
@@ -60,7 +60,7 @@ export default function App() {
                 }}
               />
             }
-          />
+          /> */}
           <Route
             path="attend/present"
             element={

@@ -50,7 +50,7 @@ The logo will appear in the conference website, social media, flyers, emails, sp
 * Be easily printable on t-shirts with as few colours as possible. This keeps the cost of printing down.
 * Work well on different coloured backgrounds (or have alternatives for light and dark backgrounds).
 * Be delivered in PNG file format and a scalable format (SVG or PDF).
-* Be different from other mapping conference logos (Where 2.0, ESRI, SOTM…)
+* Be different from other mapping conference logos (Where 2.0, ESRI, SotM…)
 * Not communicate the brand of potential sponsors or related companies
 * Not include copyrighted material that is not yours
 

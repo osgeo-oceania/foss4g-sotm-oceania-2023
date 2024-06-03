@@ -24,7 +24,7 @@ const AttendPage = () => {
         className="relative flex items-center justify-center h-64 bg-gray-100 bg-no-repeat bg-cover bg-center"
       ></section>
       <div className="p-6">
-        <section className="mx-auto mt-8 prose lg:prose-lg">
+        <section className="mx-auto mt-8 prose-base max-w-none">
           <Markdown
             options={{
               overrides: markdownCommonStyles,

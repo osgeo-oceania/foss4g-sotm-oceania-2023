@@ -87,7 +87,7 @@ const SpeakerCard: React.FC<SpeakerCardProps> = ({
                   {title}
                 </h3>
 
-                <div className="mx-auto mt-8 prose lg:prose-lg">
+                <div className="mx-auto mt-8 prose-base max-w-none">
                   <Markdown
                     options={{
                       overrides: markdownCommonStyles,
