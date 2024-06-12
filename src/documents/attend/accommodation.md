@@ -23,15 +23,9 @@ You can find a range of options on the following websites:
 
 ### Rydges Hobart
 
-- 3-star hotel with rooms starting around $200 per night.
-- 2km from CBD - 10 minute drive to C3 Conference Centre.
-- [Website](https://www.rydges.com/rates/#/hobart), [Google Maps](https://maps.app.goo.gl/FPup8VjWf5HaKGL4A), [OpenStreetMap](https://www.openstreetmap.org/way/326656042/)
-
-### YHA Central
-
-- 3-star hostel, various room sizes from $80 per night.
-- Close to the waterfront, 40 minute walk to C3 Conference Centre along the Hobart Rivulet track.
-- [Website](https://www.yha.com.au/hostels/tas/hobart-surrounds/hobart-yha-backpacker-accommodation/), [Google Maps](https://maps.app.goo.gl/PAXiWDpZx9DW8Ut39), [OpenStreetMap](https://www.openstreetmap.org/way/323035623/)
+- 3-star hotel with rooms starting around $150 per night (discounted).
+- 2km from CBD - 10 minute drive or a long walk to C3 Conference Centre.
+- [Website](https://www.rydges.com/private-page/rydges-hobart-external-conference-rate/), [Google Maps](https://maps.app.goo.gl/FPup8VjWf5HaKGL4A), [OpenStreetMap](https://www.openstreetmap.org/way/326656042/)
 
 ### YHA Central
 
