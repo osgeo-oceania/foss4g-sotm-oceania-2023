@@ -1,6 +1,7 @@
 import Markdown from "markdown-to-jsx";
 import { useEffect, useState } from "react";
 import { MapComponent } from "../components/Map";
+import SponsorshipLevels from "../components/SponsorshipLevels";
 import Intro from "../documents/home-preamble.md";
 import { markdownCommonStyles } from "../utils/markdownCommonStyles";
 
@@ -62,10 +63,9 @@ const Home = () => {
           </div>
       </section>
 
+      <SponsorshipLevels />
 
       <MapComponent width={"100vw"} height={400} />
-
-      {/* <SponsorshipLevels /> */}
     </div>
   );
 };

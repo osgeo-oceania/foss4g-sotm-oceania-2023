@@ -36,3 +36,12 @@ p:has(> .popout-image) {
 #attend table {
   max-width: 850px;
 }
+
+.sponsor-card  {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+  transition: all 0.15s ease-in-out;
+}
+
+.sponsor-card:hover {
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
