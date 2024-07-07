@@ -23,7 +23,7 @@ You can find a range of options on the following websites:
 
 ### Rydges Hobart
 
-- 3-star hotel with rooms starting around $150 per night (discounted).
+- 3-star hotel with rooms starting around $150 per night (**discounted rate**).
 - 2km from CBD - 10 minute drive or a long walk to C3 Conference Centre.
 - [Website](https://www.rydges.com/private-page/rydges-hobart-external-conference-rate/), [Google Maps](https://maps.app.goo.gl/FPup8VjWf5HaKGL4A), [OpenStreetMap](https://www.openstreetmap.org/way/326656042/)
 
@@ -39,18 +39,16 @@ You can find a range of options on the following websites:
 - 30 minute walk to C3 Conference Centre along the Hobart Rivulet track.
 - [Website](https://all.accor.com/hotel/B040/index.en.shtml), [Google Maps](https://maps.app.goo.gl/s94HVeuEibFj91Nd7), [OpenStreetMap](https://www.openstreetmap.org/way/664743464/)
 
-### The Tasman
-- 5-star luxury hotel just next to the CBD with rooms over $300 per night.
-- 35 minute walk to C3 Conference Centre along the Hobart Rivulet track.
-- [Website](https://www.marriott.com/reservation/rateListMenu.mi)
-
 ### Henry Jones Art Hotel
 
 - 5-star hotel with rooms starting around $350 per night.
 - A former jam factory overlooking Hobart Harbour. 10 minute drive/40 minute walk to C3.
 - [Website](https://www.thehenryjones.com/), [Google Maps](https://maps.app.goo.gl/TEvxG75s7mXb7wTJ8), [OpenStreetMap](https://www.openstreetmap.org/way/171631185/)
 
+### The Tasman
+
+- 5-star luxury hotel just next to the CBD with rooms over $450 per night.
+- 35 minute walk to C3 Conference Centre along the Hobart Rivulet track.
+- [Website](https://www.marriott.com/reservation/rateListMenu.mi)
 
 ![Sunset from Hobart's eastern shore](/imgs/sunset.jpeg)
-
-
