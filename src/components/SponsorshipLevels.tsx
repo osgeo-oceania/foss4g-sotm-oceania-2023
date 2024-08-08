@@ -63,6 +63,10 @@ const SponsorshipLevels = () => {
                 link: "https://www.utas.edu.au/",
                 imgSrc: "./imgs/sponsors/utas.svg",
               },
+              {
+                link: "https://c3conventioncentre.com.au/",
+                imgSrc: "./imgs/sponsors/c3.png",
+              },
             ]}
           />
         </div>
