@@ -50,17 +50,21 @@ const SponsorshipLevels = () => {
                 link: "https://auspatious.com/",
                 imgSrc: "./imgs/sponsors/auspatious.png",
               },
+              {
+                link: "https://www.tomtom.com/",
+                imgSrc: "./imgs/sponsors/tomtom.png",
+              },
             ]}
           />
-          {/* <SponsorshipLevel
+          <SponsorshipLevel
             title="Venue Sponsors"
             cards={[
               {
-                link: "https://www.auckland.ac.nz/",
-                imgSrc: "./imgs/sponsorship-levels/venue/scaled-School-of Future-Enviroments.png",
+                link: "https://www.utas.edu.au/",
+                imgSrc: "./imgs/sponsors/utas.svg",
               },
             ]}
-          /> */}
+          />
         </div>
       </section>
     </>
