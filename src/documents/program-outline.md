@@ -13,8 +13,16 @@ The general program outline for sessions and social events is as follows...
 
 We expect to be able to publish the full schedule of daily conference sessions and workshops on the **16th August 2024**.
 
-## Want to be part of our Program?
+<!-- ## Want to be part of our Program?
 
 Presentations and Workshops are the beating heart of the FOSS4G SotM Oceania conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G SotM Oceania community forward.
 
-For more information visit our [Call for Papers](/#/call-for-papers) page.
+For more information visit our [Call for Papers](/#/call-for-papers) page. -->
+
+## Community Voting
+
+Community voting is now open for the FOSS4G SotM Oceania 2024 conference. You can vote for your favourite presentations to help shape the conference program.
+
+<button target="https://talks.osgeo.org/foss4g-sotm-oceania-2024/p/voting/signup/">
+    Vote now!
+</button>

@@ -6,4 +6,5 @@
 - [PROGRAM](#/program/outline)
   - [Outline](#/program/outline)
   - [Call for Papers](#/call-for-papers)
+  - [Community Voting](https://talks.osgeo.org/foss4g-sotm-oceania-2024/p/voting/signup/)
 - [SPONSORSHIP](#/sponsorship)

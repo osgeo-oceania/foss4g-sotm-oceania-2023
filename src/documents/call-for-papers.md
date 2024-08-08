@@ -1,5 +1,14 @@
 # Call for Papers
 
+**Call for papers is now closed**.
+
+Community voting is now open for the FOSS4G SotM Oceania 2024 conference. You can vote for your favourite presentations to help shape the conference program.
+
+<button target="https://talks.osgeo.org/foss4g-sotm-oceania-2024/p/voting/signup/">
+    Vote now!
+</button>
+
+<!-- 
 Presentations and Workshops are the beating heart of the FOSS4G SotM Oceania conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G SotM Oceania community forward.
 
 <button target="https://talks.osgeo.org/foss4g-sotm-oceania-2024/cfp">
@@ -48,4 +57,4 @@ Check out our videos of [past presentations](https://www.youtube.com/@foss4g-sot
 ## What we expect from you as a speaker
 
 We believe in equality, so all presenters have the same exact amount of time to present their work, according to their contribution type. Please consider that when preparing your slides and be mindful about the time.
-And last, but not least, the success of this event lies in the responsible actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
+And last, but not least, the success of this event lies in the responsible actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible. -->

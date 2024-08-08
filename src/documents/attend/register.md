@@ -1,6 +1,8 @@
 # Attend FOSS4G SotM Oceania
 
-[Call for Papers](/#/call-for-papers) is now open.
+<!-- [Call for Papers](/#/call-for-papers) is now open. -->
+
+[Community voting](https://talks.osgeo.org/foss4g-sotm-oceania-2024/p/voting/signup/) is now open. You can vote for your favourite presentations to help shape the conference program.
 
 [Join our Mailing List](#/mailing-list) to stay up to date with the latest news and announcements.
 
